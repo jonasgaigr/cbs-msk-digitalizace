@@ -1,0 +1,3342 @@
+{
+ "hits": {
+  "hits": [
+   {
+    "created": "2026-04-27T10:11:33.636214+00:00",
+    "modified": "2026-04-27T10:11:34.183283+00:00",
+    "id": 18173720,
+    "conceptrecid": "18173719",
+    "doi": "10.5281/zenodo.18173720",
+    "conceptdoi": "10.5281/zenodo.18173719",
+    "doi_url": "https://doi.org/10.5281/zenodo.18173720",
+    "metadata": {
+     "title": "Patnácté číslo",
+     "doi": "10.5281/zenodo.18173720",
+     "publication_date": "2026-02",
+     "access_right": "open",
+     "creators": [
+      {
+       "name": "Taraška, Vojtěch",
+       "affiliation": "Moravian Museum",
+       "orcid": "0000-0001-5744-3943"
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "4",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "15"
+     },
+     "imprint": {
+      "isbn": "978-80-909457-0-8"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "18173719"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Patnácté číslo",
+    "links": {
+     "self": "https://zenodo.org/api/records/18173720",
+     "self_html": "https://zenodo.org/records/18173720",
+     "preview_html": "https://zenodo.org/records/18173720?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.18173720",
+     "self_doi": "https://doi.org/10.5281/zenodo.18173720",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18173720",
+     "reserve_doi": "https://zenodo.org/api/records/18173720/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/18173719",
+     "parent_html": "https://zenodo.org/records/18173719",
+     "parent_doi": "https://doi.org/10.5281/zenodo.18173719",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18173719",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18173720/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18173720/sequence/default",
+     "files": "https://zenodo.org/api/records/18173720/files",
+     "media_files": "https://zenodo.org/api/records/18173720/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:18173720:ZMSP_2026_Editorial.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:18173720:ZMSP_2026_Editorial.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:18173720:ZMSP_2026_Editorial.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:18173720:ZMSP_2026_Editorial.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:18173720:ZMSP_2026_Editorial.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:18173720:ZMSP_2026_Editorial.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/18173720/files-archive",
+     "archive_media": "https://zenodo.org/api/records/18173720/media-files-archive",
+     "latest": "https://zenodo.org/api/records/18173720/versions/latest",
+     "latest_html": "https://zenodo.org/records/18173720/latest",
+     "versions": "https://zenodo.org/api/records/18173720/versions",
+     "draft": "https://zenodo.org/api/records/18173720/draft",
+     "access_links": "https://zenodo.org/api/records/18173720/access/links",
+     "access_grants": "https://zenodo.org/api/records/18173720/access/grants",
+     "access_users": "https://zenodo.org/api/records/18173720/access/users",
+     "access_request": "https://zenodo.org/api/records/18173720/access/request",
+     "access": "https://zenodo.org/api/records/18173720/access",
+     "communities": "https://zenodo.org/api/records/18173720/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/18173720/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/18173720/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/18173720/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/18173720/quota-increase",
+     "requests": "https://zenodo.org/api/records/18173720/requests"
+    },
+    "updated": "2026-04-27T10:11:34.183283+00:00",
+    "recid": "18173720",
+    "revision": 4,
+    "files": [
+     {
+      "id": "d3b32e82-aceb-4f69-adec-410a373569af",
+      "key": "ZMSP_2026_Editorial.pdf",
+      "size": 89505,
+      "checksum": "md5:173baba8f24c3389c8f3ece34f87013b",
+      "links": {
+       "self": "https://zenodo.org/api/records/18173720/files/ZMSP_2026_Editorial.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 10,
+     "unique_downloads": 9,
+     "views": 31,
+     "unique_views": 31,
+     "version_downloads": 10,
+     "version_unique_downloads": 9,
+     "version_unique_views": 31,
+     "version_views": 31
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2026-04-10T21:54:56.139824+00:00",
+    "modified": "2026-04-10T21:54:56.556407+00:00",
+    "id": 18174346,
+    "conceptrecid": "18174345",
+    "doi": "10.5281/zenodo.18174346",
+    "conceptdoi": "10.5281/zenodo.18174345",
+    "doi_url": "https://doi.org/10.5281/zenodo.18174346",
+    "metadata": {
+     "title": "Publikace členů Moravskoslezské pobočky ČBS v roce 2025",
+     "doi": "10.5281/zenodo.18174346",
+     "publication_date": "2026-04",
+     "access_right": "open",
+     "creators": [
+      {
+       "name": "Hroneš, Michal",
+       "affiliation": "Palacký University Olomouc",
+       "orcid": "0000-0002-0380-929X"
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "78-82",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "15"
+     },
+     "imprint": {
+      "isbn": "978-80-909457-0-8"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "18174345"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Publikace členů Moravskoslezské pobočky ČBS v roce 2025",
+    "links": {
+     "self": "https://zenodo.org/api/records/18174346",
+     "self_html": "https://zenodo.org/records/18174346",
+     "preview_html": "https://zenodo.org/records/18174346?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.18174346",
+     "self_doi": "https://doi.org/10.5281/zenodo.18174346",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174346",
+     "reserve_doi": "https://zenodo.org/api/records/18174346/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/18174345",
+     "parent_html": "https://zenodo.org/records/18174345",
+     "parent_doi": "https://doi.org/10.5281/zenodo.18174345",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174345",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18174346/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18174346/sequence/default",
+     "files": "https://zenodo.org/api/records/18174346/files",
+     "media_files": "https://zenodo.org/api/records/18174346/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:18174346:ZMSP_2026_Ruz_Hrones.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:18174346:ZMSP_2026_Ruz_Hrones.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:18174346:ZMSP_2026_Ruz_Hrones.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:18174346:ZMSP_2026_Ruz_Hrones.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:18174346:ZMSP_2026_Ruz_Hrones.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:18174346:ZMSP_2026_Ruz_Hrones.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/18174346/files-archive",
+     "archive_media": "https://zenodo.org/api/records/18174346/media-files-archive",
+     "latest": "https://zenodo.org/api/records/18174346/versions/latest",
+     "latest_html": "https://zenodo.org/records/18174346/latest",
+     "versions": "https://zenodo.org/api/records/18174346/versions",
+     "draft": "https://zenodo.org/api/records/18174346/draft",
+     "access_links": "https://zenodo.org/api/records/18174346/access/links",
+     "access_grants": "https://zenodo.org/api/records/18174346/access/grants",
+     "access_users": "https://zenodo.org/api/records/18174346/access/users",
+     "access_request": "https://zenodo.org/api/records/18174346/access/request",
+     "access": "https://zenodo.org/api/records/18174346/access",
+     "communities": "https://zenodo.org/api/records/18174346/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/18174346/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/18174346/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/18174346/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/18174346/quota-increase",
+     "requests": "https://zenodo.org/api/records/18174346/requests"
+    },
+    "updated": "2026-04-10T21:54:56.556407+00:00",
+    "recid": "18174346",
+    "revision": 4,
+    "files": [
+     {
+      "id": "88d9c057-c56f-42e7-87cc-629024668cc5",
+      "key": "ZMSP_2026_Ruz_Hrones.pdf",
+      "size": 125616,
+      "checksum": "md5:04c2eaa8ec10970395d35b8dfe6a11c1",
+      "links": {
+       "self": "https://zenodo.org/api/records/18174346/files/ZMSP_2026_Ruz_Hrones.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 17,
+     "unique_downloads": 15,
+     "views": 23,
+     "unique_views": 21,
+     "version_downloads": 17,
+     "version_unique_downloads": 15,
+     "version_unique_views": 21,
+     "version_views": 23
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2026-04-10T21:54:28.803146+00:00",
+    "modified": "2026-04-10T21:54:28.989086+00:00",
+    "id": 18174262,
+    "conceptrecid": "18174261",
+    "doi": "10.5281/zenodo.18174262",
+    "conceptdoi": "10.5281/zenodo.18174261",
+    "doi_url": "https://doi.org/10.5281/zenodo.18174262",
+    "metadata": {
+     "title": "Šíření pryšce skvrnitého (Euphorbia maculata) na území Olomouckého a Moravskoslezského kraje",
+     "doi": "10.5281/zenodo.18174262",
+     "publication_date": "2026-04",
+     "description": "<p class=\"MsoNormal\"><span>The paper summarises the recent distribution of <em>Euphorbia maculata </em>in northern Moravia and Silesia. It is an alien species originating from (sub)tropical North America. It was <span>&nbsp;</span>likely introduced into the region in the 1940s. In the last two decades, the number of new localities of this species has increased rapidly. At present, it is known from the majority of phytochorions in the region, with the exception of mountain areas. The species is most widespread in the city of Olomouc, where it shows a tendency towards invasive behaviour. <em>Euphorbia maculata </em>occurs as a ruderal species and tolerates trampling. This thermophilous plant occurs in town squares, cemeteries and pebble-covered sites, among other habitats. Its spread is facilitated by the warm summer seasons of recent years.</span></p>",
+     "access_right": "embargoed",
+     "embargo_date": "2026-09-30",
+     "creators": [
+      {
+       "name": "Lukešová, Zuzana",
+       "affiliation": null
+      },
+      {
+       "name": "Juřica, Jan",
+       "affiliation": null
+      },
+      {
+       "name": "Kafková, Věra",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "67-77",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "15"
+     },
+     "imprint": {
+      "isbn": "978-80-909457-0-8"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "18174261"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Šíření pryšce skvrnitého (Euphorbia maculata) na území Olomouckého a Moravskoslezského kraje",
+    "links": {
+     "self": "https://zenodo.org/api/records/18174262",
+     "self_html": "https://zenodo.org/records/18174262",
+     "preview_html": "https://zenodo.org/records/18174262?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.18174262",
+     "self_doi": "https://doi.org/10.5281/zenodo.18174262",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174262",
+     "reserve_doi": "https://zenodo.org/api/records/18174262/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/18174261",
+     "parent_html": "https://zenodo.org/records/18174261",
+     "parent_doi": "https://doi.org/10.5281/zenodo.18174261",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174261",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18174262/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18174262/sequence/default",
+     "files": "https://zenodo.org/api/records/18174262/files",
+     "media_files": "https://zenodo.org/api/records/18174262/media-files",
+     "archive": "https://zenodo.org/api/records/18174262/files-archive",
+     "archive_media": "https://zenodo.org/api/records/18174262/media-files-archive",
+     "latest": "https://zenodo.org/api/records/18174262/versions/latest",
+     "latest_html": "https://zenodo.org/records/18174262/latest",
+     "versions": "https://zenodo.org/api/records/18174262/versions",
+     "draft": "https://zenodo.org/api/records/18174262/draft",
+     "access_links": "https://zenodo.org/api/records/18174262/access/links",
+     "access_grants": "https://zenodo.org/api/records/18174262/access/grants",
+     "access_users": "https://zenodo.org/api/records/18174262/access/users",
+     "access_request": "https://zenodo.org/api/records/18174262/access/request",
+     "access": "https://zenodo.org/api/records/18174262/access",
+     "communities": "https://zenodo.org/api/records/18174262/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/18174262/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/18174262/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/18174262/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/18174262/quota-increase",
+     "requests": "https://zenodo.org/api/records/18174262/requests"
+    },
+    "updated": "2026-04-10T21:54:28.989086+00:00",
+    "recid": "18174262",
+    "revision": 4,
+    "files": [],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 3,
+     "unique_downloads": 2,
+     "views": 36,
+     "unique_views": 35,
+     "version_downloads": 3,
+     "version_unique_downloads": 2,
+     "version_unique_views": 35,
+     "version_views": 36
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2026-04-10T21:53:09.817996+00:00",
+    "modified": "2026-04-10T21:53:09.988805+00:00",
+    "id": 18174212,
+    "conceptrecid": "18174211",
+    "doi": "10.5281/zenodo.18174212",
+    "conceptdoi": "10.5281/zenodo.18174211",
+    "doi_url": "https://doi.org/10.5281/zenodo.18174212",
+    "metadata": {
+     "title": "Floristická překvapení v korytě otrávené řeky aneb jak Bečvě opět prospěla povodeň",
+     "doi": "10.5281/zenodo.18174212",
+     "publication_date": "2026-04",
+     "description": "<p class=\"MsoNormal\"><span>This paper presents noteworthy floristic records of vascular plants from the riverbed of the Bečva River, one of the few remaining Czech rivers with exposed gravel deposits. During the late phase of the previous growing season, the river was strongly affected by flash floods.Several interesting species, including endangered taxa and neophytes, were recorded during 2025, almost exclusively on gravel bars. Notable findings among the endangered species included <em>Elatine triandra</em>, <em>Kickxia elatine </em>and <em>Ranunculus sardous</em>, all previously unrecorded from the Bečva River. Such discoveries underscore the importance of gravel deposits, which are extraordinary features of the local landscape.</span></p>",
+     "access_right": "embargoed",
+     "embargo_date": "2026-09-30",
+     "creators": [
+      {
+       "name": "Obrtlík, Ondřej",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "52-66",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "15"
+     },
+     "imprint": {
+      "isbn": "978-80-909457-0-8"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "18174211"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Floristická překvapení v korytě otrávené řeky aneb jak Bečvě opět prospěla povodeň",
+    "links": {
+     "self": "https://zenodo.org/api/records/18174212",
+     "self_html": "https://zenodo.org/records/18174212",
+     "preview_html": "https://zenodo.org/records/18174212?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.18174212",
+     "self_doi": "https://doi.org/10.5281/zenodo.18174212",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174212",
+     "reserve_doi": "https://zenodo.org/api/records/18174212/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/18174211",
+     "parent_html": "https://zenodo.org/records/18174211",
+     "parent_doi": "https://doi.org/10.5281/zenodo.18174211",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174211",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18174212/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18174212/sequence/default",
+     "files": "https://zenodo.org/api/records/18174212/files",
+     "media_files": "https://zenodo.org/api/records/18174212/media-files",
+     "archive": "https://zenodo.org/api/records/18174212/files-archive",
+     "archive_media": "https://zenodo.org/api/records/18174212/media-files-archive",
+     "latest": "https://zenodo.org/api/records/18174212/versions/latest",
+     "latest_html": "https://zenodo.org/records/18174212/latest",
+     "versions": "https://zenodo.org/api/records/18174212/versions",
+     "draft": "https://zenodo.org/api/records/18174212/draft",
+     "access_links": "https://zenodo.org/api/records/18174212/access/links",
+     "access_grants": "https://zenodo.org/api/records/18174212/access/grants",
+     "access_users": "https://zenodo.org/api/records/18174212/access/users",
+     "access_request": "https://zenodo.org/api/records/18174212/access/request",
+     "access": "https://zenodo.org/api/records/18174212/access",
+     "communities": "https://zenodo.org/api/records/18174212/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/18174212/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/18174212/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/18174212/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/18174212/quota-increase",
+     "requests": "https://zenodo.org/api/records/18174212/requests"
+    },
+    "updated": "2026-04-10T21:53:09.988805+00:00",
+    "recid": "18174212",
+    "revision": 4,
+    "files": [],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 3,
+     "unique_downloads": 2,
+     "views": 41,
+     "unique_views": 39,
+     "version_downloads": 3,
+     "version_unique_downloads": 2,
+     "version_unique_views": 39,
+     "version_views": 41
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2026-04-10T21:51:23.696710+00:00",
+    "modified": "2026-04-10T21:51:23.892396+00:00",
+    "id": 18174161,
+    "conceptrecid": "18174160",
+    "doi": "10.5281/zenodo.18174161",
+    "conceptdoi": "10.5281/zenodo.18174160",
+    "doi_url": "https://doi.org/10.5281/zenodo.18174161",
+    "metadata": {
+     "title": "Bryologická exkurze na Palkovické hůrky u Hukvald",
+     "doi": "10.5281/zenodo.18174161",
+     "publication_date": "2026-04",
+     "description": "<p class=\"MsoNormal\"><span>A total of 49 mostly common bryophyte species (3 liverworts and 46 mosses) were recorded during the excursion to the Palkovick&eacute; hůrky hills near the village of Hukvaldy (Moravia, Czech Republic) on September 27, 2025. Only two species are listed in the Red List under Least Concern &ndash; attention list. The moss <em>Ptilium crista-castrensis </em>is quite rare in the region, while <em>Hypnum pallescens </em>is scattered in the area of the Moravian Carpathians. Other species worth noting include <em>Dicranoweisia cirrata</em>, <em>Dicranum tauricum </em>and <em>Syntrichia virescens</em>. Rich populations of the invasive moss <em>Campylopus introflexus </em>were also found.</span></p>",
+     "access_right": "embargoed",
+     "embargo_date": "2026-09-30",
+     "creators": [
+      {
+       "name": "Hradílek, Zbyněk",
+       "affiliation": null,
+       "orcid": "0000-0002-6724-9965"
+      },
+      {
+       "name": "Tkáčiková, Jana",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "47-51",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "15"
+     },
+     "imprint": {
+      "isbn": "978-80-909457-0-8"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "18174160"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Bryologická exkurze na Palkovické hůrky u Hukvald",
+    "links": {
+     "self": "https://zenodo.org/api/records/18174161",
+     "self_html": "https://zenodo.org/records/18174161",
+     "preview_html": "https://zenodo.org/records/18174161?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.18174161",
+     "self_doi": "https://doi.org/10.5281/zenodo.18174161",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174161",
+     "reserve_doi": "https://zenodo.org/api/records/18174161/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/18174160",
+     "parent_html": "https://zenodo.org/records/18174160",
+     "parent_doi": "https://doi.org/10.5281/zenodo.18174160",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174160",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18174161/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18174161/sequence/default",
+     "files": "https://zenodo.org/api/records/18174161/files",
+     "media_files": "https://zenodo.org/api/records/18174161/media-files",
+     "archive": "https://zenodo.org/api/records/18174161/files-archive",
+     "archive_media": "https://zenodo.org/api/records/18174161/media-files-archive",
+     "latest": "https://zenodo.org/api/records/18174161/versions/latest",
+     "latest_html": "https://zenodo.org/records/18174161/latest",
+     "versions": "https://zenodo.org/api/records/18174161/versions",
+     "draft": "https://zenodo.org/api/records/18174161/draft",
+     "access_links": "https://zenodo.org/api/records/18174161/access/links",
+     "access_grants": "https://zenodo.org/api/records/18174161/access/grants",
+     "access_users": "https://zenodo.org/api/records/18174161/access/users",
+     "access_request": "https://zenodo.org/api/records/18174161/access/request",
+     "access": "https://zenodo.org/api/records/18174161/access",
+     "communities": "https://zenodo.org/api/records/18174161/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/18174161/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/18174161/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/18174161/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/18174161/quota-increase",
+     "requests": "https://zenodo.org/api/records/18174161/requests"
+    },
+    "updated": "2026-04-10T21:51:23.892396+00:00",
+    "recid": "18174161",
+    "revision": 4,
+    "files": [],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 3,
+     "unique_downloads": 2,
+     "views": 24,
+     "unique_views": 24,
+     "version_downloads": 3,
+     "version_unique_downloads": 2,
+     "version_unique_views": 24,
+     "version_views": 24
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2026-04-10T21:45:39.083840+00:00",
+    "modified": "2026-04-10T21:45:39.237270+00:00",
+    "id": 18174137,
+    "conceptrecid": "18174136",
+    "doi": "10.5281/zenodo.18174137",
+    "conceptdoi": "10.5281/zenodo.18174136",
+    "doi_url": "https://doi.org/10.5281/zenodo.18174137",
+    "metadata": {
+     "title": "Co přinesla velká voda?",
+     "doi": "10.5281/zenodo.18174137",
+     "publication_date": "2026-04",
+     "description": "<p class=\"MsoNormal\"><span>This report presents a brief overview of an entomological and botanical field excursion conducted along the Odra River in Ostrava on 30 August 2025, aimed at documenting post-flood conditions following the major flood of the previous year. Flood-related disturbance of riverbanks and local sediment redistribution were observed; however, channel morphology and existing regulation structures (e.g. bank reinforcements and weirs) remained largely unchanged. We observed that riparian vegetation was dominated by extensive stands of invasive alien and other competitive ruderal taxa, whereas entomological observations were limited. Post-flood mechanical clearance of the floodplain was recorded; besides anthropogenic debris, the removed material also included natural alluvial sediments, which may reduce substrate heterogeneity and early-successional habitats. In our opinion, the flood&rsquo;s magnitude was insufficient to counteract the long-term effects of human river regulation, and ecological degradation persists. Overall, the persistence of channelization and transverse barriers indicates continuing constraints on habitat quality and longitudinal connectivity, potentially limiting the recovery of native biota, including the return of the migratory salmon to the Odra River system. A noteworthy finding was the presence of a large population of <em>Salvinia natans</em>.</span></p>",
+     "access_right": "embargoed",
+     "embargo_date": "2026-09-30",
+     "creators": [
+      {
+       "name": "Hlisnikovský, David",
+       "affiliation": null
+      },
+      {
+       "name": "Ševčík, Jan",
+       "affiliation": "University of Ostrava",
+       "orcid": "0000-0001-7174-593X"
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "41-46",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "15"
+     },
+     "imprint": {
+      "isbn": "978-80-909457-0-8"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "18174136"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Co přinesla velká voda?",
+    "links": {
+     "self": "https://zenodo.org/api/records/18174137",
+     "self_html": "https://zenodo.org/records/18174137",
+     "preview_html": "https://zenodo.org/records/18174137?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.18174137",
+     "self_doi": "https://doi.org/10.5281/zenodo.18174137",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174137",
+     "reserve_doi": "https://zenodo.org/api/records/18174137/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/18174136",
+     "parent_html": "https://zenodo.org/records/18174136",
+     "parent_doi": "https://doi.org/10.5281/zenodo.18174136",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174136",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18174137/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18174137/sequence/default",
+     "files": "https://zenodo.org/api/records/18174137/files",
+     "media_files": "https://zenodo.org/api/records/18174137/media-files",
+     "archive": "https://zenodo.org/api/records/18174137/files-archive",
+     "archive_media": "https://zenodo.org/api/records/18174137/media-files-archive",
+     "latest": "https://zenodo.org/api/records/18174137/versions/latest",
+     "latest_html": "https://zenodo.org/records/18174137/latest",
+     "versions": "https://zenodo.org/api/records/18174137/versions",
+     "draft": "https://zenodo.org/api/records/18174137/draft",
+     "access_links": "https://zenodo.org/api/records/18174137/access/links",
+     "access_grants": "https://zenodo.org/api/records/18174137/access/grants",
+     "access_users": "https://zenodo.org/api/records/18174137/access/users",
+     "access_request": "https://zenodo.org/api/records/18174137/access/request",
+     "access": "https://zenodo.org/api/records/18174137/access",
+     "communities": "https://zenodo.org/api/records/18174137/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/18174137/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/18174137/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/18174137/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/18174137/quota-increase",
+     "requests": "https://zenodo.org/api/records/18174137/requests"
+    },
+    "updated": "2026-04-10T21:45:39.237270+00:00",
+    "recid": "18174137",
+    "revision": 4,
+    "files": [],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 4,
+     "unique_downloads": 2,
+     "views": 24,
+     "unique_views": 23,
+     "version_downloads": 4,
+     "version_unique_downloads": 2,
+     "version_unique_views": 23,
+     "version_views": 24
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2026-04-10T21:43:42.981789+00:00",
+    "modified": "2026-04-10T21:43:43.355287+00:00",
+    "id": 18174109,
+    "conceptrecid": "18174108",
+    "doi": "10.5281/zenodo.18174109",
+    "conceptdoi": "10.5281/zenodo.18174108",
+    "doi_url": "https://doi.org/10.5281/zenodo.18174109",
+    "metadata": {
+     "title": "Za přesličkami a orchidejemi na Jahodnou",
+     "doi": "10.5281/zenodo.18174109",
+     "publication_date": "2026-04",
+     "description": "<p class=\"MsoNormal\"><span>A field trip to Jahodn&aacute; hill near the city of Třinec took place on June 14, 2025. Its main destination was a large, abandoned, overgrown sludge lagoon, but some other localities were also surveyed. Several previously known species were observed on the sludge lagoon, such as <em>Equisetum variegatum</em>, <em>E. ramosissimum</em>, <em>Epipactis atrorubens </em>and <em>E. palustris</em>. Two recently discovered taxa, <em>Equisetum &times;moorei </em>and <em>Schoenoplectus tabernaemontani</em>, were also confirmed, and <em>Cephalanthera rubra </em>has been found for the first time in the locality. In addition, nearby localities of <em>Epipactis microphylla </em>and <em>Asplenium scolopendrium </em>were visited during the field trip.</span></p>",
+     "access_right": "embargoed",
+     "embargo_date": "2026-09-30",
+     "creators": [
+      {
+       "name": "Krausová, Agata",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "36-40",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "15"
+     },
+     "imprint": {
+      "isbn": "978-80-909457-0-8"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "18174108"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Za přesličkami a orchidejemi na Jahodnou",
+    "links": {
+     "self": "https://zenodo.org/api/records/18174109",
+     "self_html": "https://zenodo.org/records/18174109",
+     "preview_html": "https://zenodo.org/records/18174109?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.18174109",
+     "self_doi": "https://doi.org/10.5281/zenodo.18174109",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174109",
+     "reserve_doi": "https://zenodo.org/api/records/18174109/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/18174108",
+     "parent_html": "https://zenodo.org/records/18174108",
+     "parent_doi": "https://doi.org/10.5281/zenodo.18174108",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174108",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18174109/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18174109/sequence/default",
+     "files": "https://zenodo.org/api/records/18174109/files",
+     "media_files": "https://zenodo.org/api/records/18174109/media-files",
+     "archive": "https://zenodo.org/api/records/18174109/files-archive",
+     "archive_media": "https://zenodo.org/api/records/18174109/media-files-archive",
+     "latest": "https://zenodo.org/api/records/18174109/versions/latest",
+     "latest_html": "https://zenodo.org/records/18174109/latest",
+     "versions": "https://zenodo.org/api/records/18174109/versions",
+     "draft": "https://zenodo.org/api/records/18174109/draft",
+     "access_links": "https://zenodo.org/api/records/18174109/access/links",
+     "access_grants": "https://zenodo.org/api/records/18174109/access/grants",
+     "access_users": "https://zenodo.org/api/records/18174109/access/users",
+     "access_request": "https://zenodo.org/api/records/18174109/access/request",
+     "access": "https://zenodo.org/api/records/18174109/access",
+     "communities": "https://zenodo.org/api/records/18174109/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/18174109/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/18174109/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/18174109/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/18174109/quota-increase",
+     "requests": "https://zenodo.org/api/records/18174109/requests"
+    },
+    "updated": "2026-04-10T21:43:43.355287+00:00",
+    "recid": "18174109",
+    "revision": 4,
+    "files": [],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 3,
+     "unique_downloads": 2,
+     "views": 35,
+     "unique_views": 35,
+     "version_downloads": 3,
+     "version_unique_downloads": 2,
+     "version_unique_views": 35,
+     "version_views": 35
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2026-04-10T21:42:44.236001+00:00",
+    "modified": "2026-04-10T21:42:44.478488+00:00",
+    "id": 18174098,
+    "conceptrecid": "18174097",
+    "doi": "10.5281/zenodo.18174098",
+    "conceptdoi": "10.5281/zenodo.18174097",
+    "doi_url": "https://doi.org/10.5281/zenodo.18174098",
+    "metadata": {
+     "title": "Ve stopách kêsanyho zeli z Bystročic",
+     "doi": "10.5281/zenodo.18174098",
+     "publication_date": "2026-04",
+     "description": "<p class=\"MsoNormal\"><span>A botanical excursion to the intensively farmed landscape south of Olomouc was carried out on June 7, 2025. The route led from the village of Bystročice, passing newly constructed ponds with a rich assemblage of aquatic macrophytes, through long-abandoned and overgrown small limestone quarries, to the village of Nedvěz&iacute;, then further to Nemilany, and finally ended in Slavon&iacute;n. A total of 128 vascular plant taxa were recorded during the excursion. Among the most noteworthy species were <em>Ranunculus rionii</em>, <em>Malva pusilla</em>, <em>Potamogeton nodosus</em>, <em>Brachypodium rupestre</em>, and <em>Carex pseudocyperus</em>.</span></p>",
+     "access_right": "embargoed",
+     "embargo_date": "2026-09-30",
+     "creators": [
+      {
+       "name": "Dvořák, Václav",
+       "affiliation": "Palacký University Olomouc",
+       "orcid": "0000-0001-8823-7931"
+      },
+      {
+       "name": "Dančák, Martin",
+       "affiliation": "Palacký University Olomouc",
+       "orcid": "0000-0002-3851-4969"
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "31-35",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "15"
+     },
+     "imprint": {
+      "isbn": "978-80-909457-0-8"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "18174097"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Ve stopách kêsanyho zeli z Bystročic",
+    "links": {
+     "self": "https://zenodo.org/api/records/18174098",
+     "self_html": "https://zenodo.org/records/18174098",
+     "preview_html": "https://zenodo.org/records/18174098?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.18174098",
+     "self_doi": "https://doi.org/10.5281/zenodo.18174098",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174098",
+     "reserve_doi": "https://zenodo.org/api/records/18174098/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/18174097",
+     "parent_html": "https://zenodo.org/records/18174097",
+     "parent_doi": "https://doi.org/10.5281/zenodo.18174097",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174097",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18174098/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18174098/sequence/default",
+     "files": "https://zenodo.org/api/records/18174098/files",
+     "media_files": "https://zenodo.org/api/records/18174098/media-files",
+     "archive": "https://zenodo.org/api/records/18174098/files-archive",
+     "archive_media": "https://zenodo.org/api/records/18174098/media-files-archive",
+     "latest": "https://zenodo.org/api/records/18174098/versions/latest",
+     "latest_html": "https://zenodo.org/records/18174098/latest",
+     "versions": "https://zenodo.org/api/records/18174098/versions",
+     "draft": "https://zenodo.org/api/records/18174098/draft",
+     "access_links": "https://zenodo.org/api/records/18174098/access/links",
+     "access_grants": "https://zenodo.org/api/records/18174098/access/grants",
+     "access_users": "https://zenodo.org/api/records/18174098/access/users",
+     "access_request": "https://zenodo.org/api/records/18174098/access/request",
+     "access": "https://zenodo.org/api/records/18174098/access",
+     "communities": "https://zenodo.org/api/records/18174098/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/18174098/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/18174098/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/18174098/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/18174098/quota-increase",
+     "requests": "https://zenodo.org/api/records/18174098/requests"
+    },
+    "updated": "2026-04-10T21:42:44.478488+00:00",
+    "recid": "18174098",
+    "revision": 4,
+    "files": [],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 4,
+     "unique_downloads": 1,
+     "views": 25,
+     "unique_views": 25,
+     "version_downloads": 4,
+     "version_unique_downloads": 1,
+     "version_unique_views": 25,
+     "version_views": 25
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2026-04-10T21:41:44.901860+00:00",
+    "modified": "2026-04-10T21:41:45.218006+00:00",
+    "id": 18174012,
+    "conceptrecid": "18174011",
+    "doi": "10.5281/zenodo.18174012",
+    "conceptdoi": "10.5281/zenodo.18174011",
+    "doi_url": "https://doi.org/10.5281/zenodo.18174012",
+    "metadata": {
+     "title": "Exkurze za kontryhely (Alchemilla) Javorníků",
+     "doi": "10.5281/zenodo.18174012",
+     "publication_date": "2026-04",
+     "description": "<p class=\"MsoNormal\"><span>A field trip focused on lady's mantles (<em>Alchemilla</em>) in the Javorn&iacute;ky Mts took place on May 31, 2025. Eight participants and two excursion leaders explored the route from the village of Mal&eacute; Karlovice through Lopu&scaron;n&aacute; hill to Podťat&eacute; valley. Eleven <em>Alchemilla </em>species were successfully recorded, including <em>A. isodonta </em>(previously unknown from the Czech Republic), <em>A.cymatophylla</em>, and <em>A. gruneica</em>. Beyond lady's mantles, numerous orchid species and rare lichens on old ash trees were observed. The excursion demonstrated the rich biodiversity of the Javorn&iacute;ky Mts and confirmed that rare species can still be discovered in well-explored areas.</span></p>",
+     "access_right": "embargoed",
+     "embargo_date": "2026-09-30",
+     "creators": [
+      {
+       "name": "Dančák, Martin",
+       "affiliation": "Palacký University Olomouc",
+       "orcid": "0000-0002-3851-4969"
+      },
+      {
+       "name": "Batoušek, Petr",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "26-30",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "15"
+     },
+     "imprint": {
+      "isbn": "978-80-909457-0-8"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "18174011"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Exkurze za kontryhely (Alchemilla) Javorníků",
+    "links": {
+     "self": "https://zenodo.org/api/records/18174012",
+     "self_html": "https://zenodo.org/records/18174012",
+     "preview_html": "https://zenodo.org/records/18174012?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.18174012",
+     "self_doi": "https://doi.org/10.5281/zenodo.18174012",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174012",
+     "reserve_doi": "https://zenodo.org/api/records/18174012/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/18174011",
+     "parent_html": "https://zenodo.org/records/18174011",
+     "parent_doi": "https://doi.org/10.5281/zenodo.18174011",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18174011",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18174012/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18174012/sequence/default",
+     "files": "https://zenodo.org/api/records/18174012/files",
+     "media_files": "https://zenodo.org/api/records/18174012/media-files",
+     "archive": "https://zenodo.org/api/records/18174012/files-archive",
+     "archive_media": "https://zenodo.org/api/records/18174012/media-files-archive",
+     "latest": "https://zenodo.org/api/records/18174012/versions/latest",
+     "latest_html": "https://zenodo.org/records/18174012/latest",
+     "versions": "https://zenodo.org/api/records/18174012/versions",
+     "draft": "https://zenodo.org/api/records/18174012/draft",
+     "access_links": "https://zenodo.org/api/records/18174012/access/links",
+     "access_grants": "https://zenodo.org/api/records/18174012/access/grants",
+     "access_users": "https://zenodo.org/api/records/18174012/access/users",
+     "access_request": "https://zenodo.org/api/records/18174012/access/request",
+     "access": "https://zenodo.org/api/records/18174012/access",
+     "communities": "https://zenodo.org/api/records/18174012/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/18174012/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/18174012/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/18174012/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/18174012/quota-increase",
+     "requests": "https://zenodo.org/api/records/18174012/requests"
+    },
+    "updated": "2026-04-10T21:41:45.218006+00:00",
+    "recid": "18174012",
+    "revision": 4,
+    "files": [],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 3,
+     "unique_downloads": 1,
+     "views": 21,
+     "unique_views": 21,
+     "version_downloads": 3,
+     "version_unique_downloads": 1,
+     "version_unique_views": 21,
+     "version_views": 21
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2026-04-10T21:40:34.574846+00:00",
+    "modified": "2026-04-10T21:40:34.755029+00:00",
+    "id": 18173990,
+    "conceptrecid": "18173989",
+    "doi": "10.5281/zenodo.18173990",
+    "conceptdoi": "10.5281/zenodo.18173989",
+    "doi_url": "https://doi.org/10.5281/zenodo.18173990",
+    "metadata": {
+     "title": "Exkurze na Filipovické louky a další půvabná místa pod Točníkem",
+     "doi": "10.5281/zenodo.18173990",
+     "publication_date": "2026-04",
+     "description": "<p class=\"MsoNormal\"><span>The third excursion of the Moravian-Silesian Branch of the Czech Botanical Society in 2025 took place on May 24, and led to the settlement of Filipovice in the Hrub&yacute; Jesen&iacute;k Mts (Silesia, Czech Republic). A range of habitats was explored, including anthropic sites, wet meadows, and mountain grasslands. The main focus was the Filipovick&eacute; louky Nature Reserve, a small remnant of wet and peaty meadows with <em>Carex flava</em>, <em>Dactylorhiza majalis</em>, <em>Eriophorum angustifolium</em>, <em>Valeriana dioica</em>, and many other species. A ski slope above the settlement was the other interesting locality, where <em>Thesium alpinum </em>and a single plant of <em>Dactylorhiza majalis </em>were observed.</span></p>",
+     "access_right": "embargoed",
+     "embargo_date": "2026-09-30",
+     "creators": [
+      {
+       "name": "Hédl, Radim",
+       "affiliation": "Palacký University Olomouc",
+       "orcid": "0000-0002-6040-8126"
+      },
+      {
+       "name": "Taraška, Vojtěch",
+       "affiliation": "Moravian Museum",
+       "orcid": "0000-0001-5744-3943"
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "21-25",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "15"
+     },
+     "imprint": {
+      "isbn": "978-80-909457-0-8"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "18173989"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Exkurze na Filipovické louky a další půvabná místa pod Točníkem",
+    "links": {
+     "self": "https://zenodo.org/api/records/18173990",
+     "self_html": "https://zenodo.org/records/18173990",
+     "preview_html": "https://zenodo.org/records/18173990?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.18173990",
+     "self_doi": "https://doi.org/10.5281/zenodo.18173990",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18173990",
+     "reserve_doi": "https://zenodo.org/api/records/18173990/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/18173989",
+     "parent_html": "https://zenodo.org/records/18173989",
+     "parent_doi": "https://doi.org/10.5281/zenodo.18173989",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18173989",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18173990/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18173990/sequence/default",
+     "files": "https://zenodo.org/api/records/18173990/files",
+     "media_files": "https://zenodo.org/api/records/18173990/media-files",
+     "archive": "https://zenodo.org/api/records/18173990/files-archive",
+     "archive_media": "https://zenodo.org/api/records/18173990/media-files-archive",
+     "latest": "https://zenodo.org/api/records/18173990/versions/latest",
+     "latest_html": "https://zenodo.org/records/18173990/latest",
+     "versions": "https://zenodo.org/api/records/18173990/versions",
+     "draft": "https://zenodo.org/api/records/18173990/draft",
+     "access_links": "https://zenodo.org/api/records/18173990/access/links",
+     "access_grants": "https://zenodo.org/api/records/18173990/access/grants",
+     "access_users": "https://zenodo.org/api/records/18173990/access/users",
+     "access_request": "https://zenodo.org/api/records/18173990/access/request",
+     "access": "https://zenodo.org/api/records/18173990/access",
+     "communities": "https://zenodo.org/api/records/18173990/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/18173990/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/18173990/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/18173990/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/18173990/quota-increase",
+     "requests": "https://zenodo.org/api/records/18173990/requests"
+    },
+    "updated": "2026-04-10T21:40:34.755029+00:00",
+    "recid": "18173990",
+    "revision": 4,
+    "files": [],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 2,
+     "unique_downloads": 1,
+     "views": 25,
+     "unique_views": 23,
+     "version_downloads": 2,
+     "version_unique_downloads": 1,
+     "version_unique_views": 23,
+     "version_views": 25
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2026-04-10T21:38:21.259697+00:00",
+    "modified": "2026-04-10T21:38:21.482034+00:00",
+    "id": 18173955,
+    "conceptrecid": "18173954",
+    "doi": "10.5281/zenodo.18173955",
+    "conceptdoi": "10.5281/zenodo.18173954",
+    "doi_url": "https://doi.org/10.5281/zenodo.18173955",
+    "metadata": {
+     "title": "Z Balkánu Končinami skoro na Hlaváčky",
+     "doi": "10.5281/zenodo.18173955",
+     "publication_date": "2026-04",
+     "description": "<p class=\"MsoNormal\"><span><span>&nbsp;</span>The excursion to the surroundings of Rožnov pod Radho&scaron;těm (Moravia, Czech Republic) took place on May 17, 2025. The route of the botanical and geological field trip led through the part of Rožnov known as Balk&aacute;n, across Končiny to Rysov&aacute; Mt., where it was terminated due to unfavourable weather conditions. We passed through a mosaic of meadows, fields, oak-hornbeam forests, small wetlands, and abandoned quarries preserving traces of the Tertiary Sea &ndash; menilite rock outcrops with fossil fish remains. In total, 126 taxa of vascular plants were recorded. <em>Ononis arvensis</em>, a species that reflects the historical use of today&rsquo;s mown meadows as grazed pastures, was one of the rarer species recorded during the field trip.</span></p>",
+     "access_right": "embargoed",
+     "embargo_date": "2026-09-30",
+     "creators": [
+      {
+       "name": "Kalníková, Veronika",
+       "affiliation": null,
+       "orcid": "0000-0003-2361-0816"
+      },
+      {
+       "name": "Šulgan, František",
+       "affiliation": null
+      },
+      {
+       "name": "Valasová, Aneta",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "15-20",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "15"
+     },
+     "imprint": {
+      "isbn": "978-80-909457-0-8"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "18173954"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Z Balkánu Končinami skoro na Hlaváčky",
+    "links": {
+     "self": "https://zenodo.org/api/records/18173955",
+     "self_html": "https://zenodo.org/records/18173955",
+     "preview_html": "https://zenodo.org/records/18173955?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.18173955",
+     "self_doi": "https://doi.org/10.5281/zenodo.18173955",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18173955",
+     "reserve_doi": "https://zenodo.org/api/records/18173955/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/18173954",
+     "parent_html": "https://zenodo.org/records/18173954",
+     "parent_doi": "https://doi.org/10.5281/zenodo.18173954",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18173954",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18173955/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18173955/sequence/default",
+     "files": "https://zenodo.org/api/records/18173955/files",
+     "media_files": "https://zenodo.org/api/records/18173955/media-files",
+     "archive": "https://zenodo.org/api/records/18173955/files-archive",
+     "archive_media": "https://zenodo.org/api/records/18173955/media-files-archive",
+     "latest": "https://zenodo.org/api/records/18173955/versions/latest",
+     "latest_html": "https://zenodo.org/records/18173955/latest",
+     "versions": "https://zenodo.org/api/records/18173955/versions",
+     "draft": "https://zenodo.org/api/records/18173955/draft",
+     "access_links": "https://zenodo.org/api/records/18173955/access/links",
+     "access_grants": "https://zenodo.org/api/records/18173955/access/grants",
+     "access_users": "https://zenodo.org/api/records/18173955/access/users",
+     "access_request": "https://zenodo.org/api/records/18173955/access/request",
+     "access": "https://zenodo.org/api/records/18173955/access",
+     "communities": "https://zenodo.org/api/records/18173955/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/18173955/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/18173955/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/18173955/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/18173955/quota-increase",
+     "requests": "https://zenodo.org/api/records/18173955/requests"
+    },
+    "updated": "2026-04-10T21:38:21.482034+00:00",
+    "recid": "18173955",
+    "revision": 4,
+    "files": [],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 3,
+     "unique_downloads": 1,
+     "views": 20,
+     "unique_views": 19,
+     "version_downloads": 3,
+     "version_unique_downloads": 1,
+     "version_unique_views": 19,
+     "version_views": 20
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2026-04-10T21:37:05.630539+00:00",
+    "modified": "2026-04-27T10:03:29.596262+00:00",
+    "id": 18173862,
+    "conceptrecid": "18173861",
+    "doi": "10.5281/zenodo.18173862",
+    "conceptdoi": "10.5281/zenodo.18173861",
+    "doi_url": "https://doi.org/10.5281/zenodo.18173862",
+    "metadata": {
+     "title": "Bryologická exkurze na pěnovcová prameniště",
+     "doi": "10.5281/zenodo.18173862",
+     "publication_date": "2026-04",
+     "description": "<p class=\"MsoNormal\"><span>The bryological field trip took place on April 5, 2025, and led to the forests surrounding the calcareous rock Ra&scaron;kův k&aacute;men and the Jan&iacute;kovo sedlo saddle near the village of Kopřivnice (Nov&yacute; Jič&iacute;n district). We surveyed calcareous forest springs with tufa formation, oak-hornbeam forest, ravine forests, forest roadsides, forest streams, and other substrates. In total, 95 bryophyte species (15 liverworts and 80 mosses) were recorded. One species, <em>Seligeria pusilla</em>, is classified as Vulnerable (VU) on the Czech Red List. <em>Orthotrichum patens</em>belongs to the category of Lower Risk &ndash; near threatened (LR-nt). Three species, namely <em>Didymodon tophaceus</em>, <em>Oxyrrhynchium speciosum</em>, and <em>Pedinophyllum interruptum</em>, are classified as Least Concern &ndash; attention list (LC-att).</span></p>",
+     "access_right": "embargoed",
+     "embargo_date": "2026-09-30",
+     "creators": [
+      {
+       "name": "Tkáčiková, Jana",
+       "affiliation": null
+      },
+      {
+       "name": "Kubešová, Svatava",
+       "affiliation": "Moravian Museum",
+       "orcid": "0000-0002-7895-6710"
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "10-14",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "15"
+     },
+     "imprint": {
+      "isbn": "978-80-909457-0-8"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "18173861"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Bryologická exkurze na pěnovcová prameniště",
+    "links": {
+     "self": "https://zenodo.org/api/records/18173862",
+     "self_html": "https://zenodo.org/records/18173862",
+     "preview_html": "https://zenodo.org/records/18173862?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.18173862",
+     "self_doi": "https://doi.org/10.5281/zenodo.18173862",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18173862",
+     "reserve_doi": "https://zenodo.org/api/records/18173862/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/18173861",
+     "parent_html": "https://zenodo.org/records/18173861",
+     "parent_doi": "https://doi.org/10.5281/zenodo.18173861",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18173861",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18173862/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18173862/sequence/default",
+     "files": "https://zenodo.org/api/records/18173862/files",
+     "media_files": "https://zenodo.org/api/records/18173862/media-files",
+     "archive": "https://zenodo.org/api/records/18173862/files-archive",
+     "archive_media": "https://zenodo.org/api/records/18173862/media-files-archive",
+     "latest": "https://zenodo.org/api/records/18173862/versions/latest",
+     "latest_html": "https://zenodo.org/records/18173862/latest",
+     "versions": "https://zenodo.org/api/records/18173862/versions",
+     "draft": "https://zenodo.org/api/records/18173862/draft",
+     "access_links": "https://zenodo.org/api/records/18173862/access/links",
+     "access_grants": "https://zenodo.org/api/records/18173862/access/grants",
+     "access_users": "https://zenodo.org/api/records/18173862/access/users",
+     "access_request": "https://zenodo.org/api/records/18173862/access/request",
+     "access": "https://zenodo.org/api/records/18173862/access",
+     "communities": "https://zenodo.org/api/records/18173862/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/18173862/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/18173862/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/18173862/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/18173862/quota-increase",
+     "requests": "https://zenodo.org/api/records/18173862/requests"
+    },
+    "updated": "2026-04-27T10:03:29.596262+00:00",
+    "recid": "18173862",
+    "revision": 8,
+    "files": [],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 7,
+     "unique_downloads": 4,
+     "views": 27,
+     "unique_views": 22,
+     "version_downloads": 7,
+     "version_unique_downloads": 4,
+     "version_unique_views": 22,
+     "version_views": 27
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2026-04-10T21:31:31.208972+00:00",
+    "modified": "2026-04-10T21:31:31.490261+00:00",
+    "id": 18173822,
+    "conceptrecid": "18173821",
+    "doi": "10.5281/zenodo.18173822",
+    "conceptdoi": "10.5281/zenodo.18173821",
+    "doi_url": "https://doi.org/10.5281/zenodo.18173822",
+    "metadata": {
+     "title": "Výroční zpráva Moravskoslezské pobočky ČBS za rok 2025",
+     "doi": "10.5281/zenodo.18173822",
+     "publication_date": "2026-04",
+     "access_right": "open",
+     "creators": [
+      {
+       "name": "Kalníková, Veronika",
+       "affiliation": null,
+       "orcid": "0000-0003-2361-0816"
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "5-9",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "15"
+     },
+     "imprint": {
+      "isbn": "978-80-909457-0-8"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "18173821"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Výroční zpráva Moravskoslezské pobočky ČBS za rok 2025",
+    "links": {
+     "self": "https://zenodo.org/api/records/18173822",
+     "self_html": "https://zenodo.org/records/18173822",
+     "preview_html": "https://zenodo.org/records/18173822?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.18173822",
+     "self_doi": "https://doi.org/10.5281/zenodo.18173822",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18173822",
+     "reserve_doi": "https://zenodo.org/api/records/18173822/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/18173821",
+     "parent_html": "https://zenodo.org/records/18173821",
+     "parent_doi": "https://doi.org/10.5281/zenodo.18173821",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18173821",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18173822/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18173822/sequence/default",
+     "files": "https://zenodo.org/api/records/18173822/files",
+     "media_files": "https://zenodo.org/api/records/18173822/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:18173822:ZMSP_2026_Vyr_Kalnikova.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:18173822:ZMSP_2026_Vyr_Kalnikova.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:18173822:ZMSP_2026_Vyr_Kalnikova.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:18173822:ZMSP_2026_Vyr_Kalnikova.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:18173822:ZMSP_2026_Vyr_Kalnikova.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:18173822:ZMSP_2026_Vyr_Kalnikova.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/18173822/files-archive",
+     "archive_media": "https://zenodo.org/api/records/18173822/media-files-archive",
+     "latest": "https://zenodo.org/api/records/18173822/versions/latest",
+     "latest_html": "https://zenodo.org/records/18173822/latest",
+     "versions": "https://zenodo.org/api/records/18173822/versions",
+     "draft": "https://zenodo.org/api/records/18173822/draft",
+     "access_links": "https://zenodo.org/api/records/18173822/access/links",
+     "access_grants": "https://zenodo.org/api/records/18173822/access/grants",
+     "access_users": "https://zenodo.org/api/records/18173822/access/users",
+     "access_request": "https://zenodo.org/api/records/18173822/access/request",
+     "access": "https://zenodo.org/api/records/18173822/access",
+     "communities": "https://zenodo.org/api/records/18173822/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/18173822/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/18173822/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/18173822/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/18173822/quota-increase",
+     "requests": "https://zenodo.org/api/records/18173822/requests"
+    },
+    "updated": "2026-04-10T21:31:31.490261+00:00",
+    "recid": "18173822",
+    "revision": 4,
+    "files": [
+     {
+      "id": "7736023e-688a-433e-8b94-2c2dfca953e1",
+      "key": "ZMSP_2026_Vyr_Kalnikova.pdf",
+      "size": 1465614,
+      "checksum": "md5:44e856d182315a048ca926a66d087809",
+      "links": {
+       "self": "https://zenodo.org/api/records/18173822/files/ZMSP_2026_Vyr_Kalnikova.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 15,
+     "unique_downloads": 11,
+     "views": 23,
+     "unique_views": 23,
+     "version_downloads": 15,
+     "version_unique_downloads": 11,
+     "version_unique_views": 23,
+     "version_views": 23
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2025-02-18T10:38:30.162932+00:00",
+    "modified": "2025-07-31T00:03:13.439709+00:00",
+    "id": 14547255,
+    "conceptrecid": "14547254",
+    "doi": "10.5281/zenodo.14547255",
+    "conceptdoi": "10.5281/zenodo.14547254",
+    "doi_url": "https://doi.org/10.5281/zenodo.14547255",
+    "metadata": {
+     "title": "Prof. RNDr. Bronislav Hlůza, CSc. (8. 3. 1929 – 9. 12. 2024)",
+     "doi": "10.5281/zenodo.14547255",
+     "publication_date": "2025-01-31",
+     "access_right": "open",
+     "embargo_date": "2025-07-31",
+     "creators": [
+      {
+       "name": "Hradílek, Zbyněk",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "78–80",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "14"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-9-4"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14547254"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Prof. RNDr. Bronislav Hlůza, CSc. (8. 3. 1929 – 9. 12. 2024)",
+    "links": {
+     "self": "https://zenodo.org/api/records/14547255",
+     "self_html": "https://zenodo.org/records/14547255",
+     "preview_html": "https://zenodo.org/records/14547255?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14547255",
+     "self_doi": "https://doi.org/10.5281/zenodo.14547255",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547255",
+     "reserve_doi": "https://zenodo.org/api/records/14547255/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14547254",
+     "parent_html": "https://zenodo.org/records/14547254",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14547254",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547254",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14547255/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14547255/sequence/default",
+     "files": "https://zenodo.org/api/records/14547255/files",
+     "media_files": "https://zenodo.org/api/records/14547255/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14547255:ZMSPCBS_2025-14_78-80.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14547255:ZMSPCBS_2025-14_78-80.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14547255:ZMSPCBS_2025-14_78-80.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14547255:ZMSPCBS_2025-14_78-80.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14547255:ZMSPCBS_2025-14_78-80.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14547255:ZMSPCBS_2025-14_78-80.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14547255/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14547255/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14547255/versions/latest",
+     "latest_html": "https://zenodo.org/records/14547255/latest",
+     "versions": "https://zenodo.org/api/records/14547255/versions",
+     "draft": "https://zenodo.org/api/records/14547255/draft",
+     "access_links": "https://zenodo.org/api/records/14547255/access/links",
+     "access_grants": "https://zenodo.org/api/records/14547255/access/grants",
+     "access_users": "https://zenodo.org/api/records/14547255/access/users",
+     "access_request": "https://zenodo.org/api/records/14547255/access/request",
+     "access": "https://zenodo.org/api/records/14547255/access",
+     "communities": "https://zenodo.org/api/records/14547255/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14547255/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14547255/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14547255/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14547255/quota-increase",
+     "requests": "https://zenodo.org/api/records/14547255/requests"
+    },
+    "updated": "2025-07-31T00:03:13.439709+00:00",
+    "recid": "14547255",
+    "revision": 10,
+    "files": [
+     {
+      "id": "8cebd8ac-fb92-4eee-b71a-90e726feac35",
+      "key": "ZMSPCBS_2025-14_78-80.pdf",
+      "size": 184186,
+      "checksum": "md5:0f49be99179846dafc0f73fb65fe9015",
+      "links": {
+       "self": "https://zenodo.org/api/records/14547255/files/ZMSPCBS_2025-14_78-80.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 32,
+     "unique_downloads": 29,
+     "views": 50,
+     "unique_views": 48,
+     "version_downloads": 32,
+     "version_unique_downloads": 29,
+     "version_unique_views": 48,
+     "version_views": 50
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2025-02-18T10:36:40.132480+00:00",
+    "modified": "2025-07-31T00:02:00.689529+00:00",
+    "id": 14547241,
+    "conceptrecid": "14547240",
+    "doi": "10.5281/zenodo.14547241",
+    "conceptdoi": "10.5281/zenodo.14547240",
+    "doi_url": "https://doi.org/10.5281/zenodo.14547241",
+    "metadata": {
+     "title": "Ing. Ivan Jindra – 75 let",
+     "doi": "10.5281/zenodo.14547241",
+     "publication_date": "2025-01-31",
+     "access_right": "open",
+     "embargo_date": "2025-07-31",
+     "creators": [
+      {
+       "name": "Batoušek, Petr",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "75–77",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "14"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-9-4"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14547240"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Ing. Ivan Jindra – 75 let",
+    "links": {
+     "self": "https://zenodo.org/api/records/14547241",
+     "self_html": "https://zenodo.org/records/14547241",
+     "preview_html": "https://zenodo.org/records/14547241?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14547241",
+     "self_doi": "https://doi.org/10.5281/zenodo.14547241",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547241",
+     "reserve_doi": "https://zenodo.org/api/records/14547241/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14547240",
+     "parent_html": "https://zenodo.org/records/14547240",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14547240",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547240",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14547241/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14547241/sequence/default",
+     "files": "https://zenodo.org/api/records/14547241/files",
+     "media_files": "https://zenodo.org/api/records/14547241/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14547241:ZMSPCBS_2025-14_75-77.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14547241:ZMSPCBS_2025-14_75-77.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14547241:ZMSPCBS_2025-14_75-77.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14547241:ZMSPCBS_2025-14_75-77.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14547241:ZMSPCBS_2025-14_75-77.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14547241:ZMSPCBS_2025-14_75-77.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14547241/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14547241/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14547241/versions/latest",
+     "latest_html": "https://zenodo.org/records/14547241/latest",
+     "versions": "https://zenodo.org/api/records/14547241/versions",
+     "draft": "https://zenodo.org/api/records/14547241/draft",
+     "access_links": "https://zenodo.org/api/records/14547241/access/links",
+     "access_grants": "https://zenodo.org/api/records/14547241/access/grants",
+     "access_users": "https://zenodo.org/api/records/14547241/access/users",
+     "access_request": "https://zenodo.org/api/records/14547241/access/request",
+     "access": "https://zenodo.org/api/records/14547241/access",
+     "communities": "https://zenodo.org/api/records/14547241/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14547241/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14547241/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14547241/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14547241/quota-increase",
+     "requests": "https://zenodo.org/api/records/14547241/requests"
+    },
+    "updated": "2025-07-31T00:02:00.689529+00:00",
+    "recid": "14547241",
+    "revision": 10,
+    "files": [
+     {
+      "id": "4387f5d8-584b-472e-85d9-c5ccd509ee95",
+      "key": "ZMSPCBS_2025-14_75-77.pdf",
+      "size": 441754,
+      "checksum": "md5:510bb05ce57eba4fc2857ce1f382cd5a",
+      "links": {
+       "self": "https://zenodo.org/api/records/14547241/files/ZMSPCBS_2025-14_75-77.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 26,
+     "unique_downloads": 24,
+     "views": 41,
+     "unique_views": 38,
+     "version_downloads": 26,
+     "version_unique_downloads": 24,
+     "version_unique_views": 38,
+     "version_views": 41
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2025-02-18T10:33:58.694289+00:00",
+    "modified": "2025-07-31T00:03:03.379638+00:00",
+    "id": 14547229,
+    "conceptrecid": "14547228",
+    "doi": "10.5281/zenodo.14547229",
+    "conceptdoi": "10.5281/zenodo.14547228",
+    "doi_url": "https://doi.org/10.5281/zenodo.14547229",
+    "metadata": {
+     "title": "Petr Batoušek – 75 let",
+     "doi": "10.5281/zenodo.14547229",
+     "publication_date": "2025-01-31",
+     "access_right": "open",
+     "embargo_date": "2025-07-31",
+     "creators": [
+      {
+       "name": "Taraška, Vojtěch",
+       "affiliation": null
+      },
+      {
+       "name": "Lukeš, Zbyněk",
+       "affiliation": null
+      },
+      {
+       "name": "Zábranská, Dagmar",
+       "affiliation": null
+      },
+      {
+       "name": "Trávníček, Bohumil",
+       "affiliation": null
+      },
+      {
+       "name": "Dančák, Martin",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "65–74",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "14"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-9-4"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14547228"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Petr Batoušek – 75 let",
+    "links": {
+     "self": "https://zenodo.org/api/records/14547229",
+     "self_html": "https://zenodo.org/records/14547229",
+     "preview_html": "https://zenodo.org/records/14547229?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14547229",
+     "self_doi": "https://doi.org/10.5281/zenodo.14547229",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547229",
+     "reserve_doi": "https://zenodo.org/api/records/14547229/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14547228",
+     "parent_html": "https://zenodo.org/records/14547228",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14547228",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547228",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14547229/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14547229/sequence/default",
+     "files": "https://zenodo.org/api/records/14547229/files",
+     "media_files": "https://zenodo.org/api/records/14547229/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14547229:ZMSPCBS_2025-14_65-74.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14547229:ZMSPCBS_2025-14_65-74.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14547229:ZMSPCBS_2025-14_65-74.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14547229:ZMSPCBS_2025-14_65-74.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14547229:ZMSPCBS_2025-14_65-74.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14547229:ZMSPCBS_2025-14_65-74.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14547229/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14547229/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14547229/versions/latest",
+     "latest_html": "https://zenodo.org/records/14547229/latest",
+     "versions": "https://zenodo.org/api/records/14547229/versions",
+     "draft": "https://zenodo.org/api/records/14547229/draft",
+     "access_links": "https://zenodo.org/api/records/14547229/access/links",
+     "access_grants": "https://zenodo.org/api/records/14547229/access/grants",
+     "access_users": "https://zenodo.org/api/records/14547229/access/users",
+     "access_request": "https://zenodo.org/api/records/14547229/access/request",
+     "access": "https://zenodo.org/api/records/14547229/access",
+     "communities": "https://zenodo.org/api/records/14547229/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14547229/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14547229/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14547229/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14547229/quota-increase",
+     "requests": "https://zenodo.org/api/records/14547229/requests"
+    },
+    "updated": "2025-07-31T00:03:03.379638+00:00",
+    "recid": "14547229",
+    "revision": 10,
+    "files": [
+     {
+      "id": "89d0d06e-f519-45d3-aa9a-21f97da5c2df",
+      "key": "ZMSPCBS_2025-14_65-74.pdf",
+      "size": 2581842,
+      "checksum": "md5:c3cfa45b518bf35036d43f1c0d0060fe",
+      "links": {
+       "self": "https://zenodo.org/api/records/14547229/files/ZMSPCBS_2025-14_65-74.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 37,
+     "unique_downloads": 34,
+     "views": 125,
+     "unique_views": 124,
+     "version_downloads": 37,
+     "version_unique_downloads": 34,
+     "version_unique_views": 124,
+     "version_views": 125
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2025-02-18T10:31:41.274655+00:00",
+    "modified": "2025-07-31T00:03:04.725085+00:00",
+    "id": 14547209,
+    "conceptrecid": "14547208",
+    "doi": "10.5281/zenodo.14547209",
+    "conceptdoi": "10.5281/zenodo.14547208",
+    "doi_url": "https://doi.org/10.5281/zenodo.14547209",
+    "metadata": {
+     "title": "Ing. Milan Velička – 90 let",
+     "doi": "10.5281/zenodo.14547209",
+     "publication_date": "2025-01-31",
+     "access_right": "open",
+     "embargo_date": "2025-07-31",
+     "creators": [
+      {
+       "name": "Hradílek, Zbyněk",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "62–64",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "14"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-9-4"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14547208"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Ing. Milan Velička – 90 let",
+    "links": {
+     "self": "https://zenodo.org/api/records/14547209",
+     "self_html": "https://zenodo.org/records/14547209",
+     "preview_html": "https://zenodo.org/records/14547209?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14547209",
+     "self_doi": "https://doi.org/10.5281/zenodo.14547209",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547209",
+     "reserve_doi": "https://zenodo.org/api/records/14547209/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14547208",
+     "parent_html": "https://zenodo.org/records/14547208",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14547208",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547208",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14547209/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14547209/sequence/default",
+     "files": "https://zenodo.org/api/records/14547209/files",
+     "media_files": "https://zenodo.org/api/records/14547209/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14547209:ZMSPCBS_2025-14_62-64.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14547209:ZMSPCBS_2025-14_62-64.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14547209:ZMSPCBS_2025-14_62-64.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14547209:ZMSPCBS_2025-14_62-64.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14547209:ZMSPCBS_2025-14_62-64.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14547209:ZMSPCBS_2025-14_62-64.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14547209/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14547209/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14547209/versions/latest",
+     "latest_html": "https://zenodo.org/records/14547209/latest",
+     "versions": "https://zenodo.org/api/records/14547209/versions",
+     "draft": "https://zenodo.org/api/records/14547209/draft",
+     "access_links": "https://zenodo.org/api/records/14547209/access/links",
+     "access_grants": "https://zenodo.org/api/records/14547209/access/grants",
+     "access_users": "https://zenodo.org/api/records/14547209/access/users",
+     "access_request": "https://zenodo.org/api/records/14547209/access/request",
+     "access": "https://zenodo.org/api/records/14547209/access",
+     "communities": "https://zenodo.org/api/records/14547209/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14547209/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14547209/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14547209/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14547209/quota-increase",
+     "requests": "https://zenodo.org/api/records/14547209/requests"
+    },
+    "updated": "2025-07-31T00:03:04.725085+00:00",
+    "recid": "14547209",
+    "revision": 10,
+    "files": [
+     {
+      "id": "668a1f06-1dcd-4552-8c85-9039673a7aee",
+      "key": "ZMSPCBS_2025-14_62-64.pdf",
+      "size": 1094726,
+      "checksum": "md5:bd414be12b44e4a867ca556230ba9c88",
+      "links": {
+       "self": "https://zenodo.org/api/records/14547209/files/ZMSPCBS_2025-14_62-64.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 56,
+     "unique_downloads": 54,
+     "views": 46,
+     "unique_views": 45,
+     "version_downloads": 56,
+     "version_unique_downloads": 54,
+     "version_unique_views": 45,
+     "version_views": 46
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2025-02-18T10:24:53.752059+00:00",
+    "modified": "2025-07-31T00:03:02.122480+00:00",
+    "id": 14547186,
+    "conceptrecid": "14547185",
+    "doi": "10.5281/zenodo.14547186",
+    "conceptdoi": "10.5281/zenodo.14547185",
+    "doi_url": "https://doi.org/10.5281/zenodo.14547186",
+    "metadata": {
+     "title": "Poznámky k rozšíření některých vzácnějších druhů na Osoblažsku III",
+     "doi": "10.5281/zenodo.14547186",
+     "publication_date": "2025-01-31",
+     "description": "<p>This paper reports on the localities of several regionally rare vascular plant species (<em>Artemisia absinthium</em>, <em>Gagea minima</em>, <em>G. pratensis</em>, <em>Geranium molle</em> subsp. <em>molle</em>, <em>Hypericum humifusum</em>, <em>Jasione montana</em>, <em>Limosella aquatica</em>, <em>Scabiosa ochroleuca</em>, <em>Vicia lathyroides</em>) in the Osoblažsko region. All were discovered at new sites in 2024. Some of these species, such as <em>Gagea </em>spp. and <em>Vicia lathyroides</em>, are likely underreported. <em>Artemisia absinthium</em> and <em>Scabiosa ochroleuca</em> were once common in this area, but are now considered very rare.</p>",
+     "access_right": "open",
+     "embargo_date": "2025-07-31",
+     "creators": [
+      {
+       "name": "Lukešová, Zuzana",
+       "affiliation": null
+      },
+      {
+       "name": "Lukeš, Zbyněk",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "50–58",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "14"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-9-4"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14547185"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Poznámky k rozšíření některých vzácnějších druhů na Osoblažsku III",
+    "links": {
+     "self": "https://zenodo.org/api/records/14547186",
+     "self_html": "https://zenodo.org/records/14547186",
+     "preview_html": "https://zenodo.org/records/14547186?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14547186",
+     "self_doi": "https://doi.org/10.5281/zenodo.14547186",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547186",
+     "reserve_doi": "https://zenodo.org/api/records/14547186/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14547185",
+     "parent_html": "https://zenodo.org/records/14547185",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14547185",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547185",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14547186/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14547186/sequence/default",
+     "files": "https://zenodo.org/api/records/14547186/files",
+     "media_files": "https://zenodo.org/api/records/14547186/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14547186:ZMSPCBS_2025-14_50-58.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14547186:ZMSPCBS_2025-14_50-58.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14547186:ZMSPCBS_2025-14_50-58.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14547186:ZMSPCBS_2025-14_50-58.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14547186:ZMSPCBS_2025-14_50-58.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14547186:ZMSPCBS_2025-14_50-58.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14547186/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14547186/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14547186/versions/latest",
+     "latest_html": "https://zenodo.org/records/14547186/latest",
+     "versions": "https://zenodo.org/api/records/14547186/versions",
+     "draft": "https://zenodo.org/api/records/14547186/draft",
+     "access_links": "https://zenodo.org/api/records/14547186/access/links",
+     "access_grants": "https://zenodo.org/api/records/14547186/access/grants",
+     "access_users": "https://zenodo.org/api/records/14547186/access/users",
+     "access_request": "https://zenodo.org/api/records/14547186/access/request",
+     "access": "https://zenodo.org/api/records/14547186/access",
+     "communities": "https://zenodo.org/api/records/14547186/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14547186/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14547186/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14547186/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14547186/quota-increase",
+     "requests": "https://zenodo.org/api/records/14547186/requests"
+    },
+    "updated": "2025-07-31T00:03:02.122480+00:00",
+    "recid": "14547186",
+    "revision": 12,
+    "files": [
+     {
+      "id": "0bd678b0-e51e-4e83-b7fd-e700f403891e",
+      "key": "ZMSPCBS_2025-14_50-58.pdf",
+      "size": 3075094,
+      "checksum": "md5:c1d7ec28ea8e67003be1d8f2d1caba04",
+      "links": {
+       "self": "https://zenodo.org/api/records/14547186/files/ZMSPCBS_2025-14_50-58.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 53,
+     "unique_downloads": 42,
+     "views": 73,
+     "unique_views": 65,
+     "version_downloads": 53,
+     "version_unique_downloads": 42,
+     "version_unique_views": 65,
+     "version_views": 73
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2025-02-18T10:21:06.111690+00:00",
+    "modified": "2025-07-31T00:03:53.759487+00:00",
+    "id": 14547173,
+    "conceptrecid": "14547172",
+    "doi": "10.5281/zenodo.14547173",
+    "conceptdoi": "10.5281/zenodo.14547172",
+    "doi_url": "https://doi.org/10.5281/zenodo.14547173",
+    "metadata": {
+     "title": "Bryologická exkurze za historií mechorostů v Beskydech",
+     "doi": "10.5281/zenodo.14547173",
+     "publication_date": "2025-01-31",
+     "description": "<p>The bryological field trip took place on October 12, 2024, in the forested area around the settlement of Hlavat&aacute; and Lučovec stream near the village of B&iacute;l&aacute; (Moravskoslezsk&eacute; Beskydy Mts). We surveyed a variety of habitats, including a forest spring, spruce forest, fir-beech forest, the vicinities of forest roads and streams, and other substrates. In total, 78 bryophyte species (26 liverworts and 52 mosses) were recorded. Among these, <em>Liochlaeana lanceolata </em>and <em>Hookeria lucens</em> are classified as Lower Risk &ndash; Near Threatened. Four species, namely <em>Riccardia latifrons</em>, <em>R. multifida</em>, <em>R. palmata</em> and <em>Trichocolea tomentella</em>, are listed under Least Concern &ndash; Attention list.</p>",
+     "access_right": "open",
+     "embargo_date": "2025-07-31",
+     "creators": [
+      {
+       "name": "Tkáčiková, Jana",
+       "affiliation": null
+      },
+      {
+       "name": "Kubešová, Svatava",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "46–49",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "14"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-9-4"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14547172"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Bryologická exkurze za historií mechorostů v Beskydech",
+    "links": {
+     "self": "https://zenodo.org/api/records/14547173",
+     "self_html": "https://zenodo.org/records/14547173",
+     "preview_html": "https://zenodo.org/records/14547173?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14547173",
+     "self_doi": "https://doi.org/10.5281/zenodo.14547173",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547173",
+     "reserve_doi": "https://zenodo.org/api/records/14547173/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14547172",
+     "parent_html": "https://zenodo.org/records/14547172",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14547172",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547172",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14547173/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14547173/sequence/default",
+     "files": "https://zenodo.org/api/records/14547173/files",
+     "media_files": "https://zenodo.org/api/records/14547173/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14547173:ZMSPCBS_2025-14_46-49.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14547173:ZMSPCBS_2025-14_46-49.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14547173:ZMSPCBS_2025-14_46-49.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14547173:ZMSPCBS_2025-14_46-49.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14547173:ZMSPCBS_2025-14_46-49.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14547173:ZMSPCBS_2025-14_46-49.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14547173/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14547173/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14547173/versions/latest",
+     "latest_html": "https://zenodo.org/records/14547173/latest",
+     "versions": "https://zenodo.org/api/records/14547173/versions",
+     "draft": "https://zenodo.org/api/records/14547173/draft",
+     "access_links": "https://zenodo.org/api/records/14547173/access/links",
+     "access_grants": "https://zenodo.org/api/records/14547173/access/grants",
+     "access_users": "https://zenodo.org/api/records/14547173/access/users",
+     "access_request": "https://zenodo.org/api/records/14547173/access/request",
+     "access": "https://zenodo.org/api/records/14547173/access",
+     "communities": "https://zenodo.org/api/records/14547173/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14547173/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14547173/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14547173/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14547173/quota-increase",
+     "requests": "https://zenodo.org/api/records/14547173/requests"
+    },
+    "updated": "2025-07-31T00:03:53.759487+00:00",
+    "recid": "14547173",
+    "revision": 10,
+    "files": [
+     {
+      "id": "2d2bb339-4a23-4d85-a957-f88c311dc15b",
+      "key": "ZMSPCBS_2025-14_46-49.pdf",
+      "size": 1352630,
+      "checksum": "md5:2edc49af0514f3dda642ad12e60046d4",
+      "links": {
+       "self": "https://zenodo.org/api/records/14547173/files/ZMSPCBS_2025-14_46-49.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 51,
+     "unique_downloads": 37,
+     "views": 101,
+     "unique_views": 94,
+     "version_downloads": 51,
+     "version_unique_downloads": 37,
+     "version_unique_views": 94,
+     "version_views": 101
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2025-02-18T10:13:42.404465+00:00",
+    "modified": "2025-07-31T00:03:49.804156+00:00",
+    "id": 14547156,
+    "conceptrecid": "14547155",
+    "doi": "10.5281/zenodo.14547156",
+    "conceptdoi": "10.5281/zenodo.14547155",
+    "doi_url": "https://doi.org/10.5281/zenodo.14547156",
+    "metadata": {
+     "title": "Exkurze Za mechorosty na hrad Hukvaldy a jeho okolí",
+     "doi": "10.5281/zenodo.14547156",
+     "publication_date": "2025-01-31",
+     "description": "<p>A total of 65 bryophytes taxa (7 liverworts and 58 mosses) were recorded during the excursion to Hukvaldy Castle and its surroundings on September 21, 2024. Four of these taxa are listed in the red list. Among the most noteworthy are the mosses <em>Rhynchostegium rotundifolium</em> and <em>Rhynchostegiella tenella</em>. Additionally, rich populations of the liverwort <em>Preissia quadrata</em> were observed in shaded corners of the castle ruins. Several other notable species, including <em>Conocephalum conicum</em>, <em>Fissidens exilis</em>, <em>F. limbatus</em>, <em>Pellia endiviifolia</em> and <em>Syntrichia latifolia</em> were found in the vicinity of the castle. The bryoflora of castles is the result of changes in the past and can be very interesting.</p>",
+     "access_right": "open",
+     "embargo_date": "2025-07-31",
+     "creators": [
+      {
+       "name": "Hradílek, Zbyněk",
+       "affiliation": null
+      },
+      {
+       "name": "Tkáčiková, Jana",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "40–45",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "14"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-9-4"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14547155"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Exkurze Za mechorosty na hrad Hukvaldy a jeho okolí",
+    "links": {
+     "self": "https://zenodo.org/api/records/14547156",
+     "self_html": "https://zenodo.org/records/14547156",
+     "preview_html": "https://zenodo.org/records/14547156?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14547156",
+     "self_doi": "https://doi.org/10.5281/zenodo.14547156",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547156",
+     "reserve_doi": "https://zenodo.org/api/records/14547156/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14547155",
+     "parent_html": "https://zenodo.org/records/14547155",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14547155",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547155",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14547156/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14547156/sequence/default",
+     "files": "https://zenodo.org/api/records/14547156/files",
+     "media_files": "https://zenodo.org/api/records/14547156/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14547156:ZMSPCBS_2025-14_40-45.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14547156:ZMSPCBS_2025-14_40-45.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14547156:ZMSPCBS_2025-14_40-45.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14547156:ZMSPCBS_2025-14_40-45.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14547156:ZMSPCBS_2025-14_40-45.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14547156:ZMSPCBS_2025-14_40-45.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14547156/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14547156/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14547156/versions/latest",
+     "latest_html": "https://zenodo.org/records/14547156/latest",
+     "versions": "https://zenodo.org/api/records/14547156/versions",
+     "draft": "https://zenodo.org/api/records/14547156/draft",
+     "access_links": "https://zenodo.org/api/records/14547156/access/links",
+     "access_grants": "https://zenodo.org/api/records/14547156/access/grants",
+     "access_users": "https://zenodo.org/api/records/14547156/access/users",
+     "access_request": "https://zenodo.org/api/records/14547156/access/request",
+     "access": "https://zenodo.org/api/records/14547156/access",
+     "communities": "https://zenodo.org/api/records/14547156/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14547156/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14547156/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14547156/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14547156/quota-increase",
+     "requests": "https://zenodo.org/api/records/14547156/requests"
+    },
+    "updated": "2025-07-31T00:03:49.804156+00:00",
+    "recid": "14547156",
+    "revision": 14,
+    "files": [
+     {
+      "id": "d93260f4-c8d4-4dcf-ace0-46b91e533e03",
+      "key": "ZMSPCBS_2025-14_40-45.pdf",
+      "size": 2001119,
+      "checksum": "md5:33206979f3b0312a2b48b06fbcba248c",
+      "links": {
+       "self": "https://zenodo.org/api/records/14547156/files/ZMSPCBS_2025-14_40-45.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 40,
+     "unique_downloads": 33,
+     "views": 58,
+     "unique_views": 53,
+     "version_downloads": 40,
+     "version_unique_downloads": 33,
+     "version_unique_views": 53,
+     "version_views": 58
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2025-02-18T10:10:12.711268+00:00",
+    "modified": "2025-07-31T00:03:51.802562+00:00",
+    "id": 14547138,
+    "conceptrecid": "14547137",
+    "doi": "10.5281/zenodo.14547138",
+    "conceptdoi": "10.5281/zenodo.14547137",
+    "doi_url": "https://doi.org/10.5281/zenodo.14547138",
+    "metadata": {
+     "title": "Za teplomilnými plevely a jiným kvítím okolo Staříča",
+     "doi": "10.5281/zenodo.14547138",
+     "publication_date": "2025-01-31",
+     "description": "<p>On June 29, 2024, a botanical excursion took place near the village of Stař&iacute;č, focusing on thermophilous weeds and other rare plants. The field trip covered diverse habitats, including mixed forests, pond shores, field margins, and fallows. Notable finds included rare weed species such as <em>Kickxia elatine</em>, <em>K. spuria</em>, <em>Valerianella dentata</em>, <em>V. rimosa</em>, and <em>Odontites vernus</em> subsp. <em>vernus</em>, among others. The excursion also included a visit to the Kamenn&aacute; Nature Monument, where the occurrence of <em>Linum flavum</em>, <em>L. austriacum</em>, <em>Gentiana lutea</em>, and other rare thermophilous plants was confirmed.</p>",
+     "access_right": "open",
+     "embargo_date": "2025-07-31",
+     "creators": [
+      {
+       "name": "Lukeš, Zbyněk",
+       "affiliation": null
+      },
+      {
+       "name": "Lukešová, Zuzana",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "34–39",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "14"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-9-4"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14547137"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Za teplomilnými plevely a jiným kvítím okolo Staříča",
+    "links": {
+     "self": "https://zenodo.org/api/records/14547138",
+     "self_html": "https://zenodo.org/records/14547138",
+     "preview_html": "https://zenodo.org/records/14547138?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14547138",
+     "self_doi": "https://doi.org/10.5281/zenodo.14547138",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547138",
+     "reserve_doi": "https://zenodo.org/api/records/14547138/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14547137",
+     "parent_html": "https://zenodo.org/records/14547137",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14547137",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547137",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14547138/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14547138/sequence/default",
+     "files": "https://zenodo.org/api/records/14547138/files",
+     "media_files": "https://zenodo.org/api/records/14547138/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14547138:ZMSPCBS_2025-14_34-39.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14547138:ZMSPCBS_2025-14_34-39.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14547138:ZMSPCBS_2025-14_34-39.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14547138:ZMSPCBS_2025-14_34-39.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14547138:ZMSPCBS_2025-14_34-39.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14547138:ZMSPCBS_2025-14_34-39.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14547138/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14547138/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14547138/versions/latest",
+     "latest_html": "https://zenodo.org/records/14547138/latest",
+     "versions": "https://zenodo.org/api/records/14547138/versions",
+     "draft": "https://zenodo.org/api/records/14547138/draft",
+     "access_links": "https://zenodo.org/api/records/14547138/access/links",
+     "access_grants": "https://zenodo.org/api/records/14547138/access/grants",
+     "access_users": "https://zenodo.org/api/records/14547138/access/users",
+     "access_request": "https://zenodo.org/api/records/14547138/access/request",
+     "access": "https://zenodo.org/api/records/14547138/access",
+     "communities": "https://zenodo.org/api/records/14547138/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14547138/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14547138/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14547138/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14547138/quota-increase",
+     "requests": "https://zenodo.org/api/records/14547138/requests"
+    },
+    "updated": "2025-07-31T00:03:51.802562+00:00",
+    "recid": "14547138",
+    "revision": 10,
+    "files": [
+     {
+      "id": "d2cc63cf-6456-4436-8d42-ca350aa01372",
+      "key": "ZMSPCBS_2025-14_34-39.pdf",
+      "size": 1553262,
+      "checksum": "md5:dc0dcc895325bccf3854518445ef0e84",
+      "links": {
+       "self": "https://zenodo.org/api/records/14547138/files/ZMSPCBS_2025-14_34-39.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 47,
+     "unique_downloads": 39,
+     "views": 62,
+     "unique_views": 58,
+     "version_downloads": 47,
+     "version_unique_downloads": 39,
+     "version_unique_views": 58,
+     "version_views": 62
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2025-02-18T10:02:39.824116+00:00",
+    "modified": "2025-07-31T00:03:51.335831+00:00",
+    "id": 14547118,
+    "conceptrecid": "14547117",
+    "doi": "10.5281/zenodo.14547118",
+    "conceptdoi": "10.5281/zenodo.14547117",
+    "doi_url": "https://doi.org/10.5281/zenodo.14547118",
+    "metadata": {
+     "title": "Exkurze jižním okrajem CHKO Jeseníky na Přemyslovské sedlo",
+     "doi": "10.5281/zenodo.14547118",
+     "publication_date": "2025-01-31",
+     "description": "<p>A field trip to the mountain meadows and transitional mires along the southern border of the Jesen&iacute;ky PLA (N Moravia, Czech Republic) took place on June 8, 2024. The route led from the village of Rejhotice to the Přemyslovsk&eacute; sedlo saddle. A total of 166 vascular plant taxa were recorded during the trip. Notable finds included <em>Cypripedium calceolus</em>, <em>Gymnadenia conopsea</em>, <em>Lilium bulbiferum</em>, <em>Orchis mascula</em> subsp. <em>speciosa</em>, <em>Pedicularis sylvatica</em>, and <em>Trifolium spadiceum</em>.</p>",
+     "access_right": "open",
+     "embargo_date": "2025-07-31",
+     "creators": [
+      {
+       "name": "Lamla, František",
+       "affiliation": null
+      },
+      {
+       "name": "Hroneš, Michal",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "28–33",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "14"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-9-4"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14547117"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Exkurze jižním okrajem CHKO Jeseníky na Přemyslovské sedlo",
+    "links": {
+     "self": "https://zenodo.org/api/records/14547118",
+     "self_html": "https://zenodo.org/records/14547118",
+     "preview_html": "https://zenodo.org/records/14547118?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14547118",
+     "self_doi": "https://doi.org/10.5281/zenodo.14547118",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547118",
+     "reserve_doi": "https://zenodo.org/api/records/14547118/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14547117",
+     "parent_html": "https://zenodo.org/records/14547117",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14547117",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547117",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14547118/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14547118/sequence/default",
+     "files": "https://zenodo.org/api/records/14547118/files",
+     "media_files": "https://zenodo.org/api/records/14547118/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14547118:ZMSPCBS_2025-14_28-33.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14547118:ZMSPCBS_2025-14_28-33.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14547118:ZMSPCBS_2025-14_28-33.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14547118:ZMSPCBS_2025-14_28-33.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14547118:ZMSPCBS_2025-14_28-33.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14547118:ZMSPCBS_2025-14_28-33.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14547118/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14547118/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14547118/versions/latest",
+     "latest_html": "https://zenodo.org/records/14547118/latest",
+     "versions": "https://zenodo.org/api/records/14547118/versions",
+     "draft": "https://zenodo.org/api/records/14547118/draft",
+     "access_links": "https://zenodo.org/api/records/14547118/access/links",
+     "access_grants": "https://zenodo.org/api/records/14547118/access/grants",
+     "access_users": "https://zenodo.org/api/records/14547118/access/users",
+     "access_request": "https://zenodo.org/api/records/14547118/access/request",
+     "access": "https://zenodo.org/api/records/14547118/access",
+     "communities": "https://zenodo.org/api/records/14547118/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14547118/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14547118/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14547118/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14547118/quota-increase",
+     "requests": "https://zenodo.org/api/records/14547118/requests"
+    },
+    "updated": "2025-07-31T00:03:51.335831+00:00",
+    "recid": "14547118",
+    "revision": 10,
+    "files": [
+     {
+      "id": "da296de3-7d70-43ca-a533-1ae857bb6c00",
+      "key": "ZMSPCBS_2025-14_28-33.pdf",
+      "size": 1803092,
+      "checksum": "md5:266763c7772349fc4024810ddc149324",
+      "links": {
+       "self": "https://zenodo.org/api/records/14547118/files/ZMSPCBS_2025-14_28-33.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 43,
+     "unique_downloads": 37,
+     "views": 51,
+     "unique_views": 47,
+     "version_downloads": 43,
+     "version_unique_downloads": 37,
+     "version_unique_views": 47,
+     "version_views": 51
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2025-02-18T09:58:14.409965+00:00",
+    "modified": "2025-07-31T00:03:08.195692+00:00",
+    "id": 14547097,
+    "conceptrecid": "14547096",
+    "doi": "10.5281/zenodo.14547097",
+    "conceptdoi": "10.5281/zenodo.14547096",
+    "doi_url": "https://doi.org/10.5281/zenodo.14547097",
+    "metadata": {
+     "title": "Copak roste v Hnojicích?",
+     "doi": "10.5281/zenodo.14547097",
+     "publication_date": "2025-01-31",
+     "description": "<p>The botanical excursion to the surroundings of the village of Hnojice, located in the Han&aacute; region of central Moravia, took place on June 1, 2024. The excursion explored the agricultural landscape and adjacent areas of the Litovelsk&eacute; Pomorav&iacute; Protected Landscape Area. Along the approximately 10 km route, we recorded several noteworthy plant species, including <em>Thalictrum lucidum</em>,<em> Pseudolysimachion maritimum, Silene baccifera</em> and the very rare and endangered <em>Carex strigosa</em>. The discovery of <em>C. strigosa</em> represents a significant range extension for this species, which had not been previously documented in the Han&aacute; region. Additionally, the excursion identified several populations of recently expanding grasses, such as <em>Vulpia myuros </em>and <em>Puccinelia distans</em>.</p>",
+     "access_right": "open",
+     "embargo_date": "2025-07-31",
+     "creators": [
+      {
+       "name": "Dvořák, Václav",
+       "affiliation": null
+      },
+      {
+       "name": "Dančák, Martin",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "23–27",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "14"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-9-4"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14547096"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Copak roste v Hnojicích?",
+    "links": {
+     "self": "https://zenodo.org/api/records/14547097",
+     "self_html": "https://zenodo.org/records/14547097",
+     "preview_html": "https://zenodo.org/records/14547097?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14547097",
+     "self_doi": "https://doi.org/10.5281/zenodo.14547097",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547097",
+     "reserve_doi": "https://zenodo.org/api/records/14547097/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14547096",
+     "parent_html": "https://zenodo.org/records/14547096",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14547096",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547096",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14547097/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14547097/sequence/default",
+     "files": "https://zenodo.org/api/records/14547097/files",
+     "media_files": "https://zenodo.org/api/records/14547097/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14547097:ZMSPCBS_2025-14_23-27.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14547097:ZMSPCBS_2025-14_23-27.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14547097:ZMSPCBS_2025-14_23-27.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14547097:ZMSPCBS_2025-14_23-27.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14547097:ZMSPCBS_2025-14_23-27.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14547097:ZMSPCBS_2025-14_23-27.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14547097/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14547097/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14547097/versions/latest",
+     "latest_html": "https://zenodo.org/records/14547097/latest",
+     "versions": "https://zenodo.org/api/records/14547097/versions",
+     "draft": "https://zenodo.org/api/records/14547097/draft",
+     "access_links": "https://zenodo.org/api/records/14547097/access/links",
+     "access_grants": "https://zenodo.org/api/records/14547097/access/grants",
+     "access_users": "https://zenodo.org/api/records/14547097/access/users",
+     "access_request": "https://zenodo.org/api/records/14547097/access/request",
+     "access": "https://zenodo.org/api/records/14547097/access",
+     "communities": "https://zenodo.org/api/records/14547097/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14547097/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14547097/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14547097/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14547097/quota-increase",
+     "requests": "https://zenodo.org/api/records/14547097/requests"
+    },
+    "updated": "2025-07-31T00:03:08.195692+00:00",
+    "recid": "14547097",
+    "revision": 14,
+    "files": [
+     {
+      "id": "6a78e7f5-a250-4a4c-b586-e19e4a042bc6",
+      "key": "ZMSPCBS_2025-14_23-27.pdf",
+      "size": 2924526,
+      "checksum": "md5:570de92fe9dfa6374766ccb79d20edaf",
+      "links": {
+       "self": "https://zenodo.org/api/records/14547097/files/ZMSPCBS_2025-14_23-27.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 52,
+     "unique_downloads": 45,
+     "views": 60,
+     "unique_views": 56,
+     "version_downloads": 52,
+     "version_unique_downloads": 45,
+     "version_unique_views": 56,
+     "version_views": 60
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2025-02-18T09:54:49.226478+00:00",
+    "modified": "2025-07-31T00:02:16.014980+00:00",
+    "id": 14547060,
+    "conceptrecid": "14547059",
+    "doi": "10.5281/zenodo.14547060",
+    "conceptdoi": "10.5281/zenodo.14547059",
+    "doi_url": "https://doi.org/10.5281/zenodo.14547060",
+    "metadata": {
+     "title": "Exkurze do údolí Javorné u Zlatých Hor",
+     "doi": "10.5281/zenodo.14547060",
+     "publication_date": "2025-01-31",
+     "description": "<p>A field trip to the Javorn&aacute; valley, located in the northern corner of the Jesen&iacute;ky Mts, took place on May 18, 2024. At the beginning, we surveyed ruderal and synanthropic flora in Ondřejovice. Among other species, we found <em>Tellima grandiflora</em>, a rarely escaping ornamental species native to North America. Later on, we passed through cattle pastures and forests west of the village, where we admired a local botanical curiosity, <em>Cardamine chelidonia</em>. This species, native to southern Europe, now occurs locally in the forests of the Jesen&iacute;ky Mts but remains rare elsewhere in the Czech Republic. Afterwards, we reached the Javorn&aacute; River valley, where we encountered another curiosity, a legally protected invasive tree (<em>Robinia pseudoacacia</em>, originally from North America). In total, we recorded 214 plant taxa during the field trip.</p>",
+     "access_right": "open",
+     "embargo_date": "2025-07-31",
+     "creators": [
+      {
+       "name": "Hédl, Radim",
+       "affiliation": null
+      },
+      {
+       "name": "Taraška, Vojtěch",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "17–22",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "14"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-9-4"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14547059"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Exkurze do údolí Javorné u Zlatých Hor",
+    "links": {
+     "self": "https://zenodo.org/api/records/14547060",
+     "self_html": "https://zenodo.org/records/14547060",
+     "preview_html": "https://zenodo.org/records/14547060?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14547060",
+     "self_doi": "https://doi.org/10.5281/zenodo.14547060",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547060",
+     "reserve_doi": "https://zenodo.org/api/records/14547060/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14547059",
+     "parent_html": "https://zenodo.org/records/14547059",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14547059",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547059",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14547060/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14547060/sequence/default",
+     "files": "https://zenodo.org/api/records/14547060/files",
+     "media_files": "https://zenodo.org/api/records/14547060/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14547060:ZMSPCBS_2025-14_17-22.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14547060:ZMSPCBS_2025-14_17-22.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14547060:ZMSPCBS_2025-14_17-22.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14547060:ZMSPCBS_2025-14_17-22.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14547060:ZMSPCBS_2025-14_17-22.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14547060:ZMSPCBS_2025-14_17-22.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14547060/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14547060/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14547060/versions/latest",
+     "latest_html": "https://zenodo.org/records/14547060/latest",
+     "versions": "https://zenodo.org/api/records/14547060/versions",
+     "draft": "https://zenodo.org/api/records/14547060/draft",
+     "access_links": "https://zenodo.org/api/records/14547060/access/links",
+     "access_grants": "https://zenodo.org/api/records/14547060/access/grants",
+     "access_users": "https://zenodo.org/api/records/14547060/access/users",
+     "access_request": "https://zenodo.org/api/records/14547060/access/request",
+     "access": "https://zenodo.org/api/records/14547060/access",
+     "communities": "https://zenodo.org/api/records/14547060/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14547060/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14547060/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14547060/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14547060/quota-increase",
+     "requests": "https://zenodo.org/api/records/14547060/requests"
+    },
+    "updated": "2025-07-31T00:02:16.014980+00:00",
+    "recid": "14547060",
+    "revision": 12,
+    "files": [
+     {
+      "id": "a345573a-879f-487e-87d4-2659b5a7cde5",
+      "key": "ZMSPCBS_2025-14_17-22.pdf",
+      "size": 4530091,
+      "checksum": "md5:b9057b7702bcd1f21ad0e462885e4c4a",
+      "links": {
+       "self": "https://zenodo.org/api/records/14547060/files/ZMSPCBS_2025-14_17-22.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 42,
+     "unique_downloads": 37,
+     "views": 57,
+     "unique_views": 54,
+     "version_downloads": 42,
+     "version_unique_downloads": 37,
+     "version_unique_views": 54,
+     "version_views": 57
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2025-02-18T08:40:29.908472+00:00",
+    "modified": "2025-07-31T00:03:02.835937+00:00",
+    "id": 14547028,
+    "conceptrecid": "14547027",
+    "doi": "10.5281/zenodo.14547028",
+    "conceptdoi": "10.5281/zenodo.14547027",
+    "doi_url": "https://doi.org/10.5281/zenodo.14547028",
+    "metadata": {
+     "title": "Cestou necestou do Podbeskydí za pampeliškami nejen sekce Taraxacum",
+     "doi": "10.5281/zenodo.14547028",
+     "publication_date": "2025-01-31",
+     "description": "<p>On April 20, 2024, we led an excursion focused on the floristic survey of dandelions (<em>Taraxacum</em>) across 12 localities in the Podbeskyd&iacute; region (northeastern part of the Czech Republic). In total, we recorded 54 described species of this genus, along with several other species that have not yet been scientifically identified. The majority of the species belonged to the section <em>Taraxacum </em>(syn.: sect. <em>Ruderalia</em>), although we also found representatives of the sections <em>Hamata </em>(<em>T. hamatiforme</em>) and <em>Celtica </em>(<em>T. gelertii</em>). Perhaps the most noteworthy discovery was <em>T. cordatum</em> (sect. <em>Taraxacum</em>) in the city of Třinec. This taxon had not previously been reported in the Podbeskyd&iacute; region and was known from only three other localities in the Czech Republic. Additionally, we observed other notable plants accompanying the dandelions, such as <em>Eleocharis uniglumis</em> near the city of Fr&yacute;dek-M&iacute;stek.</p>",
+     "access_right": "open",
+     "embargo_date": "2025-07-31",
+     "creators": [
+      {
+       "name": "Hlisnikovský, David",
+       "affiliation": null
+      },
+      {
+       "name": "Trávníček, Bohumil",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "11–16",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "14"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-9-4"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14547027"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Cestou necestou do Podbeskydí za pampeliškami nejen sekce Taraxacum",
+    "links": {
+     "self": "https://zenodo.org/api/records/14547028",
+     "self_html": "https://zenodo.org/records/14547028",
+     "preview_html": "https://zenodo.org/records/14547028?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14547028",
+     "self_doi": "https://doi.org/10.5281/zenodo.14547028",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547028",
+     "reserve_doi": "https://zenodo.org/api/records/14547028/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14547027",
+     "parent_html": "https://zenodo.org/records/14547027",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14547027",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547027",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14547028/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14547028/sequence/default",
+     "files": "https://zenodo.org/api/records/14547028/files",
+     "media_files": "https://zenodo.org/api/records/14547028/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14547028:ZMSPCBS_2025-14_11-16.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14547028:ZMSPCBS_2025-14_11-16.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14547028:ZMSPCBS_2025-14_11-16.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14547028:ZMSPCBS_2025-14_11-16.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14547028:ZMSPCBS_2025-14_11-16.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14547028:ZMSPCBS_2025-14_11-16.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14547028/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14547028/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14547028/versions/latest",
+     "latest_html": "https://zenodo.org/records/14547028/latest",
+     "versions": "https://zenodo.org/api/records/14547028/versions",
+     "draft": "https://zenodo.org/api/records/14547028/draft",
+     "access_links": "https://zenodo.org/api/records/14547028/access/links",
+     "access_grants": "https://zenodo.org/api/records/14547028/access/grants",
+     "access_users": "https://zenodo.org/api/records/14547028/access/users",
+     "access_request": "https://zenodo.org/api/records/14547028/access/request",
+     "access": "https://zenodo.org/api/records/14547028/access",
+     "communities": "https://zenodo.org/api/records/14547028/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14547028/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14547028/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14547028/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14547028/quota-increase",
+     "requests": "https://zenodo.org/api/records/14547028/requests"
+    },
+    "updated": "2025-07-31T00:03:02.835937+00:00",
+    "recid": "14547028",
+    "revision": 16,
+    "files": [
+     {
+      "id": "7414db37-1287-4826-95b1-98efee3414d6",
+      "key": "ZMSPCBS_2025-14_11-16.pdf",
+      "size": 4301434,
+      "checksum": "md5:c24569746acdb7fff0219830f6a2c352",
+      "links": {
+       "self": "https://zenodo.org/api/records/14547028/files/ZMSPCBS_2025-14_11-16.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 66,
+     "unique_downloads": 48,
+     "views": 108,
+     "unique_views": 99,
+     "version_downloads": 66,
+     "version_unique_downloads": 48,
+     "version_unique_views": 99,
+     "version_views": 108
+    },
+    "state": "done",
+    "submitted": true
+   }
+  ],
+  "total": 30
+ },
+ "aggregations": {
+  "publication_date": {
+   "buckets": [
+    {
+     "key": "2021",
+     "doc_count": 1,
+     "label": "2021",
+     "is_selected": false
+    },
+    {
+     "key": "2022",
+     "doc_count": 1,
+     "label": "2022",
+     "is_selected": false
+    },
+    {
+     "key": "2023",
+     "doc_count": 0,
+     "label": "2023",
+     "is_selected": false
+    },
+    {
+     "key": "2024",
+     "doc_count": 0,
+     "label": "2024",
+     "is_selected": false
+    },
+    {
+     "key": "2025",
+     "doc_count": 15,
+     "label": "2025",
+     "is_selected": false
+    },
+    {
+     "key": "2026",
+     "doc_count": 13,
+     "label": "2026",
+     "is_selected": false
+    }
+   ],
+   "label": "Publication date"
+  },
+  "access_status": {
+   "buckets": [
+    {
+     "key": "open",
+     "doc_count": 20,
+     "label": "Open",
+     "is_selected": false
+    },
+    {
+     "key": "embargoed",
+     "doc_count": 10,
+     "label": "Embargoed",
+     "is_selected": false
+    }
+   ],
+   "label": "Access status"
+  },
+  "resource_type": {
+   "buckets": [
+    {
+     "key": "publication",
+     "doc_count": 30,
+     "label": "Publication",
+     "is_selected": false,
+     "inner": {
+      "buckets": [
+       {
+        "key": "publication-article",
+        "doc_count": 30,
+        "label": "Journal article",
+        "is_selected": false
+       }
+      ]
+     }
+    }
+   ],
+   "label": "Resource types"
+  },
+  "subject": {
+   "buckets": [],
+   "label": "Subjects"
+  },
+  "file_type": {
+   "buckets": [
+    {
+     "key": "pdf",
+     "doc_count": 20,
+     "label": "PDF",
+     "is_selected": false
+    }
+   ],
+   "label": "File type"
+  }
+ },
+ "links": {
+  "self": "https://zenodo.org/api/communities/msp-cbs/records?page=1&size=25&sort=newest",
+  "next": "https://zenodo.org/api/communities/msp-cbs/records?page=2&size=25&sort=newest"
+ }
+}

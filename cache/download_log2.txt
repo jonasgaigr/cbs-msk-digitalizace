@@ -1,0 +1,238 @@
+http_404   pdf/01/ZMSPCBS_2011-1-2.pdf
+http_404   pdf/01/ZMSPCBS_2011-1-4.pdf
+exists     pdf/02/ZMSPCBS_2013-2-3.pdf
+exists     pdf/02/ZMSPCBS_2013-2-7-15.pdf
+exists     pdf/02/ZMSPCBS_2013-2-16-20.pdf
+exists     pdf/02/ZMSPCBS_2013-2-21-24.pdf
+exists     pdf/02/ZMSPCBS_2013-2-25-28.pdf
+exists     pdf/02/ZMSPCBS_2013-2-42.pdf
+exists     pdf/02/ZMSPCBS_2013-2-43-47.pdf
+exists     pdf/02/ZMSPCBS_2013-2-48-49.pdf
+exists     pdf/02/ZMSPCBS_2013-2-52-53.pdf
+exists     pdf/02/ZMSPCBS_2013-2-54-55+vi.pdf
+exists     pdf/02/ZMSPCBS_2013-2-56-60.pdf
+exists     pdf/02/ZMSPCBS_2013-2-61-63.pdf
+exists     pdf/02/ZMSPCBS_2013-2-66.pdf
+exists     pdf/03/ZMSPCBS_2014-3-5.pdf
+exists     pdf/03/ZMSPCBS_2014-3-6-7.pdf
+exists     pdf/03/ZMSPCBS_2014-3-8-9.pdf
+exists     pdf/03/ZMSPCBS_2014-3-10-12.pdf
+exists     pdf/03/ZMSPCBS_2014-3-13-15.pdf
+exists     pdf/03/ZMSPCBS_2014-3-16-17.pdf
+exists     pdf/03/ZMSPCBS_2014-3-18-20.pdf
+exists     pdf/03/ZMSPCBS_2014-3-21-22.pdf
+exists     pdf/03/ZMSPCBS_2014-3-23-26.pdf
+exists     pdf/03/ZMSPCBS_2014-3-27-30.pdf
+exists     pdf/03/ZMSPCBS_2014-3-31-32.pdf
+exists     pdf/03/ZMSPCBS_2014-3-33.pdf
+exists     pdf/03/ZMSPCBS_2014-3-34-38.pdf
+exists     pdf/03/ZMSPCBS_2014-3-39-46.pdf
+exists     pdf/03/ZMSPCBS_2014-3-47-49.pdf
+exists     pdf/03/ZMSPCBS_2014-3-50-53.pdf
+exists     pdf/03/ZMSPCBS_2014-3-54-56.pdf
+exists     pdf/03/ZMSPCBS_2014-3-57-60.pdf
+exists     pdf/03/ZMSPCBS_2014-3-61-63.pdf
+exists     pdf/03/ZMSPCBS_2014-3-64-65.pdf
+exists     pdf/03/ZMSPCBS_2014-3-66.pdf
+exists     pdf/03/ZMSPCBS_2014-3-67.pdf
+exists     pdf/03/ZMSPCBS_2014-3-67.pdf
+exists     pdf/03/ZMSPCBS_2014-3-71.pdf
+exists     pdf/03/ZMSPCBS_2014-3-72.pdf
+exists     pdf/03-P1/ZMSPCBS_3_P1_1-48.pdf
+exists     pdf/03-P2/ZMSPCBS_2014-3-PRILOHA2-FINAL.pdf
+exists     pdf/04/ZMSPCBS_2015-4-4.pdf
+exists     pdf/04/ZMSPCBS_2015-4-5-6.pdf
+exists     pdf/04/ZMSPCBS_2015-4-7-10.pdf
+exists     pdf/04/ZMSPCBS_2015-4-11-13.pdf
+exists     pdf/04/ZMSPCBS_2015-4-14-18.pdf
+exists     pdf/04/ZMSPCBS_2015-4-19-21.pdf
+exists     pdf/04/ZMSPCBS_2015-4-22-24.pdf
+exists     pdf/04/ZMSPCBS_2015-4-25-27.pdf
+exists     pdf/04/ZMSPCBS_2015-4-28-32.pdf
+exists     pdf/04/ZMSPCBS_2015-4-33-36.pdf
+exists     pdf/04/ZMSPCBS_2015-4-37-38.pdf
+exists     pdf/04/ZMSPCBS_2015-4-39-42.pdf
+exists     pdf/04/ZMSPCBS_2015-4-43-49.pdf
+exists     pdf/04/ZMSPCBS_2015-4-50-52.pdf
+exists     pdf/04-P1/ZMSPCBS_2015-4-PRILOHA1-WEB.pdf
+exists     pdf/04-P2/ZMSPCBS_4_P2_1-48_WEB.pdf
+exists     pdf/05/ZMSPCBS_2016-5-4.pdf
+exists     pdf/05/ZMSPCBS_2016-5-5-10.pdf
+exists     pdf/05/ZMSPCBS_2016-5-11-14.pdf
+exists     pdf/05/ZMSPCBS_2016-5-15-17.pdf
+exists     pdf/05/ZMSPCBS_2016-5-18-19.pdf
+exists     pdf/05/ZMSPCBS_2016-5-20-26.pdf
+exists     pdf/05/ZMSPCBS_2016-5-27-32.pdf
+exists     pdf/05/ZMSPCBS_2016-5-33-36.pdf
+exists     pdf/05/ZMSPCBS_2016-5-37-42.pdf
+exists     pdf/05/ZMSPCBS_2016-5-43-46.pdf
+exists     pdf/05/ZMSPCBS_2016-5-47-54.pdf
+exists     pdf/05/ZMSPCBS_2016-5-55-59.pdf
+exists     pdf/05/ZMSPCBS_2016-5-60-61.pdf
+exists     pdf/05/ZMSPCBS_2016-5-62-64.pdf
+exists     pdf/06/ZMSPCBS_2017-6-4.pdf
+exists     pdf/06/ZMSPCBS_2017-6-5-10.pdf
+exists     pdf/06/ZMSPCBS_2017-6-11-14.pdf
+exists     pdf/06/ZMSPCBS_2017-6-15-19.pdf
+exists     pdf/06/ZMSPCBS_2017-6-20-24.pdf
+exists     pdf/06/ZMSPCBS_2017-6-25-29.pdf
+exists     pdf/06/ZMSPCBS_2017-6-30-33.pdf
+exists     pdf/06/ZMSPCBS_2017-6-34-38.pdf
+exists     pdf/06/ZMSPCBS_2017-6-39-42.pdf
+exists     pdf/06/ZMSPCBS_2017-6-43-47.pdf
+exists     pdf/06/ZMSPCBS_2017-6-48-51.pdf
+exists     pdf/06/ZMSPCBS_2017-6-52-55.pdf
+exists     pdf/06/ZMSPCBS_2017-6-56-60.pdf
+exists     pdf/06/ZMSPCBS_2017-6-61-62.pdf
+exists     pdf/06/ZMSPCBS_2017-6-63-64.pdf
+exists     pdf/07/ZMSP_2018-7-4.pdf
+exists     pdf/07/ZMSP_2018-7-5-10.pdf
+exists     pdf/07/ZMSP_2018-7-11-14.pdf
+exists     pdf/07/ZMSP_2018-7-15-19.pdf
+exists     pdf/07/ZMSP_2018-7-20-24.pdf
+exists     pdf/07/ZMSP_2018-7-25-28.pdf
+exists     pdf/07/ZMSP_2018-7-29-33.pdf
+exists     pdf/07/ZMSP_2018-7-34-37.pdf
+exists     pdf/07/ZMSP_2018-7-38-40.pdf
+exists     pdf/07/ZMSP_2018-7-41-44.pdf
+exists     pdf/07/ZMSP_2018-7-45-54.pdf
+exists     pdf/07/ZMSP_2018-7-55-60.pdf
+exists     pdf/07/ZMSP_2018-7-61-65.pdf
+exists     pdf/07/ZMSP_2018-7-66-69.pdf
+exists     pdf/07/ZMSP_2018-7-70-75.pdf
+exists     pdf/07/ZMSP_2018-7-76.pdf
+exists     pdf/07/ZMSP_2018-7-77-78.pdf
+exists     pdf/07/ZMSP_2018-7-79-80.pdf
+exists     pdf/08/ZMSPCBS_2019-8-4.pdf
+exists     pdf/08/ZMSPCBS_2019-8-5-11.pdf
+exists     pdf/08/ZMSPCBS_2019-8-11-13.pdf
+exists     pdf/08/ZMSPCBS_2019-8-14-19.pdf
+exists     pdf/08/ZMSPCBS_2019-8-20-23.pdf
+exists     pdf/08/ZMSPCBS_2019-8-24-28.pdf
+exists     pdf/08/ZMSPCBS_2019-8-29-33.pdf
+exists     pdf/08/ZMSPCBS_2019-8-34-39.pdf
+exists     pdf/08/ZMSPCBS_2019-8-40-42.pdf
+exists     pdf/08/ZMSPCBS_2019-8-43-47.pdf
+exists     pdf/08/ZMSPCBS_2019-8-48-53.pdf
+exists     pdf/08/ZMSPCBS_2019-8-54-57.pdf
+exists     pdf/08/ZMSPCBS_2019-8-58-60.pdf
+exists     pdf/08/ZMSPCBS_2019-8-61-62.pdf
+exists     pdf/09/ZMSPCBS_2020-9-4.pdf
+exists     pdf/09/ZMSPCBS_2020-9-5-10.pdf
+exists     pdf/09/ZMSPCBS_2020-9-11-13.pdf
+exists     pdf/09/ZMSPCBS_2020-9-14-19.pdf
+exists     pdf/09/ZMSPCBS_2020-9-20-23.pdf
+exists     pdf/09/ZMSPCBS_2020-9-24-28.pdf
+exists     pdf/09/ZMSPCBS_2020-9-29-33.pdf
+exists     pdf/09/ZMSPCBS_2020-9-34-39.pdf
+exists     pdf/09/ZMSPCBS_2020-9-40-44.pdf
+exists     pdf/09/ZMSPCBS_2020-9-45-49.pdf
+exists     pdf/09/ZMSPCBS_2020-9-50-53.pdf
+exists     pdf/09/ZMSPCBS_2020-9-54-61.pdf
+exists     pdf/09/ZMSPCBS_2020-9-62-72.pdf
+exists     pdf/09/ZMSPCBS_2020-9-73-76.pdf
+exists     pdf/09/ZMSPCBS_2020-9-77-82.pdf
+exists     pdf/09/ZMSPCBS_2020-9-83-84.pdf
+exists     pdf/10/ZMSPCBS_2021-10-4.pdf
+exists     pdf/10/ZMSPCBS_2021-10-5-9.pdf
+exists     pdf/10/ZMSPCBS_2021-10-10-23.pdf
+exists     pdf/10/ZMSPCBS_2021-10-24-28.pdf
+exists     pdf/10/ZMSPCBS_2021-10-29-32.pdf
+exists     pdf/10/ZMSPCBS_2021-10-33-38.pdf
+exists     pdf/10/ZMSPCBS_2021-10-39-42.pdf
+exists     pdf/10/ZMSPCBS_2021-10-43-52.pdf
+exists     pdf/10/ZMSPCBS_2021-10-53-63.pdf
+exists     pdf/10/ZMSPCBS_2021-10-64-65.pdf
+exists     pdf/10/ZMSPCBS_2021-10-66-69.pdf
+exists     pdf/11/ZMSPCBS_2022-11-4.pdf
+exists     pdf/11/ZMSPCBS_2022-11-5-9.pdf
+exists     pdf/11/ZMSPCBS_2022-11-10-21.pdf
+exists     pdf/11/ZMSPCBS_2022-11-22-27.pdf
+exists     pdf/11/ZMSPCBS_2022-11-28-32.pdf
+exists     pdf/11/ZMSPCBS_2022-11-33-38.pdf
+exists     pdf/11/ZMSPCBS_2022-11-39-42.pdf
+exists     pdf/11/ZMSPCBS_2022-11-43-46.pdf
+exists     pdf/11/ZMSPCBS_2022-11-47-50.pdf
+exists     pdf/11/ZMSPCBS_2022-11-51-62.pdf
+exists     pdf/11/ZMSPCBS_2022-11-63-72.pdf
+exists     pdf/11/ZMSPCBS_2022-11-73-76.pdf
+exists     pdf/11/ZMSPCBS_2022-11-77-80.pdf
+exists     pdf/12/ZMSPCBS_2023-12-4.pdf
+exists     pdf/12/ZMSPCBS_2023-12-5-10.pdf
+exists     pdf/12/ZMSPCBS_2023-12-11-14.pdf
+exists     pdf/12/ZMSPCBS_2023-12-15-19.pdf
+exists     pdf/12/ZMSPCBS_2023-12-20-24.pdf
+exists     pdf/12/ZMSPCBS_2023-12-25-30.pdf
+exists     pdf/12/ZMSPCBS_2023-12-31-36.pdf
+exists     pdf/12/ZMSPCBS_2023-12-37-41.pdf
+exists     pdf/12/ZMSPCBS_2023-12-42-45.pdf
+exists     pdf/12/ZMSPCBS_2023-12-46-50.pdf
+exists     pdf/12/ZMSPCBS_2023-12-51-62.pdf
+exists     pdf/12/ZMSPCBS_2023-12-63-64.pdf
+exists     pdf/12/ZMSPCBS_2023-12-65-69.pdf
+exists     pdf/12/ZMSPCBS_2023-12-70-72.pdf
+exists     pdf/13/ZMSPCBS_2024-13_4.pdf
+exists     pdf/13/ZMSPCBS_2024-13_5-10.pdf
+exists     pdf/13/ZMSPCBS_2024-13_11-16.pdf
+exists     pdf/13/ZMSPCBS_2024-13_17-21.pdf
+exists     pdf/13/ZMSPCBS_2024-13_22-25.pdf
+exists     pdf/13/ZMSPCBS_2024-13_26-31.pdf
+exists     pdf/13/ZMSPCBS_2024-13_32-39.pdf
+exists     pdf/13/ZMSPCBS_2024-13_40-45.pdf
+exists     pdf/13/ZMSPCBS_2024-13_46-49.pdf
+exists     pdf/13/ZMSPCBS_2024-13_50.pdf
+exists     pdf/13/ZMSPCBS_2024-13_51-53.pdf
+exists     pdf/13/ZMSPCBS_2024-13_54-55.pdf
+exists     pdf/14/ZMSPCBS_2025-14_4.pdf
+exists     pdf/14/ZMSPCBS_2025-14_5-10.pdf
+exists     pdf/14/ZMSPCBS_2025-14_11-16.pdf
+exists     pdf/14/ZMSPCBS_2025-14_17-22.pdf
+exists     pdf/14/ZMSPCBS_2025-14_23-27.pdf
+exists     pdf/14/ZMSPCBS_2025-14_28-33.pdf
+exists     pdf/14/ZMSPCBS_2025-14_34-39.pdf
+exists     pdf/14/ZMSPCBS_2025-14_40-45.pdf
+exists     pdf/14/ZMSPCBS_2025-14_46-49.pdf
+exists     pdf/14/ZMSPCBS_2025-14_50-58.pdf
+exists     pdf/14/ZMSPCBS_2025-14_59-61.pdf
+exists     pdf/14/ZMSPCBS_2025-14_62-64.pdf
+exists     pdf/14/ZMSPCBS_2025-14_65-74.pdf
+exists     pdf/14/ZMSPCBS_2025-14_75-77.pdf
+exists     pdf/14/ZMSPCBS_2025-14_78-80.pdf
+exists     pdf/15/ZMSP_2026_Editorial.pdf
+exists     pdf/15/ZMSP_2026_Ruz_Hrones.pdf
+exists     pdf/15/ZMSP_2026_Vyr_Kalnikova.pdf
+č. 1/2012: 13 entries, 2 with PDF link
+č. 2/2013: 20 entries, 13 with PDF link
+č. 3/2014: 26 entries, 25 with PDF link
+č. 3/2014 Příloha 1: 1 entries, 1 with PDF link
+č. 3/2014 Příloha 2: 1 entries, 1 with PDF link
+č. 4/2015: 14 entries, 14 with PDF link
+č. 4/2015 Příloha 1: 1 entries, 1 with PDF link
+č. 4/2015 Příloha 2: 1 entries, 1 with PDF link
+č. 5/2016: 14 entries, 14 with PDF link
+č. 6/2017: 15 entries, 15 with PDF link
+č. 7/2018: 18 entries, 18 with PDF link
+č. 8/2019: 15 entries, 14 with PDF link
+č. 9/2020: 16 entries, 16 with PDF link
+č. 10/2021: 13 entries, 11 with PDF link
+č. 11/2022: 13 entries, 13 with PDF link
+č. 11/2022, Příloha 1: 1 entries, 0 with PDF link
+č. 12/2023: 14 entries, 14 with PDF link
+č. 13/2024: 13 entries, 12 with PDF link
+č. 14/2025: 15 entries, 0 with PDF link
+č. 15 (not in index table): 0 entries, 0 with PDF link
+Zenodo-only record added: č. 15 Patnácté číslo (10.5281/zenodo.18173720)
+Zenodo-only record added: č. 15 Publikace členů Moravskoslezské pobočky ČBS v roce 2025 (10.5281/zenodo.18174346)
+Zenodo-only record added: č. 15 Šíření pryšce skvrnitého (Euphorbia maculata) na území Olomo (10.5281/zenodo.18174262)
+Zenodo-only record added: č. 15 Floristická překvapení v korytě otrávené řeky aneb jak Bečvě (10.5281/zenodo.18174212)
+Zenodo-only record added: č. 15 Bryologická exkurze na Palkovické hůrky u Hukvald (10.5281/zenodo.18174161)
+Zenodo-only record added: č. 15 Co přinesla velká voda? (10.5281/zenodo.18174137)
+Zenodo-only record added: č. 15 Za přesličkami a orchidejemi na Jahodnou (10.5281/zenodo.18174109)
+Zenodo-only record added: č. 15 Ve stopách kêsanyho zeli z Bystročic (10.5281/zenodo.18174098)
+Zenodo-only record added: č. 15 Exkurze za kontryhely (Alchemilla) Javorníků (10.5281/zenodo.18174012)
+Zenodo-only record added: č. 15 Exkurze na Filipovické louky a další půvabná místa pod Toční (10.5281/zenodo.18173990)
+Zenodo-only record added: č. 15 Z Balkánu Končinami skoro na Hlaváčky (10.5281/zenodo.18173955)
+Zenodo-only record added: č. 15 Bryologická exkurze na pěnovcová prameniště (10.5281/zenodo.18173862)
+Zenodo-only record added: č. 15 Výroční zpráva Moravskoslezské pobočky ČBS za rok 2025 (10.5281/zenodo.18173822)
+
+237 manifest rows written to C:\Users\jonas.gaigr\Documents\cbs-msk-digitalizace\manifest.csv

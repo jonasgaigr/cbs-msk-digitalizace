@@ -1,0 +1,769 @@
+{
+ "hits": {
+  "hits": [
+   {
+    "created": "2025-02-18T08:36:55.333785+00:00",
+    "modified": "2025-02-18T11:32:26.149660+00:00",
+    "id": 14546998,
+    "conceptrecid": "14546997",
+    "doi": "10.5281/zenodo.14546998",
+    "conceptdoi": "10.5281/zenodo.14546997",
+    "doi_url": "https://doi.org/10.5281/zenodo.14546998",
+    "metadata": {
+     "title": "Výroční zpráva Moravskoslezské pobočky ČBS za rok 2024",
+     "doi": "10.5281/zenodo.14546998",
+     "publication_date": "2025-01-31",
+     "access_right": "open",
+     "creators": [
+      {
+       "name": "Kalníková, Veronika",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "5–10",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "14"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-9-4"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14546997"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Výroční zpráva Moravskoslezské pobočky ČBS za rok 2024",
+    "links": {
+     "self": "https://zenodo.org/api/records/14546998",
+     "self_html": "https://zenodo.org/records/14546998",
+     "preview_html": "https://zenodo.org/records/14546998?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14546998",
+     "self_doi": "https://doi.org/10.5281/zenodo.14546998",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14546998",
+     "reserve_doi": "https://zenodo.org/api/records/14546998/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14546997",
+     "parent_html": "https://zenodo.org/records/14546997",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14546997",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14546997",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14546998/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14546998/sequence/default",
+     "files": "https://zenodo.org/api/records/14546998/files",
+     "media_files": "https://zenodo.org/api/records/14546998/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14546998:ZMSPCBS_2025-14_5-10.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14546998:ZMSPCBS_2025-14_5-10.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14546998:ZMSPCBS_2025-14_5-10.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14546998:ZMSPCBS_2025-14_5-10.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14546998:ZMSPCBS_2025-14_5-10.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14546998:ZMSPCBS_2025-14_5-10.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14546998/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14546998/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14546998/versions/latest",
+     "latest_html": "https://zenodo.org/records/14546998/latest",
+     "versions": "https://zenodo.org/api/records/14546998/versions",
+     "draft": "https://zenodo.org/api/records/14546998/draft",
+     "access_links": "https://zenodo.org/api/records/14546998/access/links",
+     "access_grants": "https://zenodo.org/api/records/14546998/access/grants",
+     "access_users": "https://zenodo.org/api/records/14546998/access/users",
+     "access_request": "https://zenodo.org/api/records/14546998/access/request",
+     "access": "https://zenodo.org/api/records/14546998/access",
+     "communities": "https://zenodo.org/api/records/14546998/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14546998/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14546998/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14546998/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14546998/quota-increase",
+     "requests": "https://zenodo.org/api/records/14546998/requests"
+    },
+    "updated": "2025-02-18T11:32:26.149660+00:00",
+    "recid": "14546998",
+    "revision": 10,
+    "files": [
+     {
+      "id": "6f85ea7e-9ebd-4be5-925c-157cff034dee",
+      "key": "ZMSPCBS_2025-14_5-10.pdf",
+      "size": 7146213,
+      "checksum": "md5:2fa3e52872a5e49ec87924d32b121c27",
+      "links": {
+       "self": "https://zenodo.org/api/records/14546998/files/ZMSPCBS_2025-14_5-10.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 47,
+     "unique_downloads": 41,
+     "views": 41,
+     "unique_views": 39,
+     "version_downloads": 47,
+     "version_unique_downloads": 41,
+     "version_unique_views": 39,
+     "version_views": 41
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2025-02-18T08:34:31.098421+00:00",
+    "modified": "2025-02-18T11:29:01.531415+00:00",
+    "id": 14546958,
+    "conceptrecid": "14546957",
+    "doi": "10.5281/zenodo.14546958",
+    "conceptdoi": "10.5281/zenodo.14546957",
+    "doi_url": "https://doi.org/10.5281/zenodo.14546958",
+    "metadata": {
+     "title": "Čtrnácté číslo",
+     "doi": "10.5281/zenodo.14546958",
+     "publication_date": "2025-01-31",
+     "access_right": "open",
+     "creators": [
+      {
+       "name": "Taraška, Vojtěch",
+       "affiliation": null
+      }
+     ],
+     "dates": [
+      {
+       "type": "accepted"
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "4",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "14"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-9-4"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14546957"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Čtrnácté číslo",
+    "links": {
+     "self": "https://zenodo.org/api/records/14546958",
+     "self_html": "https://zenodo.org/records/14546958",
+     "preview_html": "https://zenodo.org/records/14546958?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14546958",
+     "self_doi": "https://doi.org/10.5281/zenodo.14546958",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14546958",
+     "reserve_doi": "https://zenodo.org/api/records/14546958/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14546957",
+     "parent_html": "https://zenodo.org/records/14546957",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14546957",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14546957",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14546958/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14546958/sequence/default",
+     "files": "https://zenodo.org/api/records/14546958/files",
+     "media_files": "https://zenodo.org/api/records/14546958/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14546958:ZMSPCBS_2025-14_4.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14546958:ZMSPCBS_2025-14_4.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14546958:ZMSPCBS_2025-14_4.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14546958:ZMSPCBS_2025-14_4.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14546958:ZMSPCBS_2025-14_4.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14546958:ZMSPCBS_2025-14_4.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14546958/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14546958/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14546958/versions/latest",
+     "latest_html": "https://zenodo.org/records/14546958/latest",
+     "versions": "https://zenodo.org/api/records/14546958/versions",
+     "draft": "https://zenodo.org/api/records/14546958/draft",
+     "access_links": "https://zenodo.org/api/records/14546958/access/links",
+     "access_grants": "https://zenodo.org/api/records/14546958/access/grants",
+     "access_users": "https://zenodo.org/api/records/14546958/access/users",
+     "access_request": "https://zenodo.org/api/records/14546958/access/request",
+     "access": "https://zenodo.org/api/records/14546958/access",
+     "communities": "https://zenodo.org/api/records/14546958/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14546958/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14546958/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14546958/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14546958/quota-increase",
+     "requests": "https://zenodo.org/api/records/14546958/requests"
+    },
+    "updated": "2025-02-18T11:29:01.531415+00:00",
+    "recid": "14546958",
+    "revision": 8,
+    "files": [
+     {
+      "id": "7f71be09-4a1b-4feb-9d10-4dc7f2cdc404",
+      "key": "ZMSPCBS_2025-14_4.pdf",
+      "size": 45452,
+      "checksum": "md5:0996a530c62dd0d9a1fa31151891e282",
+      "links": {
+       "self": "https://zenodo.org/api/records/14546958/files/ZMSPCBS_2025-14_4.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 46,
+     "unique_downloads": 40,
+     "views": 49,
+     "unique_views": 44,
+     "version_downloads": 46,
+     "version_unique_downloads": 40,
+     "version_unique_views": 44,
+     "version_views": 49
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2025-02-18T08:30:36.080298+00:00",
+    "modified": "2025-02-18T11:29:46.841917+00:00",
+    "id": 14547407,
+    "conceptrecid": "14547406",
+    "doi": "10.5281/zenodo.14547407",
+    "conceptdoi": "10.5281/zenodo.14547406",
+    "doi_url": "https://doi.org/10.5281/zenodo.14547407",
+    "metadata": {
+     "title": "Publikace členů Moravskoslezské pobočky ČBS v roce 2024",
+     "doi": "10.5281/zenodo.14547407",
+     "publication_date": "2025-01-31",
+     "access_right": "open",
+     "creators": [
+      {
+       "name": "Kocián, Petr",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "59–61",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "14"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-9-4"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14547406"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Publikace členů Moravskoslezské pobočky ČBS v roce 2024",
+    "links": {
+     "self": "https://zenodo.org/api/records/14547407",
+     "self_html": "https://zenodo.org/records/14547407",
+     "preview_html": "https://zenodo.org/records/14547407?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14547407",
+     "self_doi": "https://doi.org/10.5281/zenodo.14547407",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547407",
+     "reserve_doi": "https://zenodo.org/api/records/14547407/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14547406",
+     "parent_html": "https://zenodo.org/records/14547406",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14547406",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547406",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14547407/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14547407/sequence/default",
+     "files": "https://zenodo.org/api/records/14547407/files",
+     "media_files": "https://zenodo.org/api/records/14547407/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14547407:ZMSPCBS_2025-14_59-61.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14547407:ZMSPCBS_2025-14_59-61.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14547407:ZMSPCBS_2025-14_59-61.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14547407:ZMSPCBS_2025-14_59-61.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14547407:ZMSPCBS_2025-14_59-61.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14547407:ZMSPCBS_2025-14_59-61.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14547407/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14547407/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14547407/versions/latest",
+     "latest_html": "https://zenodo.org/records/14547407/latest",
+     "versions": "https://zenodo.org/api/records/14547407/versions",
+     "draft": "https://zenodo.org/api/records/14547407/draft",
+     "access_links": "https://zenodo.org/api/records/14547407/access/links",
+     "access_grants": "https://zenodo.org/api/records/14547407/access/grants",
+     "access_users": "https://zenodo.org/api/records/14547407/access/users",
+     "access_request": "https://zenodo.org/api/records/14547407/access/request",
+     "access": "https://zenodo.org/api/records/14547407/access",
+     "communities": "https://zenodo.org/api/records/14547407/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14547407/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14547407/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14547407/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14547407/quota-increase",
+     "requests": "https://zenodo.org/api/records/14547407/requests"
+    },
+    "updated": "2025-02-18T11:29:46.841917+00:00",
+    "recid": "14547407",
+    "revision": 8,
+    "files": [
+     {
+      "id": "4fa3ac63-663c-4b7e-a88e-3ae9b071adf2",
+      "key": "ZMSPCBS_2025-14_59-61.pdf",
+      "size": 60561,
+      "checksum": "md5:a9fe508c2d5d935751e3f4bcfd49322b",
+      "links": {
+       "self": "https://zenodo.org/api/records/14547407/files/ZMSPCBS_2025-14_59-61.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 48,
+     "unique_downloads": 43,
+     "views": 43,
+     "unique_views": 41,
+     "version_downloads": 48,
+     "version_unique_downloads": 43,
+     "version_unique_views": 41,
+     "version_views": 43
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2024-12-23T12:40:23.070932+00:00",
+    "modified": "2025-02-18T11:29:29.641585+00:00",
+    "id": 14547587,
+    "conceptrecid": "14547586",
+    "doi": "10.5281/zenodo.14547587",
+    "conceptdoi": "10.5281/zenodo.14547586",
+    "doi_url": "https://doi.org/10.5281/zenodo.14547587",
+    "metadata": {
+     "title": "Zajímavé druhy železniční květeny na Jesenicku – II",
+     "doi": "10.5281/zenodo.14547587",
+     "publication_date": "2022-01-01",
+     "description": "<p>The floristic survey of railways in the Jesen&iacute;k and &Scaron;umperk Districts (Czech Republic) yielded several interesting findings. New records are provided for <em>Cerastium semidecandrum, Galeopsis angustifolia, Geranium purpureum, Holosteum umbellatum, Microthlaspi perfoliatum, Myosotis discolor</em> and <em>Stellaria pallida</em>. Out of these taxa, one represents a neophyte, one is considered as an invasive archeophyte, and two are included in the national red list of threatened plants of the Czech Republic. Recent spreading of some thermophilous species was observed in the submontane environment of the Jesen&iacute;k region, which may be a consequence of climate extremes in the last years.</p>",
+     "access_right": "open",
+     "creators": [
+      {
+       "name": "Taraška, Vojtěch",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "51–62",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "11"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-6-3"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14547586"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Zajímavé druhy železniční květeny na Jesenicku – II",
+    "links": {
+     "self": "https://zenodo.org/api/records/14547587",
+     "self_html": "https://zenodo.org/records/14547587",
+     "preview_html": "https://zenodo.org/records/14547587?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14547587",
+     "self_doi": "https://doi.org/10.5281/zenodo.14547587",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547587",
+     "reserve_doi": "https://zenodo.org/api/records/14547587/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14547586",
+     "parent_html": "https://zenodo.org/records/14547586",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14547586",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547586",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14547587/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14547587/sequence/default",
+     "files": "https://zenodo.org/api/records/14547587/files",
+     "media_files": "https://zenodo.org/api/records/14547587/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14547587:ZMSPCBS_2022-11-51-62.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14547587:ZMSPCBS_2022-11-51-62.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14547587:ZMSPCBS_2022-11-51-62.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14547587:ZMSPCBS_2022-11-51-62.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14547587:ZMSPCBS_2022-11-51-62.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14547587:ZMSPCBS_2022-11-51-62.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14547587/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14547587/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14547587/versions/latest",
+     "latest_html": "https://zenodo.org/records/14547587/latest",
+     "versions": "https://zenodo.org/api/records/14547587/versions",
+     "draft": "https://zenodo.org/api/records/14547587/draft",
+     "access_links": "https://zenodo.org/api/records/14547587/access/links",
+     "access_grants": "https://zenodo.org/api/records/14547587/access/grants",
+     "access_users": "https://zenodo.org/api/records/14547587/access/users",
+     "access_request": "https://zenodo.org/api/records/14547587/access/request",
+     "access": "https://zenodo.org/api/records/14547587/access",
+     "communities": "https://zenodo.org/api/records/14547587/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14547587/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14547587/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14547587/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14547587/quota-increase",
+     "requests": "https://zenodo.org/api/records/14547587/requests"
+    },
+    "updated": "2025-02-18T11:29:29.641585+00:00",
+    "recid": "14547587",
+    "revision": 7,
+    "files": [
+     {
+      "id": "a1da235b-cd0f-4744-bca7-628ff5678496",
+      "key": "ZMSPCBS_2022-11-51-62.pdf",
+      "size": 2545000,
+      "checksum": "md5:65c96005b7ed361c6d4aa8d21c63065c",
+      "links": {
+       "self": "https://zenodo.org/api/records/14547587/files/ZMSPCBS_2022-11-51-62.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 54,
+     "unique_downloads": 48,
+     "views": 42,
+     "unique_views": 40,
+     "version_downloads": 54,
+     "version_unique_downloads": 48,
+     "version_unique_views": 40,
+     "version_views": 42
+    },
+    "state": "done",
+    "submitted": true
+   },
+   {
+    "created": "2024-12-23T12:34:26.354081+00:00",
+    "modified": "2025-02-18T09:30:52.537427+00:00",
+    "id": 14547554,
+    "conceptrecid": "14547553",
+    "doi": "10.5281/zenodo.14547554",
+    "conceptdoi": "10.5281/zenodo.14547553",
+    "doi_url": "https://doi.org/10.5281/zenodo.14547554",
+    "metadata": {
+     "title": "Zajímavé druhy železniční květeny na Jesenicku",
+     "doi": "10.5281/zenodo.14547554",
+     "publication_date": "2021-01-01",
+     "description": "<p>Flora of railways was investigated in the Jesen&iacute;k District (Silesia, Czech Republic). Four red list species were found on the railway habitats: <em>Papaver argemone, Saxifraga tridactylites, Urtica urens</em> and <em>Verbena officinalis</em>. <em>Papaver argemone</em> and <em>S. tridactylites</em> have recently expanded along railways in many regions of the Czech Republic, which is also the case of the studied area. <em>Senecio vernalis</em> was confirmed after decades in the Jesen&iacute;k District, while the finding of <em>Datura stramonium </em>var. <em>tatula </em>is so far the second case of naturalization of this taxon in the region of northern Moravia and Silesia.&nbsp;A further spreading of all studied taxa along railways should be monitored.</p>",
+     "access_right": "open",
+     "creators": [
+      {
+       "name": "Taraška, Vojtěch",
+       "affiliation": null
+      }
+     ],
+     "language": "ces",
+     "resource_type": {
+      "title": "Journal article",
+      "type": "publication",
+      "subtype": "article"
+     },
+     "journal": {
+      "pages": "53–63",
+      "title": "Zprávy Moravskoslezské pobočky České botanické společnosti",
+      "volume": "10"
+     },
+     "imprint": {
+      "isbn": "978-80-906712-5-6"
+     },
+     "license": {
+      "id": "cc-by-4.0"
+     },
+     "communities": [
+      {
+       "id": "msp-cbs"
+      }
+     ],
+     "relations": {
+      "version": [
+       {
+        "index": 0,
+        "is_last": true,
+        "parent": {
+         "pid_type": "recid",
+         "pid_value": "14547553"
+        }
+       }
+      ]
+     }
+    },
+    "title": "Zajímavé druhy železniční květeny na Jesenicku",
+    "links": {
+     "self": "https://zenodo.org/api/records/14547554",
+     "self_html": "https://zenodo.org/records/14547554",
+     "preview_html": "https://zenodo.org/records/14547554?preview=1",
+     "doi": "https://doi.org/10.5281/zenodo.14547554",
+     "self_doi": "https://doi.org/10.5281/zenodo.14547554",
+     "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547554",
+     "reserve_doi": "https://zenodo.org/api/records/14547554/draft/pids/doi",
+     "parent": "https://zenodo.org/api/records/14547553",
+     "parent_html": "https://zenodo.org/records/14547553",
+     "parent_doi": "https://doi.org/10.5281/zenodo.14547553",
+     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14547553",
+     "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14547554/manifest",
+     "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14547554/sequence/default",
+     "files": "https://zenodo.org/api/records/14547554/files",
+     "media_files": "https://zenodo.org/api/records/14547554/media-files",
+     "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14547554:ZMSPCBS_2021-10-53-63.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14547554:ZMSPCBS_2021-10-53-63.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14547554:ZMSPCBS_2021-10-53-63.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14547554:ZMSPCBS_2021-10-53-63.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14547554:ZMSPCBS_2021-10-53-63.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14547554:ZMSPCBS_2021-10-53-63.pdf/full/%5E1200,/0/default.jpg"
+     },
+     "archive": "https://zenodo.org/api/records/14547554/files-archive",
+     "archive_media": "https://zenodo.org/api/records/14547554/media-files-archive",
+     "latest": "https://zenodo.org/api/records/14547554/versions/latest",
+     "latest_html": "https://zenodo.org/records/14547554/latest",
+     "versions": "https://zenodo.org/api/records/14547554/versions",
+     "draft": "https://zenodo.org/api/records/14547554/draft",
+     "access_links": "https://zenodo.org/api/records/14547554/access/links",
+     "access_grants": "https://zenodo.org/api/records/14547554/access/grants",
+     "access_users": "https://zenodo.org/api/records/14547554/access/users",
+     "access_request": "https://zenodo.org/api/records/14547554/access/request",
+     "access": "https://zenodo.org/api/records/14547554/access",
+     "communities": "https://zenodo.org/api/records/14547554/communities",
+     "communities-suggestions": "https://zenodo.org/api/records/14547554/communities-suggestions",
+     "request_deletion": "https://zenodo.org/api/records/14547554/request-deletion",
+     "file_modification": "https://zenodo.org/api/records/14547554/file-modification",
+     "quota_increase": "https://zenodo.org/api/records/14547554/quota-increase",
+     "requests": "https://zenodo.org/api/records/14547554/requests"
+    },
+    "updated": "2025-02-18T09:30:52.537427+00:00",
+    "recid": "14547554",
+    "revision": 8,
+    "files": [
+     {
+      "id": "6adec775-e22a-442b-b1ee-b3c71a844731",
+      "key": "ZMSPCBS_2021-10-53-63.pdf",
+      "size": 2603893,
+      "checksum": "md5:db3f180f641b12e7312ade7d0d98e176",
+      "links": {
+       "self": "https://zenodo.org/api/records/14547554/files/ZMSPCBS_2021-10-53-63.pdf/content"
+      }
+     }
+    ],
+    "swh": null,
+    "owners": [
+     {
+      "id": "1186827"
+     }
+    ],
+    "status": "published",
+    "stats": {
+     "downloads": 50,
+     "unique_downloads": 43,
+     "views": 58,
+     "unique_views": 53,
+     "version_downloads": 50,
+     "version_unique_downloads": 43,
+     "version_unique_views": 53,
+     "version_views": 58
+    },
+    "state": "done",
+    "submitted": true
+   }
+  ],
+  "total": 30
+ },
+ "aggregations": {
+  "publication_date": {
+   "buckets": [
+    {
+     "key": "2021",
+     "doc_count": 1,
+     "label": "2021",
+     "is_selected": false
+    },
+    {
+     "key": "2022",
+     "doc_count": 1,
+     "label": "2022",
+     "is_selected": false
+    },
+    {
+     "key": "2023",
+     "doc_count": 0,
+     "label": "2023",
+     "is_selected": false
+    },
+    {
+     "key": "2024",
+     "doc_count": 0,
+     "label": "2024",
+     "is_selected": false
+    },
+    {
+     "key": "2025",
+     "doc_count": 15,
+     "label": "2025",
+     "is_selected": false
+    },
+    {
+     "key": "2026",
+     "doc_count": 13,
+     "label": "2026",
+     "is_selected": false
+    }
+   ],
+   "label": "Publication date"
+  },
+  "access_status": {
+   "buckets": [
+    {
+     "key": "open",
+     "doc_count": 20,
+     "label": "Open",
+     "is_selected": false
+    },
+    {
+     "key": "embargoed",
+     "doc_count": 10,
+     "label": "Embargoed",
+     "is_selected": false
+    }
+   ],
+   "label": "Access status"
+  },
+  "resource_type": {
+   "buckets": [
+    {
+     "key": "publication",
+     "doc_count": 30,
+     "label": "Publication",
+     "is_selected": false,
+     "inner": {
+      "buckets": [
+       {
+        "key": "publication-article",
+        "doc_count": 30,
+        "label": "Journal article",
+        "is_selected": false
+       }
+      ]
+     }
+    }
+   ],
+   "label": "Resource types"
+  },
+  "subject": {
+   "buckets": [],
+   "label": "Subjects"
+  },
+  "file_type": {
+   "buckets": [
+    {
+     "key": "pdf",
+     "doc_count": 20,
+     "label": "PDF",
+     "is_selected": false
+    }
+   ],
+   "label": "File type"
+  }
+ },
+ "links": {
+  "prev": "https://zenodo.org/api/communities/msp-cbs/records?page=1&size=25&sort=newest",
+  "self": "https://zenodo.org/api/communities/msp-cbs/records?page=2&size=25&sort=newest"
+ }
+}

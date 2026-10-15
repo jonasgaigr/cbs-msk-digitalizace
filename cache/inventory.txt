@@ -1,0 +1,136 @@
+ZMSP2_7-15       loc=  9 occ= 209 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=120 dash= 9 | Floristický minikurz na Plumlovsku
+ZMSP2_16-20      loc=  8 occ=  79 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab= 61 dash= 8 | Jarní aspekt suchomilných trávníků na Plumlov
+ZMSP2_21-24      loc=  6 occ=  83 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab= 64 dash= 6 | Bryologická exkurze do údolí Černé Ostravice
+ZMSP2_25-28      loc=  5 occ=  62 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab= 56 dash= 5 | Bryologická vycházka aneb za mechorosty do Ho
+ZMSP2_42         loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Exkurze za poznáním pozdě kvetoucích kruštíků
+ZMSP2_43-47      loc=  5 occ= 141 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=100 dash= 5 | Exkurze za termofilní flórou heřmanické sopky
+ZMSP2_48-49      loc=  0 occ=   0 | coords=  4 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Bryologická exkurze do údolí Šumného a Hranič
+ZMSP2_52-53      loc=  2 occ=   2 | coords=  4 grid=  2 phyto=  2 dated=  2 tx:n=  0 tab=  0 dash= 0 | Dvě nové lokality jestřábníku dvouklaného (Hi
+ZMSP2_54-55      loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  8 dash= 0 | Praktické poznámky k určení: kakost nachový (
+ZMSP2_56-60      loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Gogelova květena okresu Valašskomeziříčského 
+ZMSP3_8-9        loc=  4 occ=  71 | coords=  8 grid=  0 phyto=  0 dated=  0 tx:n= 19 tab=  0 dash= 3 | Bryologická exkurze na vápence do okolí Tepli
+ZMSP3_10-12      loc=  1 occ= 112 | coords=  4 grid=  0 phyto=  0 dated=  0 tx:n= 17 tab=  0 dash= 1 | Exkurze do botanické zahrady ve Štramberku a 
+ZMSP3_13-15      loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Exkurze na javornické louky
+ZMSP3_16-17      loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Ohlédnutí se za floristickým minikurzem – Oso
+ZMSP3_18-20      loc=  7 occ=  64 | coords= 14 grid=  0 phyto=  0 dated=  0 tx:n= 12 tab=  0 dash= 5 | Exkurze „Za skrytými poklady hornického Karvi
+ZMSP3_21-22      loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Exkurze za kruštíky do Ždánického lesa
+ZMSP3_23-26      loc= 12 occ= 183 | coords= 28 grid=  0 phyto=  0 dated=  0 tx:n= 15 tab=  0 dash=12 | Exkurze do Jeseníků
+ZMSP3_27-30      loc=  9 occ= 183 | coords= 17 grid=  0 phyto=  0 dated=  0 tx:n= 16 tab=  0 dash= 8 | Za flórou přehradních litorálů – Slezská Hart
+ZMSP3_31-32      loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Přednášky na výročním setkání Moravskoslezské
+ZMSP3_33         loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Determinační setkání – rod Salix
+ZMSP3_34-38      loc=  1 occ= 108 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 7 | Severní svahy vrchu Staškov – floristicky pes
+ZMSP3_39-46      loc= 20 occ=  23 | coords= 40 grid= 59 phyto=  0 dated= 41 tx:n=  0 tab=  0 dash= 0 | Poznámky k rozšíření orchidejí na Osoblažsku
+ZMSP3_47-49      loc= 15 occ=  15 | coords= 30 grid= 15 phyto=  0 dated= 15 tx:n=  0 tab=  0 dash= 0 | Několik nálezů rozchodníku španělského (Sedum
+ZMSP3_50-53      loc=  1 occ=   1 | coords=  2 grid=  1 phyto=  1 dated=  1 tx:n=  0 tab=  0 dash= 0 | Výskyt tromínu prorostlého (Smyrnium perfolia
+ZMSP3_54-56      loc=  1 occ=   1 | coords=  2 grid=  5 phyto=  1 dated=  2 tx:n=  0 tab=  0 dash= 0 | Invazní mech křivonožka vehnutá (Campylopus i
+ZMSP3_57-60      loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  8 dash= 0 | Určování vrb v NPR Praděd (Salix hastata subs
+ZMSP3_61-63      loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  8 dash= 0 | Hledíček pobřežní (Microrrhinum litorale) – v
+ZMSP3P1_3-48     loc=142 occ=2320 | coords=310 grid=169 phyto=  0 dated= 19 tx:n=572 tab= 73 dash= 0 | Výsledky floristického minikurzu Moravskoslez
+ZMSP3P2_3-12     loc=127 occ= 150 | coords=253 grid=127 phyto=  0 dated=127 tx:n=  0 tab=  0 dash= 0 | Nálezová databáze Moravskoslezské pobočky ČBS
+ZMSP4_7-10       loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Bryologická exkurze do PR Kutaný a PR Halvovs
+ZMSP4_11-13      loc=  8 occ=  81 | coords= 24 grid=  0 phyto=  0 dated=  0 tx:n= 16 tab=  0 dash= 8 | Exkurze zaměřená na trávy
+ZMSP4_14-18      loc=  2 occ= 181 | coords=  4 grid=  0 phyto=  0 dated=  0 tx:n= 18 tab=  0 dash= 2 | Botanika na sjezdovkách
+ZMSP4_19-21      loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Za zbožnou kostelní flórou a hřbitovním kvítí
+ZMSP4_22-24      loc=  5 occ=  31 | coords= 12 grid=  0 phyto=  0 dated=  0 tx:n=  4 tab=  0 dash= 5 | Exkurze „Za vrbami ve středním Pobečví a v Mo
+ZMSP4_25-27      loc=  9 occ= 274 | coords= 22 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 9 | Zajímavé a vzácné druhy na výstavě živých hub
+ZMSP4_28-32      loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  1 tx:n=  0 tab=  0 dash= 0 | Je dymnivka nízká (Corydalis pumila) součástí
+ZMSP4_33-36      loc=  1 occ=   1 | coords=  2 grid=  1 phyto=  1 dated=  1 tx:n=  0 tab=  0 dash= 0 | Troskut prstnatý (Cynodon dactylon) v Ostravě
+ZMSP4_37-38      loc=  1 occ=   1 | coords=  2 grid=  1 phyto=  1 dated=  3 tx:n=  0 tab=  0 dash= 0 | Lilík mochyňovitý (Nicandra physalodes) – zaj
+ZMSP4_39-42      loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Okruh kamejky rolní (Buglossoides arvensis ag
+ZMSP4_43-49      loc= 59 occ=  59 | coords=  0 grid=  0 phyto=  0 dated=  3 tx:n=  0 tab= 63 dash= 0 | Herbář Viktora Navrátila v Muzeu regionu Vala
+ZMSP4P2_3-48     loc=136 occ=4668 | coords=273 grid=150 phyto=  0 dated= 13 tx:n=728 tab=  0 dash= 0 | Výsledky floristického minikurzu Moravskoslez
+ZMSP5_11-14      loc=  4 occ= 188 | coords=  8 grid= 13 phyto=  0 dated=  0 tx:n= 42 tab=  0 dash= 4 | Bryologická exkurze do PR Klenov ve Vsetínský
+ZMSP5_15-17      loc=  5 occ=  59 | coords= 10 grid=  0 phyto=  0 dated=  0 tx:n= 13 tab=  0 dash= 5 | Exkurze do PR Obřany v Hostýnských vrších
+ZMSP5_18-19      loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Exkurze do Hranického krasu
+ZMSP5_20-26      loc=  2 occ= 218 | coords=  4 grid=  0 phyto=  1 dated=  0 tx:n= 29 tab=  0 dash= 2 | Mokřadní exkurze na Vidnavské mokřiny a Zábře
+ZMSP5_27-32      loc=  7 occ=  56 | coords= 16 grid=  0 phyto=  0 dated=  0 tx:n= 18 tab=  0 dash= 4 | Exkurze na rašelinné biotopy Moravskoslovensk
+ZMSP5_33-36      loc=  8 occ= 172 | coords= 14 grid=  0 phyto=  0 dated=  0 tx:n= 17 tab=  0 dash= 7 | Ve stopách Kiliánových – potoky Slezských Bes
+ZMSP5_37-42      loc=  6 occ= 133 | coords= 17 grid=  0 phyto=  0 dated=  0 tx:n= 21 tab=  0 dash= 6 | Exkurze řekou Morávkou
+ZMSP5_43-46      loc=  6 occ=  72 | coords= 12 grid=  0 phyto=  0 dated=  0 tx:n= 14 tab=  0 dash= 6 | Mykologická exkurze v obci Bílá
+ZMSP5_47-54      loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  1 tx:n=  0 tab= 12 dash= 0 | Rod kuřinka (Spergularia) – výzva ke sledován
+ZMSP5_55-59      loc= 47 occ=  47 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab= 49 dash= 0 | Herbář Vladimíra Kajdoše v Muzeu Novojičínska
+ZMSP6_11-14      loc=  5 occ= 206 | coords= 10 grid=  0 phyto=  5 dated=  0 tx:n= 28 tab=  0 dash= 0 | Exkurze do lužního lesa u Olomouce
+ZMSP6_15-19      loc=  5 occ= 154 | coords= 10 grid=  4 phyto=  5 dated=  1 tx:n= 31 tab=  0 dash= 0 | Floristická exkurze po vápencových ostrůvcích
+ZMSP6_20-24      loc= 11 occ= 178 | coords= 23 grid=  0 phyto= 11 dated=  0 tx:n= 27 tab=  0 dash= 0 | Exkurze do Grygovských kopců a Tršické pahork
+ZMSP6_25-29      loc= 11 occ= 220 | coords= 26 grid=  0 phyto= 11 dated=  0 tx:n= 30 tab=  0 dash= 0 | Exkurze do okolí Hlinska pod Hostýnem a Holeš
+ZMSP6_30-33      loc=  9 occ=  99 | coords= 18 grid=  0 phyto=  9 dated=  0 tx:n= 18 tab=  0 dash= 0 | Exkurze po železnici a jejím okolí mezi Olomo
+ZMSP6_34-38      loc=  5 occ= 310 | coords= 10 grid=  0 phyto=  5 dated=  0 tx:n= 20 tab=  0 dash= 0 | Exkurze za teplomilnou květenou Beskyd
+ZMSP6_39-42      loc=  3 occ= 112 | coords= 10 grid=  0 phyto=  3 dated=  0 tx:n= 17 tab=  0 dash= 0 | Exkurze na hadce v okolí Raškova a Rudy nad M
+ZMSP6_43-47      loc=  5 occ=  88 | coords= 12 grid=  0 phyto=  5 dated=  0 tx:n= 21 tab=  0 dash= 0 | Bryologická exkurze do PP Lúčky-Roveňky a PP 
+ZMSP6_48-51      loc=  3 occ=   5 | coords=  4 grid=  4 phyto=  3 dated=  5 tx:n=  0 tab=  0 dash= 0 | Nález kruštíku uherského (Epipactis tallosii)
+ZMSP6_52-55      loc=  4 occ=   5 | coords=  8 grid=  4 phyto=  4 dated=  5 tx:n=  0 tab=  0 dash= 0 | Další výskyty velbloudníku tenkokřídlého (Cor
+ZMSP6_56-60      loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Válečka skalní (Brachypodium rupestre) – výzv
+ZMSP7_11-14      loc=  6 occ= 113 | coords= 12 grid=  0 phyto=  6 dated=  0 tx:n= 19 tab=  0 dash= 0 | Exkurze za jarním aspektem na Skaličku
+ZMSP7_15-19      loc= 12 occ= 201 | coords= 34 grid=  0 phyto= 12 dated=  0 tx:n= 21 tab=  0 dash= 0 | Exkurze z Přerova-Předmostí po stopách mamutů
+ZMSP7_20-24      loc= 13 occ= 158 | coords= 28 grid=  0 phyto= 13 dated=  0 tx:n= 19 tab=  0 dash= 0 | Exkurze údolím Bystřice u Moravského Berouna
+ZMSP7_25-28      loc=  4 occ= 176 | coords= 14 grid=  0 phyto=  4 dated=  0 tx:n= 28 tab=  0 dash= 0 | Sjezdovky a sihly pod Lysou horou – floristic
+ZMSP7_29-33      loc=  2 occ= 105 | coords=  6 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Lichenologická a bryologická exkurze na Kelčs
+ZMSP7_34-37      loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Smilkové pastviny na hřebeni Radhoště
+ZMSP7_38-40      loc=  4 occ=  28 | coords= 10 grid=  0 phyto=  4 dated=  1 tx:n= 10 tab=  0 dash= 0 | Exkurze po historických lokalitách Spiranthes
+ZMSP7_41-44      loc=  5 occ=  86 | coords= 10 grid=  0 phyto=  5 dated=  0 tx:n= 20 tab=  0 dash= 0 | Bryologická exkurze na vápencové skály u Čern
+ZMSP7_45-54      loc= 21 occ=  21 | coords= 50 grid= 25 phyto= 21 dated= 27 tx:n=  0 tab=  0 dash= 0 | Vzácnější druhy plevelů Metylovic a okolí
+ZMSP7_55-60      loc=  5 occ= 110 | coords= 10 grid=  5 phyto=  5 dated=  0 tx:n=  0 tab=  0 dash= 0 | Za ruderálními pampeliškami (Taraxacum sect. 
+ZMSP7_61-65      loc=  7 occ=  14 | coords= 14 grid=  8 phyto=  7 dated=  3 tx:n=  0 tab=  0 dash= 0 | Poznámky k některým zástupcům rodu kruštík ve
+ZMSP7_66-69      loc=  5 occ=   5 | coords= 20 grid=  5 phyto=  5 dated=  0 tx:n=  0 tab=  0 dash= 0 | Mechorosty okolí řeky Bečvy mezi obcemi Chory
+ZMSP7_70-75      loc= 50 occ= 184 | coords=  0 grid= 50 phyto=  0 dated=  0 tx:n= 16 tab=  0 dash= 0 | Bryologický herbář Jana Vrány
+ZMSP8_11-13      loc=  4 occ=  80 | coords=  8 grid=  0 phyto=  4 dated=  0 tx:n= 13 tab=  0 dash= 0 | Lichenologická exkurze po vápencových ostrůvc
+ZMSP8_14-19      loc=  4 occ= 423 | coords=  7 grid=  0 phyto=  4 dated=  0 tx:n= 31 tab=  0 dash= 0 | Exkurze za masožravou rosnatkou okrouhlolisto
+ZMSP8_20-23      loc=  8 occ= 177 | coords= 16 grid=  0 phyto=  8 dated=  0 tx:n= 19 tab=  0 dash= 0 | Exkurze po východních svazích Velkého Kosíře
+ZMSP8_24-28      loc= 16 occ= 234 | coords= 40 grid=  0 phyto= 16 dated=  0 tx:n= 21 tab=  0 dash= 0 | Exkurze do nejsevernějšího výběžku Tršické pa
+ZMSP8_29-33      loc= 13 occ= 238 | coords= 42 grid=  0 phyto= 13 dated=  0 tx:n= 18 tab=  0 dash= 0 | Exkurze na Slunečnou, nejvyšší vrchol Nízkého
+ZMSP8_34-39      loc=  7 occ= 204 | coords= 18 grid=  0 phyto=  7 dated=  0 tx:n= 45 tab=  0 dash= 0 | Údolím řeky Mohelnice – floristicko-bryologic
+ZMSP8_40-42      loc=  3 occ=  56 | coords= 12 grid=  0 phyto=  3 dated=  1 tx:n= 16 tab=  0 dash= 0 | Bryologická exkurze na nejvyšší vrchol Vsetín
+ZMSP8_43-47      loc=  7 occ= 160 | coords= 14 grid=  0 phyto=  7 dated=  0 tx:n= 16 tab=  0 dash= 0 | Mykologická exkurze v Moravskoslezských Besky
+ZMSP8_48-53      loc=  5 occ=   5 | coords= 10 grid=  5 phyto=  5 dated= 16 tx:n=  0 tab=  0 dash= 0 | Poznámky k výskytu plevelů na Novojičínsku 1.
+ZMSP8_54-57      loc=  2 occ=   2 | coords=  4 grid=  2 phyto=  2 dated=  3 tx:n=  0 tab=  0 dash= 0 | Poznámky k výskytu plevelů na Novojičínsku 2.
+ZMSP8_58-60      loc=  1 occ=   1 | coords=  2 grid=  1 phyto=  1 dated=  6 tx:n=  0 tab=  0 dash= 0 | Nález šikouška bezlistého (Buxbaumia aphylla)
+ZMSP9_11-13      loc=  4 occ=  95 | coords=  8 grid=  4 phyto=  0 dated=  0 tx:n= 21 tab=  0 dash= 0 | Bryologická exkurze do přírodní památky Bludn
+ZMSP9_14-19      loc=  6 occ= 286 | coords= 14 grid=  6 phyto=  0 dated=  0 tx:n= 19 tab=  0 dash= 0 | Exkurze za orchidejemi do Kateřinic
+ZMSP9_20-23      loc=  7 occ= 205 | coords= 14 grid=  7 phyto=  0 dated=  0 tx:n= 28 tab=  0 dash= 0 | Vycházka za lišejníky a mechorosty do pohoří 
+ZMSP9_24-28      loc= 13 occ= 177 | coords= 34 grid= 13 phyto=  0 dated=  0 tx:n= 21 tab=  0 dash= 0 | Exkurze do nejvýchodnějšího výběžku Tršické p
+ZMSP9_29-33      loc=  8 occ= 183 | coords= 24 grid=  8 phyto=  0 dated=  2 tx:n= 17 tab=  0 dash= 0 | Exkurze po zajímavých bezlesých enklávách ane
+ZMSP9_34-39      loc= 10 occ= 502 | coords= 34 grid= 10 phyto=  0 dated=  2 tx:n= 17 tab=  0 dash= 0 | Exkurze na Ondřejník
+ZMSP9_40-44      loc= 12 occ= 242 | coords= 44 grid= 12 phyto=  0 dated=  0 tx:n= 20 tab=  0 dash= 0 | Exkurze do údolí potoka Bělidlo u Domašova na
+ZMSP9_45-49      loc=  3 occ= 226 | coords=  6 grid=  3 phyto=  0 dated=  0 tx:n= 19 tab=  0 dash= 0 | Mykologická exkurze v Oderských vrších
+ZMSP9_50-53      loc=  3 occ=  48 | coords=  8 grid=  3 phyto=  0 dated=  0 tx:n= 18 tab=  0 dash= 0 | Bryologická exkurze na Starojický kopec
+ZMSP9_54-61      loc=  1 occ=   9 | coords=  2 grid=  5 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Zajímavá upolínová louka u Slavkova v Oderský
+ZMSP9_62-72      loc= 46 occ=  51 | coords=108 grid= 53 phyto= 46 dated= 51 tx:n=  0 tab=  0 dash= 0 | Příspěvek k poznání zajímavých polních plevel
+ZMSP9_73-76      loc=  4 occ=   5 | coords=  8 grid=  4 phyto=  4 dated=  6 tx:n=  0 tab=  0 dash= 0 | Poznámky k rozšíření některých vzácnějších dr
+ZMSP10_24-28     loc= 14 occ= 208 | coords= 46 grid= 15 phyto=  0 dated=  0 tx:n= 21 tab=  0 dash= 0 | Exkurze do Tršické pahorkatiny v okolí Velkéh
+ZMSP10_29-32     loc=  7 occ=  72 | coords= 14 grid= 11 phyto=  0 dated=  0 tx:n=  6 tab=  0 dash= 0 | Exkurze na louky Filena u Záhlinických rybník
+ZMSP10_33-38     loc=  9 occ= 209 | coords= 30 grid=  9 phyto=  1 dated=  1 tx:n= 20 tab=  0 dash= 0 | Kukačka aneb Exkurze do lomu za léčebnou
+ZMSP10_39-42     loc=  3 occ=  61 | coords= 12 grid=  3 phyto=  0 dated=  0 tx:n= 13 tab=  0 dash= 0 | Bryologická exkurze do údolí potoka Trubiska
+ZMSP10_43-52     loc= 23 occ=  28 | coords= 54 grid= 41 phyto= 19 dated= 28 tx:n=  0 tab=  0 dash= 0 | Poznámky k rozšíření některých vzácnějších dr
+ZMSP10_53-63     loc= 22 occ=  34 | coords= 44 grid= 21 phyto=  0 dated=  1 tx:n=  0 tab=  0 dash= 0 | Zajímavé druhy železniční květeny na Jesenick
+ZMSP11_22-27     loc=  8 occ= 216 | coords= 18 grid=  8 phyto=  0 dated=  0 tx:n= 20 tab=  0 dash= 0 | Exkurze na Hradisko
+ZMSP11_28-32     loc= 12 occ= 196 | coords= 40 grid= 12 phyto=  0 dated=  0 tx:n= 18 tab=  0 dash= 0 | Exkurze mokřadními loukami Nízkého Jeseníku m
+ZMSP11_33-38     loc=  4 occ= 299 | coords= 12 grid=  4 phyto=  0 dated=  0 tx:n= 39 tab=  0 dash= 0 | Bryologická exkurze za rašeliníky do osady Hu
+ZMSP11_39-42     loc=  4 occ=  82 | coords=  8 grid=  4 phyto=  0 dated=  0 tx:n= 21 tab=  0 dash= 0 | Bryologická exkurze do přírodní rezervace Smr
+ZMSP11_43-46     loc=  3 occ= 105 | coords=  8 grid=  3 phyto=  0 dated=  0 tx:n= 18 tab=  0 dash= 0 | Mykologická exkurze na Skalickou Strážnici, V
+ZMSP11_47-50     loc=  5 occ= 225 | coords= 10 grid=  5 phyto=  0 dated=  0 tx:n= 15 tab=  0 dash= 0 | Mykologická exkurze do okolí osady Samčanka
+ZMSP11_51-62     loc= 33 occ=  33 | coords= 66 grid= 33 phyto= 33 dated= 40 tx:n=  0 tab=  0 dash= 0 | Zajímavé druhy železniční květeny na Jesenick
+ZMSP11_63-72     loc=  5 occ=   8 | coords= 12 grid= 17 phyto=  5 dated= 15 tx:n=  0 tab=  0 dash= 0 | Dvě exotické liány na Těšínsku
+ZMSP12_11-14     loc=  4 occ=  70 | coords=  8 grid=  4 phyto=  0 dated=  0 tx:n= 20 tab=  0 dash= 0 | Bryologická exkurze do okolí Štramberka
+ZMSP12_15-19     loc= 16 occ= 192 | coords= 36 grid= 16 phyto=  0 dated=  0 tx:n= 17 tab=  0 dash= 0 | Vycházka (nejen) za prstnatci bezovými na Oso
+ZMSP12_20-24     loc= 11 occ= 195 | coords= 38 grid= 11 phyto=  0 dated=  0 tx:n= 18 tab=  0 dash= 0 | Krajinou sopek Nízkého Jeseníku – exkurze na 
+ZMSP12_25-30     loc= 10 occ= 217 | coords= 30 grid= 14 phyto=  0 dated=  0 tx:n= 17 tab=  0 dash= 0 | Exkurze Kytičky osady Hraničky
+ZMSP12_31-36     loc= 15 occ= 186 | coords= 32 grid= 15 phyto=  0 dated=  0 tx:n= 27 tab=  0 dash= 0 | Exkurze za historickými lokalitami vstavače o
+ZMSP12_37-41     loc=  3 occ= 233 | coords= 10 grid=  4 phyto=  0 dated=  0 tx:n= 45 tab=  0 dash= 0 | Bryologická exkurze do údolí potoka Mazák v O
+ZMSP12_42-45     loc=  4 occ=  70 | coords=  8 grid=  4 phyto=  0 dated=  0 tx:n=  8 tab=  0 dash= 0 | Mykologická exkurze do okolí osady Jamník
+ZMSP12_46-50     loc=  7 occ= 102 | coords= 26 grid=  7 phyto=  0 dated=  0 tx:n= 14 tab=  0 dash= 0 | Mykologická exkurze Palkovickými hůrkami
+ZMSP12_51-62     loc=  0 occ=   0 | coords=  0 grid=  0 phyto=  0 dated=  0 tx:n=  0 tab=  0 dash= 0 | Stoletý příběh ostřice Otrubovy (Carex otruba
+ZMSP13_11-16     loc=  9 occ= 220 | coords= 28 grid=  9 phyto=  0 dated=  0 tx:n= 17 tab=  0 dash= 0 | Exkurze do žulovských luhů a hájů
+ZMSP13_17-21     loc=  6 occ= 228 | coords= 18 grid=  6 phyto=  0 dated=  0 tx:n= 33 tab=  0 dash= 0 | Bryologická exkurze na rašelinné louky Beskyd
+ZMSP13_22-25     loc=  9 occ= 169 | coords= 24 grid=  9 phyto=  0 dated=  0 tx:n= 19 tab=  0 dash= 0 | Exkurze za pozdně jarní květenou lesa Ochozy 
+ZMSP13_26-31     loc= 11 occ= 197 | coords= 42 grid= 11 phyto=  0 dated=  1 tx:n= 19 tab=  0 dash= 0 | Exkurze z Hané až na Makču Pikču
+ZMSP13_32-39     loc= 29 occ= 227 | coords= 58 grid= 29 phyto=  0 dated=  1 tx:n= 18 tab=  0 dash= 0 | Strastiplné vlastivědné putování za květenou 
+ZMSP13_40-45     loc=  5 occ= 199 | coords= 10 grid=  5 phyto=  0 dated=  0 tx:n= 26 tab=  0 dash= 0 | Mykologické exkurze do údolí Černé Ostravice 
+ZMSP13_46-49     loc=  1 occ=  50 | coords=  2 grid=  4 phyto=  1 dated=  0 tx:n=  0 tab=  0 dash= 0 | Bryologická exkurze do přírodní rezervace Suc
+ZMSP14_11-16     loc= 12 occ= 151 | coords= 24 grid= 12 phyto=  0 dated=  0 tx:n= 15 tab=  0 dash= 0 | Cestou necestou do Podbeskydí za pampeliškami
+ZMSP14_17-22     loc=  6 occ= 247 | coords= 20 grid=  8 phyto=  0 dated=  0 tx:n= 19 tab=  0 dash= 0 | Exkurze do údolí Javorné u Zlatých Hor
+ZMSP14_23-27     loc= 12 occ= 161 | coords= 24 grid= 12 phyto=  0 dated=  0 tx:n= 19 tab=  0 dash= 0 | Copak roste v Hnojicích?
+ZMSP14_28-33     loc=  5 occ= 217 | coords= 20 grid=  5 phyto=  0 dated=  0 tx:n= 20 tab=  0 dash= 0 | Exkurze jižním okrajem CHKO Jeseníky na Přemy
+ZMSP14_34-39     loc= 13 occ= 301 | coords= 26 grid= 12 phyto=  0 dated=  0 tx:n= 22 tab=  0 dash= 0 | Za teplomilnými plevely a jiným kvítím okolo 
+ZMSP14_40-45     loc=  5 occ=  83 | coords= 16 grid=  5 phyto=  0 dated=  1 tx:n= 22 tab=  0 dash= 0 | Exkurze Za mechorosty na hrad Hukvaldy a jeho
+ZMSP14_46-49     loc=  3 occ= 139 | coords= 26 grid=  3 phyto=  0 dated=  0 tx:n= 27 tab=  0 dash= 0 | Bryologická exkurze za historií mechorostů v 
+ZMSP14_50-58     loc= 24 occ=  27 | coords= 46 grid= 32 phyto= 22 dated= 36 tx:n=  0 tab=  0 dash= 0 | Poznámky k rozšíření některých vzácnějších dr

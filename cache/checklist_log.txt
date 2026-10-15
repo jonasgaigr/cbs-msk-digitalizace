@@ -1,0 +1,24 @@
+  group 5: 2000 rows
+  group 5: 3000 rows
+  group 5: 4000 rows
+  group 5: 5000 rows
+  group 5: 6000 rows
+  group 5: 6847 rows
+vascular_plant: 6847 taxa; portal groups in result: {'Tracheophyta'}
+  group 4: 1050 rows
+bryophyte: 1050 taxa; portal groups in result: {'Bryophyta'}
+  group 3: 2000 rows
+  group 3: 2031 rows
+lichen: 2031 taxa; portal groups in result: {'Lichenes'}
+  group 2: 2000 rows
+  group 2: 3000 rows
+  group 2: 4000 rows
+  group 2: 5000 rows
+  group 2: 6000 rows
+  group 2: 7000 rows
+  group 2: 8000 rows
+  group 2: 9000 rows
+  group 2: 10000 rows
+  group 2: 10659 rows
+fungus: 10659 taxa; portal groups in result: {'Fungi'}
+20587 rows written

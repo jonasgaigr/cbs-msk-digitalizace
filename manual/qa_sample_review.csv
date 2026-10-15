@@ -1,0 +1,6 @@
+row_id,field,correct,note,status_after_fix
+ZMSP13_22-25_L003,lat_end,false,"segment end missing: pairs joined by U+2212 minus sign, not recognised as a dash",fixed (U+2212 treated as dash) – re-verified 49.400611
+ZMSP13_22-25_L003,lon_end,false,"segment end missing: pairs joined by U+2212 minus sign, not recognised as a dash",fixed – re-verified 17.614389
+ZMSP13_22-25_L003,altitude_min_m,false,"'310−325 m n. m.' (U+2212) read as 325",fixed – re-verified 310
+ZMSP4P2_3-48_L069,municipality,false,"'Valašské Příkazy (VS)' kept the district code",fixed ('(VS)' → district) – re-verified
+ZMSP4P2_3-48_L069,district,false,"district code '(VS)' not recognised",fixed – re-verified VS

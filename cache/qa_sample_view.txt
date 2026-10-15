@@ -1,0 +1,180 @@
+====================================================================================================
+occurrences ZMSP6_39-42_O0020
+SRC: Calamagrostis villosa: 2
+locality_id=ZMSP6_39-42_L002 | taxon_verbatim=Calamagrostis villosa | taxon_expanded=Calamagrostis villosa | taxon_name_normalised=Calamagrostis villosa | record_type=species_list | page=42
+====================================================================================================
+occurrences ZMSP4P2_3-48_O3644
+SRC: Rubus idaeus: 12, 24, 40, 50, 75, 79, 86, 93, 98, 115.
+locality_id=ZMSP4P2_3-48_L012 | taxon_verbatim=Rubus idaeus | taxon_expanded=Rubus idaeus | taxon_name_normalised=Rubus idaeus | record_type=species_list | page=35
+====================================================================================================
+occurrences ZMSP5_27-32_O0030
+SRC: Caltha palustris: 3B, 5
+locality_id=ZMSP5_27-32_L003B | taxon_verbatim=Caltha palustris | taxon_expanded=Caltha palustris | taxon_name_normalised=Caltha palustris | record_type=species_list | page=32
+====================================================================================================
+occurrences ZMSP7_25-28_O0150
+SRC: Rhinanthus minor: 1, 2, 3
+locality_id=ZMSP7_25-28_L001 | taxon_verbatim=Rhinanthus minor | taxon_expanded=Rhinanthus minor | taxon_name_normalised=Rhinanthus minor | record_type=species_list | page=28
+====================================================================================================
+occurrences ZMSP4P2_3-48_O3619
+SRC: Rosa pendulina: 28, 46.
+locality_id=ZMSP4P2_3-48_L046 | taxon_verbatim=Rosa pendulina | taxon_expanded=Rosa pendulina | taxon_name_normalised=Rosa pendulina | record_type=species_list | page=35
+====================================================================================================
+occurrences ZMSP8_29-33_O0184
+SRC: Salix aurita: 2
+locality_id=ZMSP8_29-33_L002 | taxon_verbatim=Salix aurita | taxon_expanded=Salix aurita | taxon_name_normalised=Salix aurita | record_type=species_list | page=33
+====================================================================================================
+occurrences ZMSP9_45-49_O0196
+SRC: Stereum hirsutum: 1, 2, 3
+locality_id=ZMSP9_45-49_L003 | taxon_verbatim=Stereum hirsutum | taxon_expanded=Stereum hirsutum | taxon_name_normalised=Stereum hirsutum | record_type=species_list | page=49
+====================================================================================================
+occurrences ZMSP4P2_3-48_O2239
+SRC: Hypericum tetrapterum: 5, 7, 22, 23, 41, 106, 124, 133.
+locality_id=ZMSP4P2_3-48_L124 | taxon_verbatim=Hypericum tetrapterum | taxon_expanded=Hypericum tetrapterum | taxon_name_normalised=Hypericum tetrapterum | record_type=species_list | page=28
+====================================================================================================
+occurrences ZMSP3_23-26_O0070
+SRC: Empetrum hermaphroditum (C3): 4, 9, 10, 12
+locality_id=ZMSP3_23-26_L009 | taxon_verbatim=Empetrum hermaphroditum | taxon_expanded=Empetrum hermaphroditum | taxon_name_normalised=Empetrum hermaphroditum | red_list_category=C3 | record_type=species_list | page=26
+====================================================================================================
+occurrences ZMSP14_17-22_O0139
+SRC: L. vulgaris: 2
+locality_id=ZMSP14_17-22_L002 | taxon_verbatim=L. vulgaris | taxon_expanded=Lysimachia vulgaris | taxon_name_normalised=Lysimachia vulgaris | record_type=species_list | page=22
+====================================================================================================
+occurrences ZMSP3_27-30_O0070
+SRC: Filago arvensis (C3): 2
+locality_id=ZMSP3_27-30_L002 | taxon_verbatim=Filago arvensis | taxon_expanded=Filago arvensis | taxon_name_normalised=Filago arvensis | red_list_category=C3 | record_type=species_list | page=30
+====================================================================================================
+occurrences ZMSP10_39-42_O0054
+SRC: Schistidium sp.: 1
+locality_id=ZMSP10_39-42_L001 | taxon_verbatim=Schistidium sp. | taxon_expanded=Schistidium sp. | taxon_name_normalised=Schistidium sp. | record_type=species_list | page=42
+====================================================================================================
+occurrences ZMSP4P2_3-48_O2429
+SRC: Lapsana communis: 11, 15, 28, 39, 40, 50, 67, 87, 89, 94, 99, 100, 112, 113, 115, 136.
+locality_id=ZMSP4P2_3-48_L100 | taxon_verbatim=Lapsana communis | taxon_expanded=Lapsana communis | taxon_name_normalised=Lapsana communis | record_type=species_list | page=29
+====================================================================================================
+occurrences ZMSP10_33-38_O0166
+SRC: Pseudotsuga menziesii: 3
+locality_id=ZMSP10_33-38_L003 | taxon_verbatim=Pseudotsuga menziesii | taxon_expanded=Pseudotsuga menziesii | taxon_name_normalised=Pseudotsuga menziesii | record_type=species_list | page=38
+====================================================================================================
+occurrences ZMSP12_31-36_O0152
+SRC: Stachys alpina (NT/C3): 11, 15
+locality_id=ZMSP12_31-36_L015 | taxon_verbatim=Stachys alpina | taxon_expanded=Stachys alpina | taxon_name_normalised=Stachys alpina | red_list_category=NT/C3 | record_type=species_list | page=36
+====================================================================================================
+occurrences ZMSP3P1_3-48_O0510
+SRC: Cerastium glomeratum: 15a, 24, 70, 84, 87, 135 (BRNM)
+locality_id=ZMSP3P1_3-48_L087 | taxon_verbatim=Cerastium glomeratum | taxon_expanded=Cerastium glomeratum | taxon_name_normalised=Cerastium glomeratum | record_type=species_list | page=23
+====================================================================================================
+occurrences ZMSP9_40-44_O0159
+SRC: Potentilla argentea: 3
+locality_id=ZMSP9_40-44_L003 | taxon_verbatim=Potentilla argentea | taxon_expanded=Potentilla argentea | taxon_name_normalised=Potentilla argentea | record_type=species_list | page=43
+====================================================================================================
+occurrences ZMSP14_28-33_O0211
+SRC: V. sepium: 4
+locality_id=ZMSP14_28-33_L004 | taxon_verbatim=V. sepium | taxon_expanded=Vicia sepium | taxon_name_normalised=Vicia sepium | record_type=species_list | page=33
+====================================================================================================
+occurrences ZMSP3P1_3-48_O1398
+SRC: Microrrhinum minus: 39
+locality_id=ZMSP3P1_3-48_L039 | taxon_verbatim=Microrrhinum minus | taxon_expanded=Microrrhinum minus | taxon_name_normalised=Microrrhinum minus | record_type=species_list | page=30
+====================================================================================================
+occurrences ZMSP3P1_3-48_O0679
+SRC: Digitalis grandiflora: 38, 52, 59, 70, 105, 131, 137
+locality_id=ZMSP3P1_3-48_L038 | taxon_verbatim=Digitalis grandiflora | taxon_expanded=Digitalis grandiflora | taxon_name_normalised=Digitalis grandiflora | record_type=species_list | page=25
+====================================================================================================
+occurrences ZMSP6_25-29_O0140
+SRC: Myosotis arvensis: 1
+locality_id=ZMSP6_25-29_L001 | taxon_verbatim=Myosotis arvensis | taxon_expanded=Myosotis arvensis | taxon_name_normalised=Myosotis arvensis | record_type=species_list | page=29
+====================================================================================================
+occurrences ZMSP4P2_3-48_O2944
+SRC: Myosotis palustris subsp. laxiflora: 5, 6, 9, 25, 26, 29, 30, 74, 106, 123, 134.
+locality_id=ZMSP4P2_3-48_L074 | taxon_verbatim=Myosotis palustris subsp. laxiflora | taxon_expanded=Myosotis palustris subsp. laxiflora | taxon_name_normalised=Myosotis palustris subsp. laxiflora | record_type=species_list | page=31
+====================================================================================================
+occurrences ZMSP3_27-30_O0013
+SRC: Atriplex patula: 8
+locality_id=ZMSP3_27-30_L008 | taxon_verbatim=Atriplex patula | taxon_expanded=Atriplex patula | taxon_name_normalised=Atriplex patula | record_type=species_list | page=29
+====================================================================================================
+occurrences ZMSP12_15-19_O0028
+SRC: Capsella bursa-pastoris: 1
+locality_id=ZMSP12_15-19_L001 | taxon_verbatim=Capsella bursa-pastoris | taxon_expanded=Capsella bursa-pastoris | taxon_name_normalised=Capsella bursa-pastoris | record_type=species_list | page=19
+====================================================================================================
+occurrences ZMSP7_25-28_O0115
+SRC: Maianthemum bifolium: 1, 2
+locality_id=ZMSP7_25-28_L001 | taxon_verbatim=Maianthemum bifolium | taxon_expanded=Maianthemum bifolium | taxon_name_normalised=Maianthemum bifolium | record_type=species_list | page=28
+====================================================================================================
+occurrences ZMSP6_34-38_O0155
+SRC: Hypericum perforatum: 1, 2, 3, 4, 5
+locality_id=ZMSP6_34-38_L004 | taxon_verbatim=Hypericum perforatum | taxon_expanded=Hypericum perforatum | taxon_name_normalised=Hypericum perforatum | record_type=species_list | page=38
+====================================================================================================
+occurrences ZMSP2_7-15_O0202
+SRC: Veronica teucrium |  |  |  |  |  |  | + |  | 
+locality_id=ZMSP2_7-15_L007 | taxon_verbatim=Veronica teucrium | taxon_expanded=Veronica teucrium | taxon_name_normalised=Veronica teucrium | record_type=species_list | page=15
+====================================================================================================
+occurrences ZMSP4P2_3-48_O1800
+SRC: Filipendula vulgaris: 2, 8, 18, 24, 29, 36, 38, 39, 40, 43, 44, 61, 69, 77, 84, 86, 89, 96, 99, 106, 125, 136.
+locality_id=ZMSP4P2_3-48_L096 | taxon_verbatim=Filipendula vulgaris | taxon_expanded=Filipendula vulgaris | taxon_name_normalised=Filipendula vulgaris | record_type=species_list | page=26
+====================================================================================================
+occurrences ZMSP12_11-14_O0010
+SRC: Abietinella abietina var. abietina: 1, 2, 4
+locality_id=ZMSP12_11-14_L001 | taxon_verbatim=Abietinella abietina var. abietina | taxon_expanded=Abietinella abietina var. abietina | taxon_name_normalised=Abietinella abietina var. abietina | record_type=species_list | page=14
+====================================================================================================
+occurrences ZMSP13_40-45_O0024
+SRC: Caloboletus calopus: 1, 3
+locality_id=ZMSP13_40-45_L001 | taxon_verbatim=Caloboletus calopus | taxon_expanded=Caloboletus calopus | record_type=species_list | page=44
+====================================================================================================
+localities ZMSP13_22-25_L003
+SRC: 3. 76a. Moravská brána vlastní, 6571d, Křtomil (distr. Přerov): okraj pole při cestě jižně od Lipové u severního okraje lesa Ochozy, asi 1,2 km JZ od obecního úřadu v obci Křtomil, 49°24'10,1"N, 17°36'48,6"E − 49°24'02,2"N, 17°36'51,8"E, 310−325 m n. m.
+locality_number_verbatim=3 | fytochorion_code=76a | grid_square=6571d | municipality=Křtomil | district=Přerov | locality_description=okraj pole při cestě jižně od Lipové u severního okraje lesa Ochozy, asi 1,2 km JZ od obecního úřadu v obci Křtomil | lat_start=49.402806 | lon_start=17.613500 | altitude_min_m=325 | altitude_max_m=325 | page=24
+====================================================================================================
+localities ZMSP7_41-44_L001
+SRC: 1. Černotín (distr. Přerov): strniště na poli 50 m J od železniční zastávky až okraj obce 150 m JJV od železniční zastávky, 250 m n. m. (49°31'36"N, 17°46'23"E)
+locality_number_verbatim=1 | municipality=Černotín | district=Přerov | locality_description=strniště na poli 50 m J od železniční zastávky až okraj obce 150 m JJV od železniční zastávky | lat_start=49.526667 | lon_start=17.773056 | altitude_min_m=250 | altitude_max_m=250 | event_date_start=2017-09-30 | page=43
+====================================================================================================
+localities ZMSP10_24-28_L009
+SRC: 9. 76b. Tršická pahorkatina, 6470b, Libavá (distr. Olomouc): dočasně zpřístupněná oblast Vojenského újezdu Libavá S od obce Daskabát, otevřené plochy Z od Daskabátské střelnice, 49°35'30,0"N, 17°26'45,0"E – 49°35'29,4"N, 17°26'56,2"E, 350 m n. m.
+locality_number_verbatim=9 | fytochorion_code=76b | grid_square=6470b | municipality=Libavá | district=Olomouc | locality_description=dočasně zpřístupněná oblast Vojenského újezdu Libavá S od obce Daskabát, otevřené plochy Z od Daskabátské střelnice | lat_start=49.591667 | lon_start=17.445833 | lat_end=49.591500 | lon_end=17.448944 | altitude_min_m=350 | altitude_max_m=350 | event_date_start=2020-05-23 | page=27
+====================================================================================================
+localities ZMSP5_55-59_L046
+SRC: C4a | Veronica scutellata | rozrazil štítkovitý | Trojanovice, za Bačovou loukou | 1947
+locality_description=Trojanovice, za Bačovou loukou | page=59
+====================================================================================================
+localities ZMSP11_28-32_L006
+SRC: 6. 75. Jesenické podhůří, 6270b, Moravský Beroun (distr. Olomouc): Sedm Dvorů, komplex vlhkých luk na pravém břehu Bystřice J obce, 49°46'04,6"N, 17°25'55,8"E – 49°45'56,6"N, 17°25'36,8"E, 510–515 m n. m.
+locality_number_verbatim=6 | fytochorion_code=75 | grid_square=6270b | municipality=Moravský Beroun | district=Olomouc | locality_description=Sedm Dvorů, komplex vlhkých luk na pravém břehu Bystřice J obce | lat_start=49.767944 | lon_start=17.432167 | lat_end=49.765722 | lon_end=17.426889 | altitude_min_m=510 | altitude_max_m=515 | event_date_start=2020-06-12 | page=31
+====================================================================================================
+localities ZMSP7_70-75_L026
+SRC: 26. 6475b, Frýdlant nad Ostravicí, 2,8 km Z od žel. stanice, Ondřejník; odd. 424b2; 0,2 km JZ od Solárky, smrčina, 760 m n. m., 14. 8. 1984.
+locality_number_verbatim=26 | grid_square=6475b | municipality=Frýdlant nad Ostravicí | locality_description=2,8 km Z od žel. stanice, Ondřejník; odd. 424b2; 0,2 km JZ od Solárky, smrčina | altitude_min_m=760 | altitude_max_m=760 | event_date_start=1984-08-14 | page=72
+====================================================================================================
+localities ZMSP12_15-19_L002
+SRC: 2. 74a. Vidnavsko-osoblažská pahorkatina, 5771d, Liptaň (distr. Bruntál): okraj asfaltové komunikace západně bytovek č. p. 310 až 312 v obci, 140–150 m V od kostela Nanebevzetí Panny Marie v obci, 50°13'18,6"N, 17°36'11,7"E, 355 m n. m.
+locality_number_verbatim=2 | fytochorion_code=74a | grid_square=5771d | municipality=Liptaň | district=Bruntál | locality_description=okraj asfaltové komunikace západně bytovek č. p. 310 až 312 v obci, 140–150 m V od kostela Nanebevzetí Panny Marie v obci | lat_start=50.221833 | lon_start=17.603250 | altitude_min_m=355 | altitude_max_m=355 | page=18
+====================================================================================================
+localities ZMSP3P2_3-12_L057
+SRC: Galium rivale: 83, 6175b, Ostrava (distr. Ostrava-město): Koblov, v příkopách mezi cestou a areálem bývalých kasáren, dnes o. s. Nová šance, 49°53′14,9″N, 18°16′52,4″E, 220 m n. m., hojně (23. VIII. 2013 leg. D. Hlisnikovský, herb. FMM).
+fytochorion_code=83 | grid_square=6175b | municipality=Ostrava | district=Ostrava-město | locality_description=Koblov, v příkopách mezi cestou a areálem bývalých kasáren, dnes o. s. Nová šance | lat_start=49.887472 | lon_start=18.281222 | altitude_min_m=220 | altitude_max_m=220 | page=7
+====================================================================================================
+localities ZMSP4P2_3-48_L069
+SRC: 69. 6874a, Valašské Příkazy (VS): okolí železniční stanice Valašské Příkazy, 49°09′57″N, 18°03′51″E, 460 m n. m., 13. VI. 2014, vedoucí: M. Hroneš.
+locality_number_verbatim=69 | fytochorion_code=79 | grid_square=6874a | municipality=Valašské Příkazy (VS) | locality_description=okolí železniční stanice Valašské Příkazy | lat_start=49.165833 | lon_start=18.064167 | altitude_min_m=460 | altitude_max_m=460 | event_date_start=2014-06-13 | page=13
+====================================================================================================
+localities ZMSP3P1_3-48_L114
+SRC: 114. 5871b, Slezské Rudoltice – Víno: zarůstající okraje opuštěného ovocného sadu 0,60 km J od rybníčku ve Víně, 50°11′07,2″N, 17°39′17,0″E, 365 m n. m., 8. VI. 2013, vedoucí: P. Lustyk
+locality_number_verbatim=114 | fytochorion_code=74a | grid_square=5871b | municipality=Slezské Rudoltice – Víno | locality_description=zarůstající okraje opuštěného ovocného sadu 0,60 km J od rybníčku ve Víně | lat_start=50.185333 | lon_start=17.654722 | altitude_min_m=365 | altitude_max_m=365 | event_date_start=2013-06-08 | page=17
+====================================================================================================
+localities ZMSP5_33-36_L007
+SRC: 7 – Bukovec (distr. Frýdek-Místek): odtěžený a opět zarostlý náplav na Olši v Bukovci, 250 m od státní hranice, 456 m n. m. (49°33′32″N, 18°50′15″E)
+locality_number_verbatim=7 | municipality=Bukovec | district=Frýdek-Místek | locality_description=odtěžený a opět zarostlý náplav na Olši v Bukovci, 250 m od státní hranice | lat_start=49.558889 | lon_start=18.837500 | altitude_min_m=456 | altitude_max_m=456 | event_date_start=2015-07-24 | page=35
+====================================================================================================
+localities ZMSP9_62-72_L025
+SRC: 74a. Vidnavsko-osoblažská pahorkatina, 5772c, Bohušov (distr. Bruntál): u polní cesty na okraji pole s řepkou, 1,2 km Z od kostela sv. Martina v obci, 50°14'42,4"N, 17°41'51,8"E, 275 m n. m. (not. 3. 6. 2019 Z. Mruzíková).
+fytochorion_code=74a | grid_square=5772c | municipality=Bohušov | district=Bruntál | locality_description=u polní cesty na okraji pole s řepkou, 1,2 km Z od kostela sv. Martina v obci | lat_start=50.245111 | lon_start=17.697722 | altitude_min_m=275 | altitude_max_m=275 | page=68
+====================================================================================================
+localities ZMSP9_62-72_L026
+SRC: 74a. Vidnavsko-osoblažská pahorkatina, 5871a, Město Albrechtice (distr. Bruntál): ječmenné pole 1,42 km S od kostela v obci, nad zahrádkami pod železniční tratí směrem k silnici I/57, 50°10'32,8"N, 17°34'43,2"E, 390 m n. m. (7. 6. 2012 not Z. Mruzíková).
+fytochorion_code=74a | grid_square=5871a | municipality=Město Albrechtice | district=Bruntál | locality_description=ječmenné pole 1,42 km S od kostela v obci, nad zahrádkami pod železniční tratí směrem k silnici I/57 | lat_start=50.175778 | lon_start=17.578667 | altitude_min_m=390 | altitude_max_m=390 | page=68
+====================================================================================================
+localities ZMSP6_20-24_L011
+SRC: 11. Velký Týnec (distr. Olomouc): okolí zahrad na V okraji obce, cca 290–295 m n. m. (49°32'50"N, 17°21'10"E)
+locality_number_verbatim=11 | municipality=Velký Týnec | district=Olomouc | locality_description=okolí zahrad na V okraji obce | lat_start=49.547222 | lon_start=17.352778 | altitude_min_m=290 | altitude_max_m=295 | event_date_start=2016-05-13 | page=23
+====================================================================================================
+localities ZMSP3P1_3-48_L011
+SRC: 11. 5771a, Jindřichov-Arnultovice: pramenná místa bezejmenného pravostranného přítoku Hraničního potoka, 1,04 km S od kaple v Arnultovicích, 50°15′42,1″N, 17°33′49,7″E, 325 m n. m, 8. VI. 2013, vedoucí: M. Dančák
+locality_number_verbatim=11 | fytochorion_code=74a | grid_square=5771a | municipality=Jindřichov-Arnultovice | locality_description=pramenná místa bezejmenného pravostranného přítoku Hraničního potoka, 1,04 km S od kaple v Arnultovicích | lat_start=50.261694 | lon_start=17.563806 | altitude_min_m=325 | altitude_max_m=325 | event_date_start=2013-06-08 | page=11
