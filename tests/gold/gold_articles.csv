@@ -1,0 +1,11 @@
+article,source_file,pages,set,patterns,why
+ZMSP2_43-47,pdf/02/ZMSPCBS_2013-2-43-47.pdf,,dev,A+M,numbered list + matrix tables
+ZMSP4P2_3-48,pdf/04-P2/ZMSPCBS_4_P2_1-48_WEB.pdf,23-29,dev,A,supplement; page block drawn with seed 20261015
+ZMSP10_53-63,pdf/10/ZMSPCBS_2021-10-53-63.pdf,,dev,A2+B,name-keyed localities + floristic records
+ZMSP5_55-59,pdf/05/ZMSPCBS_2016-5-55-59.pdf,,dev,H,herbarium revision table
+ZMSP7_66-69,pdf/07/ZMSP_2018-7-66-69.pdf,,dev,A3,Phase 1 #3 (group sub-labels; date markers)
+ZMSP2_48-49,pdf/02/ZMSPCBS_2013-2-48-49.pdf,,dev,A3,Phase 1 #4 (numbered micro-habitats)
+ZMSP4_7-10,pdf/04/ZMSPCBS_2015-4-7-10.pdf,,dev,N,Phase 2 narrative records
+ZMSP13_46-49,pdf/13/ZMSPCBS_2024-13_46-49.pdf,,heldout,A1,held out (seed 20261015)
+ZMSP3_34-38,pdf/03/ZMSPCBS_2014-3-34-38.pdf,,heldout,A4+B,held out (seed 20261015)
+ZMSP7_61-65,pdf/07/ZMSP_2018-7-61-65.pdf,,heldout,A3+B,held out (seed 20261015)

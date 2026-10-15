@@ -1,0 +1,75 @@
+cand_id;page;taxon_as_printed;source_line;parser_occurrence_id;parser_locality;parser_date;record_type_suggested;is_record;locality_ok;date_ok;correction;note;colour;harvest_locality
+c001;48;Equisetum pratense;Hned na zaèátku nás zaujaly namísto mechù a játrovek bohaté porosty nepøíliš hojné a ohrožené pøeslièky luèní (Equisetum pratense).;;;;narrative;;;;;;red;
+c002;48;Orthotrichum affine;Pak už jsme se vìnovali bryologii - zastavili jsme se u nìkolika soliterních jasanù a na jejich kùøe pozorovali šurpek tenkožeberný (Orthotrichum affine).;;;;narrative;;;;;;red;
+c003;48;Pellia epiphylla;Ve vlhké pøíkopì podél cesty hojnì rostla pøímo na obnažené pùdì játrovka pobøežnice obecná (Pellia epiphylla).;;;;narrative;;;;;;red;
+c004;48;Hypnum cupressiforme;Kromì bìžných druhù – rostoucích jak na skalách, tak i na lesní pùdì èi hnijícím døevì – jako je: rokyt cypøišovitý (Hypnum cupressiforme), dvouhrotec chvostnatý (Dicranum scoparium) a dvouhrotcovka lámavá (Dicranodontium denudatum), jsme zaznamenali i zajímavìjší druhy.;;;;narrative;;;;;;red;
+c005;48;Dicranum scoparium;Kromì bìžných druhù – rostoucích jak na skalách, tak i na lesní pùdì èi hnijícím døevì – jako je: rokyt cypøišovitý (Hypnum cupressiforme), dvouhrotec chvostnatý (Dicranum scoparium) a dvouhrotcovka lámavá (Dicranodontium denudatum), jsme zaznamenali i zajímavìjší druhy.;;;;narrative;;;;;;red;
+c006;48;Dicranodontium denudatum;Kromì bìžných druhù – rostoucích jak na skalách, tak i na lesní pùdì èi hnijícím døevì – jako je: rokyt cypøišovitý (Hypnum cupressiforme), dvouhrotec chvostnatý (Dicranum scoparium) a dvouhrotcovka lámavá (Dicranodontium denudatum), jsme zaznamenali i zajímavìjší druhy.;;;;narrative;;;;;;red;
+c007;48;Mylia taylorii;Pøímo na skále rostla vršatka Taylorova (Mylia taylorii), která sice není ohrožená, ale na Moravì není všude bìžná.;;;;narrative;;;;;;red;
+c008;48;Ptilium crista-castrensis;Na pùdì blízko skalky jsme nalezli asi nejzajímavìjší druh celé exkurze pérovec høebenitý (Ptilium crista-castrensis).;;;;narrative;;;;;;red;
+c009;48;Rhynchostegium murale;Pøímo na zídce jsme sbírali napø. bazifilní mech zobanitka zední (Rhynchostegium murale), která mimo vápencové oblasti èasto osídluje antropogenní stanovištì.;;;;narrative;;;;;;red;
+c010;49;Rhytidiadelphus loreus;Ze zajímavìjších druhù to byl na pùdì rostoucí horský druh kostrbatec øemenatý (Rhytidiadelphus loreus), který je snadno rozpoznatelný podle jednostrannì odstávajících a srpovitì zahnutých lístkù na vìtvích.;;;;narrative;;;;;;red;
+c011;49;Diplophyllum albicans;Zajímavá byla také foliózní játrovka zdvojenka bìlavá (Diplophyllum albicans), která je snadno poznatelná podle bezbarvých prodloužených bunìk uprostøed listových lalokù.;;;;narrative;;;;;;red;
+c012;49;Cystopteris sudetica;Bryologické bádání jsme ukonèili pøíchodem na lokalitu kapradiny puchýøníku sudetského (Cystopteris sudetica).;;;;narrative;;;;;;red;
+c013;49;Violion caninae;Exkurzi jsme ukonèili pøejezdem na Èervenohorské sedlo, kde na sjezdovce s krátkostébelnou vegetací svazu Violion caninae roste kriticky ohrožený hoøeèek nahoøklý (Gentianella amarella) a ohrožená vrba rozmarýnolistá (Salix rosmarinifolia).;;;;narrative;;;;;;red;
+c014;49;Gentianella amarella;Exkurzi jsme ukonèili pøejezdem na Èervenohorské sedlo, kde na sjezdovce s krátkostébelnou vegetací svazu Violion caninae roste kriticky ohrožený hoøeèek nahoøklý (Gentianella amarella) a ohrožená vrba rozmarýnolistá (Salix rosmarinifolia).;;;;narrative;;;;;;red;
+c015;49;Salix rosmarinifolia;Exkurzi jsme ukonèili pøejezdem na Èervenohorské sedlo, kde na sjezdovce s krátkostébelnou vegetací svazu Violion caninae roste kriticky ohrožený hoøeèek nahoøklý (Gentianella amarella) a ohrožená vrba rozmarýnolistá (Salix rosmarinifolia).;;;;narrative;;;;;;red;
+c016;49;Orthotrichum affine;1. staré stromy u potoka: Orthotrichum affine;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › staré stromy u potoka
+c017;49;Pellia epiphylla;2. pøíkop u cesty: Pellia epiphylla;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › pøíkop u cesty
+c018;49;Bazzania trilobata;3. skalka: Bazzania trilobata;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › skalka
+c019;49;Dicranodontium denudatum;Dicranodontium denudatum;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › skalka
+c020;49;Dicranum scoparium;Dicranum scoparium;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › skalka
+c021;49;Hypnum cupressiforme;Hypnum cupressiforme;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › skalka
+c022;49;Lepidozia reptans;Lepidozia reptans;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › skalka
+c023;49;Mylia taylorii;Mylia taylorii;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › skalka
+c024;49;Plagiothecium laetum;Plagiothecium laetum;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › skalka
+c025;49;Polytrichum formosum;Polytrichum formosum;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › skalka
+c026;49;Brachythecium salebrosum;4. na zemi u skalky: Brachythecium salebrosum;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › na zemi u skalky
+c027;49;Plagiochila asplenioides;Plagiochila asplenioides;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › na zemi u skalky
+c028;49;Plagiomnium affine;Plagiomnium affine;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › na zemi u skalky
+c029;49;Ptilium crista-castrensis;Ptilium crista-castrensis;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › na zemi u skalky
+c030;49;Thuidium tamariscinum;Thuidium tamariscinum;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › na zemi u skalky
+c031;49;Dichodontium pellucidum;5. bøehy potùèku a kamenná zídka v potùèku: Dichodontium pellucidum;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › bøehy potùèku a kamenná zídka v potùèku
+c032;49;Chiloscyphus polyanthos;Chiloscyphus polyanthos;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › bøehy potùèku a kamenná zídka v potùèku
+c033;49;Lejeunea cavifolia;Lejeunea cavifolia;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › bøehy potùèku a kamenná zídka v potùèku
+c034;49;Marchantia polymorpha;Marchantia polymorpha;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › bøehy potùèku a kamenná zídka v potùèku
+c035;49;Radula complanata;Radula complanata;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › bøehy potùèku a kamenná zídka v potùèku
+c036;49;Rhizomnium punctatum;Rhizomnium punctatum;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › bøehy potùèku a kamenná zídka v potùèku
+c037;49;Rhynchostegium murale;Rhynchostegium murale;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › bøehy potùèku a kamenná zídka v potùèku
+c038;49;Sanionia uncinata;Sanionia uncinata;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › bøehy potùèku a kamenná zídka v potùèku
+c039;49;Sciuro-hypnum populeum;Sciuro-hypnum populeum;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › bøehy potùèku a kamenná zídka v potùèku
+c040;49;Frullania dilatata;6. na stromì: Frullania dilatata;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › na stromì
+c041;49;Pterigynandrum filiforme;Pterigynandrum filiforme;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › na stromì
+c042;49;Radula complanata;Radula complanata;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › na stromì
+c043;49;Calypogeia integristipula;7. na pùdì: Calypogeia integristipula;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › na pùdì
+c044;49;Diplophyllum albicans;Diplophyllum albicans;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › na pùdì
+c045;49;Hylocomium splendens;Hylocomium splendens;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › na pùdì
+c046;49;Rhytidiadelphus loreus;Rhytidiadelphus loreus;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › na pùdì
+c047;49;Scapania nemorea;Scapania nemorea;;;;species_list;;;;;;red;Na trase od soutoku Šumného a Hranièního potoka (GPS 50°10‘20.6“N 17°15‘27.8“E) a dále podél Šumného potoka v  › na pùdì
+c048;49;Cystopteris sudetica;Koèí M. (2012): Cystopteris sudetica. – In: Hadinec J. & Lustyk P. [eds]: Additamenta ad floram Reipublicae Bohemicae X., Zprávy Èes. Bot. Spoleè., Praha, 47: 70–72.;;;;literature;0;;;;;grey;
+ARTICLE;;;;;;;;;;;;optional: correction 'date=YYYY-MM-DD' = the date of every record of this article whose date is neither confirmed (date_ok=1) nor corrected;;
+M01;;;;;;;;;;;;;;
+M02;;;;;;;;;;;;;;
+M03;;;;;;;;;;;;;;
+M04;;;;;;;;;;;;;;
+M05;;;;;;;;;;;;;;
+M06;;;;;;;;;;;;;;
+M07;;;;;;;;;;;;;;
+M08;;;;;;;;;;;;;;
+M09;;;;;;;;;;;;;;
+M10;;;;;;;;;;;;;;
+M11;;;;;;;;;;;;;;
+M12;;;;;;;;;;;;;;
+M13;;;;;;;;;;;;;;
+M14;;;;;;;;;;;;;;
+M15;;;;;;;;;;;;;;
+M16;;;;;;;;;;;;;;
+M17;;;;;;;;;;;;;;
+M18;;;;;;;;;;;;;;
+M19;;;;;;;;;;;;;;
+M20;;;;;;;;;;;;;;
+M21;;;;;;;;;;;;;;
+M22;;;;;;;;;;;;;;
+M23;;;;;;;;;;;;;;
+M24;;;;;;;;;;;;;;
+M25;;;;;;;;;;;;;;

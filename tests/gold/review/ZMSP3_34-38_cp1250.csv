@@ -1,0 +1,178 @@
+cand_id;page;taxon_as_printed;source_line;parser_occurrence_id;parser_locality;parser_date;record_type_suggested;is_record;locality_ok;date_ok;correction;note;colour;harvest_locality
+c001;34;Pøírodovìdecká fakulta;"Univerzita Palackého v Olomouci, Pøírodovìdecká fakulta, Katedra botaniky, Šlechtitelù 11, CZ-783 71 Olomouc; e-mail: vencis.dvorak@seznam.cz";;;;out_of_scope;0;;;;;grey;
+c002;34;Katedra botaniky;"Univerzita Palackého v Olomouci, Pøírodovìdecká fakulta, Katedra botaniky, Šlechtitelù 11, CZ-783 71 Olomouc; e-mail: vencis.dvorak@seznam.cz";;;;out_of_scope;0;;;;;grey;
+c003;35;Fagus sylvatica;Z okolní lesní skladby (Fagus sylvatica, Chaerophyllum hirsutum, Lunaria rediviva, Phyteuma spicatum, Veratrum album subsp. lobelianum) lze usuzovat na blízkost k vegetaci suovıch lesù svazu Tilio-Acerion.;ZMSP3_34-38_O0036;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c004;35;Chaerophyllum hirsutum;Z okolní lesní skladby (Fagus sylvatica, Chaerophyllum hirsutum, Lunaria rediviva, Phyteuma spicatum, Veratrum album subsp. lobelianum) lze usuzovat na blízkost k vegetaci suovıch lesù svazu Tilio-Acerion.;ZMSP3_34-38_O0049;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c005;35;Lunaria rediviva;Z okolní lesní skladby (Fagus sylvatica, Chaerophyllum hirsutum, Lunaria rediviva, Phyteuma spicatum, Veratrum album subsp. lobelianum) lze usuzovat na blízkost k vegetaci suovıch lesù svazu Tilio-Acerion.;ZMSP3_34-38_O0056;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c006;35;Phyteuma spicatum;Z okolní lesní skladby (Fagus sylvatica, Chaerophyllum hirsutum, Lunaria rediviva, Phyteuma spicatum, Veratrum album subsp. lobelianum) lze usuzovat na blízkost k vegetaci suovıch lesù svazu Tilio-Acerion.;ZMSP3_34-38_O0070;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c007;35;Veratrum album subsp. lobelianum;Z okolní lesní skladby (Fagus sylvatica, Chaerophyllum hirsutum, Lunaria rediviva, Phyteuma spicatum, Veratrum album subsp. lobelianum) lze usuzovat na blízkost k vegetaci suovıch lesù svazu Tilio-Acerion.;ZMSP3_34-38_O0105;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c008;35;Arrhenatherion elatioris;4 – Luèní porost okrajovì ruderalizovanı fytocenologicky klasifikovatelnı do svazu Arrhenatherion elatioris, bez pøítomnosti Arrhentherum elatior, ale s dominantním podílem Festuca rubra.;;;;narrative;;;;;;red;
+c009;35;Arrhentherum elatior;4 – Luèní porost okrajovì ruderalizovanı fytocenologicky klasifikovatelnı do svazu Arrhenatherion elatioris, bez pøítomnosti Arrhentherum elatior, ale s dominantním podílem Festuca rubra.;;;;narrative;;;;;;red;
+c010;35;Festuca rubra;4 – Luèní porost okrajovì ruderalizovanı fytocenologicky klasifikovatelnı do svazu Arrhenatherion elatioris, bez pøítomnosti Arrhentherum elatior, ale s dominantním podílem Festuca rubra.;ZMSP3_34-38_O0037;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c011;35;Lunaria rediviva;5 – Okraje lesních cest, v zimì vyuívané pro bìecké lyování s bohatım vıskytem Lunaria rediviva.;;;;narrative;;;;;;red;
+c012;35;Petasites hybridus;6 – Rozsáhlá, silnì zastínìná paseka v dolních partiích se zachovalou vlhkomilnou vegetací s dominantním Petasites hybridus, ve vrchních partiích klasifikovatelná do svazu Fragarion vescae, resp. pro Beskydy s doposud málokde mapovanou vegetací asociace Gymnocarpio dryopteridis-Athyrietum filicis-feminae.;;;;narrative;;;;;;red;
+c013;35;Fragarion vescae;6 – Rozsáhlá, silnì zastínìná paseka v dolních partiích se zachovalou vlhkomilnou vegetací s dominantním Petasites hybridus, ve vrchních partiích klasifikovatelná do svazu Fragarion vescae, resp. pro Beskydy s doposud málokde mapovanou vegetací asociace Gymnocarpio dryopteridis-Athyrietum filicis-feminae.;;;;narrative;;;;;;red;
+c014;35;Picea abies;7 – Svìtlina bukového lesa s pøímìsí Picea abies, Sorbus aucuparia a vıskytem Taxus baccata.;ZMSP3_34-38_O0071;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c015;35;Sorbus aucuparia;7 – Svìtlina bukového lesa s pøímìsí Picea abies, Sorbus aucuparia a vıskytem Taxus baccata.;ZMSP3_34-38_O0096;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c016;35;Taxus baccata;7 – Svìtlina bukového lesa s pøímìsí Picea abies, Sorbus aucuparia a vıskytem Taxus baccata.;ZMSP3_34-38_O0100;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c017;35;Abies alba;Abies alba [C4a, C4, –];ZMSP3_34-38_O0001;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c018;35;Aquilegia vulgaris;Aquilegia vulgaris [C3, C3, –];ZMSP3_34-38_O0013;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c019;35;Arabidopsis halleri;Arabidopsis halleri [–, C4, –];ZMSP3_34-38_O0014;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c020;35;Aruncus dioicus;Aruncus dioicus [C4a, C4, –];ZMSP3_34-38_O0015;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c021;36;Dactylorhiza fuchsii s. str.;Dactylorhiza fuchsii s. str. [C4a, C4, §3];ZMSP3_34-38_O0030;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c022;36;Dactylorhiza majalis s. str.;Dactylorhiza majalis s. str. [C3, C3, §3];ZMSP3_34-38_O0031;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c023;36;Daphne mezereum;Daphne mezereum [–, C4, –];ZMSP3_34-38_O0032;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c024;36;Gentiana asclepiadea;Gentiana asclepiadea [C3, C4, §3];ZMSP3_34-38_O0043;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c025;36;Gladiolus imbricatus;Gladiolus imbricatus [C2, C2, §2];ZMSP3_34-38_O0044;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c026;37;Lilium martagon;Lilium martagon [C4a, C4, §3];ZMSP3_34-38_O0053;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c027;37;Listera ovata;Listera ovata [C4a, C4, –];ZMSP3_34-38_O0054;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c028;37;Lunaria rediviva;Lunaria rediviva [C4a, C4, §3];;;;detailed_record;;;;;;red;
+c029;37;Menyanthes trifoliata;Menyanthes trifoliata [C3, C2, §3];ZMSP3_34-38_O0063;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c030;37;Orchis mascula subsp. speciosa;Orchis mascula subsp. speciosa [C2, C3, §2];ZMSP3_34-38_O0066;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c031;37;Platanthera bifolia;Platanthera bifolia [C3, C3, §3];ZMSP3_34-38_O0073;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c032;37;Salix silesiaca;Salix silesiaca [C4a, –, –];ZMSP3_34-38_O0089;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;
+c033;37;Taxus baccata;Taxus baccata [C3, C2, §2];;;;detailed_record;;;;;;red;
+c034;37;Veratrum album subsp. lobelianum;Veratrum album subsp. lobelianum [C4a, C4, –];;;;detailed_record;;;;;;red;
+c035;37;Abies alba;Abies alba;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c036;37;Acer platanoides;Acer platanoides;ZMSP3_34-38_O0002;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c037;37;Acer pseudoplatanus;Acer pseudoplatanus;ZMSP3_34-38_O0003;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c038;37;Actaea spicata;Actaea spicata;ZMSP3_34-38_O0004;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c039;37;Aegopodium podagraria;Aegopodium podagraria;ZMSP3_34-38_O0005;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c040;37;Achillea millefolium;Achillea millefolium;ZMSP3_34-38_O0006;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c041;37;Ajuga genevensis;Ajuga genevensis;ZMSP3_34-38_O0007;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c042;37;Ajuga reptans;Ajuga reptans;ZMSP3_34-38_O0008;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c043;37;Alchemilla sp.;Alchemilla sp.;ZMSP3_34-38_O0009;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c044;37;Alopecurus pratensis;Alopecurus pratensis;ZMSP3_34-38_O0010;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c045;37;Anthoxanthum odoratum;Anthoxanthum odoratum;ZMSP3_34-38_O0011;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c046;37;Anthriscus nitida;Anthriscus nitida;ZMSP3_34-38_O0012;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;flags: TAXON_UNMATCHED;green;7 – Svìtlina bukového lesa s pøímìsí
+c047;37;Aquilegia vulgaris;Aquilegia vulgaris;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c048;37;Arabidopsis halleri;Arabidopsis halleri;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c049;37;Aruncus dioicus;Aruncus dioicus;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c050;37;Astrantia major;Astrantia major;ZMSP3_34-38_O0016;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c051;37;Athyrium filix-femina;Athyrium filix-femina;ZMSP3_34-38_O0017;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;(not highlighted: text not found on the PDF page);green;7 – Svìtlina bukového lesa s pøímìsí
+c052;37;Avenella flexuosa;Avenella flexuosa;ZMSP3_34-38_O0018;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;(not highlighted: text not found on the PDF page);green;7 – Svìtlina bukového lesa s pøímìsí
+c053;37;Calamagrostis arundinacea;Calamagrostis arundinacea;ZMSP3_34-38_O0019;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c054;37;Caltha palustris;Caltha palustris;ZMSP3_34-38_O0020;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c055;37;Campanula patula;Campanula patula;ZMSP3_34-38_O0021;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c056;37;Cardamine flexuosa;Cardamine flexuosa;ZMSP3_34-38_O0022;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;(not highlighted: text not found on the PDF page);green;7 – Svìtlina bukového lesa s pøímìsí
+c057;37;Carex pallescens;Carex pallescens;ZMSP3_34-38_O0023;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c058;37;Carex panicea;Carex panicea;ZMSP3_34-38_O0024;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c059;37;Carex sylvatica;Carex sylvatica;ZMSP3_34-38_O0025;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c060;37;Cirsium palustre;Cirsium palustre;ZMSP3_34-38_O0026;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c061;37;Corylus avellana;Corylus avellana;ZMSP3_34-38_O0027;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c062;37;Cystopteris fragilis;Cystopteris fragilis;ZMSP3_34-38_O0028;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c063;37;Dactylis glomerata;Dactylis glomerata;ZMSP3_34-38_O0029;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c064;37;Dactylorhiza fuchsii s. str.;Dactylorhiza fuchsii s. str.;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c065;37;Dactylorhiza majalis s. str.;Dactylorhiza majalis s. str.;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c066;37;Daphne mezereum;Daphne mezereum;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c067;37;Dryopteris filix-mas;Dryopteris filix-mas;ZMSP3_34-38_O0033;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;(not highlighted: text not found on the PDF page);green;7 – Svìtlina bukového lesa s pøímìsí
+c068;37;Equisetum arvense;Equisetum arvense;ZMSP3_34-38_O0034;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c069;37;Equisetum palustre;Equisetum palustre;ZMSP3_34-38_O0035;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c070;37;Fagus sylvatica;Fagus sylvatica;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c071;37;Festuca rubra;Festuca rubra;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c072;37;Festuca rupicola;Festuca rupicola;ZMSP3_34-38_O0038;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c073;37;Fragaria vesca;Fragaria vesca;ZMSP3_34-38_O0039;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c074;37;Galeobdolon montanum;Galeobdolon montanum;ZMSP3_34-38_O0040;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c075;37;Galium aparine;Galium aparine;ZMSP3_34-38_O0041;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c076;37;Galium odoratum;Galium odoratum;ZMSP3_34-38_O0042;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c077;37;Gentiana asclepiadea;Gentiana asclepiadea;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c078;37;Gladiolus imbricatus;Gladiolus imbricatus;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c079;37;Glechoma hederacea;Glechoma hederacea;ZMSP3_34-38_O0045;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c080;37;Gymnocarpium dryopteris;Gymnocarpium dryopteris;ZMSP3_34-38_O0046;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c081;37;Holcus lanatus;Holcus lanatus;ZMSP3_34-38_O0047;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c082;37;Hypericum maculatum;Hypericum maculatum;ZMSP3_34-38_O0048;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c083;37;Chaerophyllum hirsutum;Chaerophyllum hirsutum;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c084;37;Chrysosplenium alternifolium;Chrysosplenium alternifolium;ZMSP3_34-38_O0050;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c085;37;Juncus bufonius;Juncus bufonius;ZMSP3_34-38_O0051;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c086;37;Leucanthemum vulgare;Leucanthemum vulgare;ZMSP3_34-38_O0052;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c087;37;Lilium martagon;Lilium martagon;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c088;37;Listera ovata;Listera ovata;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c089;37;Lotus corniculatus;Lotus corniculatus;ZMSP3_34-38_O0055;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c090;37;Lunaria rediviva;Lunaria rediviva;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c091;37;Lupinus polyphyllus;Lupinus polyphyllus;ZMSP3_34-38_O0057;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c092;37;Luzula campestris;Luzula campestris;ZMSP3_34-38_O0058;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c093;37;Luzula sylvatica;Luzula sylvatica;ZMSP3_34-38_O0059;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c094;37;Lychnis flos-cuculi;Lychnis flos-cuculi;ZMSP3_34-38_O0060;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;(not highlighted: text not found on the PDF page) · flags: LIST_SPLIT;green;7 – Svìtlina bukového lesa s pøímìsí
+c095;38;Lysimachia nemorum;Lysimachia nemorum;ZMSP3_34-38_O0061;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c096;38;Maianthemum bifolium;Maianthemum bifolium;ZMSP3_34-38_O0062;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c097;38;Menyanthes trifoliata;Menyanthes trifoliata;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c098;38;Mycelis muralis;Mycelis muralis;ZMSP3_34-38_O0064;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c099;38;Myosotis nemorosa;Myosotis nemorosa;ZMSP3_34-38_O0065;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c100;38;Orchis mascula subsp. speciosa;Orchis mascula subsp. speciosa;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c101;38;Oxalis acetosella;Oxalis acetosella;ZMSP3_34-38_O0067;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c102;38;Petasites albus;Petasites albus;ZMSP3_34-38_O0068;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c103;38;Phegopteris connectilis;Phegopteris connectilis;ZMSP3_34-38_O0069;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c104;38;Phyteuma spicatum;Phyteuma spicatum;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c105;38;Picea abies;Picea abies;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c106;38;Plantago lanceolata;Plantago lanceolata;ZMSP3_34-38_O0072;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c107;38;Platanthera bifolia;Platanthera bifolia;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c108;38;Poa pratensis;Poa pratensis;ZMSP3_34-38_O0074;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c109;38;Polygala vulgaris;Polygala vulgaris;ZMSP3_34-38_O0075;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c110;38;Polygonatum multiflorum;Polygonatum multiflorum;ZMSP3_34-38_O0076;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;(not highlighted: text not found on the PDF page);green;7 – Svìtlina bukového lesa s pøímìsí
+c111;38;Polygonatum verticillatum;Polygonatum verticillatum;ZMSP3_34-38_O0077;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c112;38;Potentilla erecta;Potentilla erecta;ZMSP3_34-38_O0078;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c113;38;Prenanthes purpurea;Prenanthes purpurea;ZMSP3_34-38_O0079;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c114;38;Quercus robur;Quercus robur;ZMSP3_34-38_O0080;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c115;38;Ranunculus acris;Ranunculus acris;ZMSP3_34-38_O0081;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c116;38;Ranunculus flammula;Ranunculus flammula;ZMSP3_34-38_O0082;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;(not highlighted: text not found on the PDF page);green;7 – Svìtlina bukového lesa s pøímìsí
+c117;38;Ranunculus repens;Ranunculus repens;ZMSP3_34-38_O0083;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c118;38;Rubus idaeus;Rubus idaeus;ZMSP3_34-38_O0084;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c119;38;Rubus sp.;Rubus sp.;ZMSP3_34-38_O0086;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c120;38;Rumex acetosella;Rumex acetosella;ZMSP3_34-38_O0087;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c121;38;Salix caprea;Salix caprea;ZMSP3_34-38_O0088;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c122;38;Salix silesiaca;Salix silesiaca;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c123;38;Sambucus racemosus;Sambucus racemosus;ZMSP3_34-38_O0090;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;flags: TAXON_UNMATCHED;green;7 – Svìtlina bukového lesa s pøímìsí
+c124;38;Sanicula europaea;Sanicula europaea;ZMSP3_34-38_O0091;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c125;38;Scirpus sylvaticus;Scirpus sylvaticus;ZMSP3_34-38_O0092;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c126;38;Selinum carvifolia;Selinum carvifolia;ZMSP3_34-38_O0093;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c127;38;Senecio ovatus;Senecio ovatus;ZMSP3_34-38_O0094;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c128;38;Silene dioica;Silene dioica;ZMSP3_34-38_O0095;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c129;38;Sorbus aucuparia;Sorbus aucuparia;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c130;38;Stellaria nemorum;Stellaria nemorum;ZMSP3_34-38_O0097;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c131;38;Tanacetum vulgare;Tanacetum vulgare;ZMSP3_34-38_O0098;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c132;38;Taraxacum sp.;Taraxacum sp.;ZMSP3_34-38_O0099;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c133;38;Taxus baccata;Taxus baccata;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c134;38;Tilia cordata;Tilia cordata;ZMSP3_34-38_O0101;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c135;38;Trifolium pratense;Trifolium pratense;ZMSP3_34-38_O0102;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c136;38;Urtica dioica;Urtica dioica;ZMSP3_34-38_O0103;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c137;38;Vaccinium myrtillus;Vaccinium myrtillus;ZMSP3_34-38_O0104;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c138;38;Veratrum album subsp. lobelianum;Veratrum album subsp. lobelianum;;;;species_list;;;;;;red;7 – Svìtlina bukového lesa s pøímìsí
+c139;38;Veronica chamaedrys;Veronica chamaedrys;ZMSP3_34-38_O0106;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c140;38;Vicia sepium;Vicia sepium;ZMSP3_34-38_O0107;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c141;38;Viola canina;Viola canina.;ZMSP3_34-38_O0108;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;;green;7 – Svìtlina bukového lesa s pøímìsí
+c142;38;Dactylorhiza fuchsii;I pøes zvıšenou antropogenní èinnost na lokalitì (tìba, turismus, stavební èinnost) se zde øadì vzácnım, by lokálnì èastìjším druhùm (Dactylorhiza fuchsii, Gentiana asclepiadea, Gladiolus imbricatus) daøí pøeívat v poèetnıch populacích.;;;;narrative;;;;;;red;
+c143;38;Gentiana asclepiadea;I pøes zvıšenou antropogenní èinnost na lokalitì (tìba, turismus, stavební èinnost) se zde øadì vzácnım, by lokálnì èastìjším druhùm (Dactylorhiza fuchsii, Gentiana asclepiadea, Gladiolus imbricatus) daøí pøeívat v poèetnıch populacích.;;;;narrative;;;;;;red;
+c144;38;Gladiolus imbricatus;I pøes zvıšenou antropogenní èinnost na lokalitì (tìba, turismus, stavební èinnost) se zde øadì vzácnım, by lokálnì èastìjším druhùm (Dactylorhiza fuchsii, Gentiana asclepiadea, Gladiolus imbricatus) daøí pøeívat v poèetnıch populacích.;;;;narrative;;;;;;red;
+c145;38;Orchis mascula subsp. speciosa;Lze však pøedpokládat, e pøedevším tìební zásahy na lokalitì budou mít nepøíznivı vliv na populace druhù jako je Orchis mascula subsp. speciosa.;;;;narrative;;;;;;red;
+c146;38;Dactylorhiza majalis;Za nejcennìjší stanovištì v zájmovém území lze povaovat zachovalé luèní prameništì s vıskytem Dactylorhiza majalis, Gladiolus imbricatus, Listera ovata, Menyanthes trifoliata a Platanthera bifolia, které leí mimo probíhající stavební zásahy na soukromém pozemku.;;;;narrative;;;;;;red;
+c147;38;Gladiolus imbricatus;Za nejcennìjší stanovištì v zájmovém území lze povaovat zachovalé luèní prameništì s vıskytem Dactylorhiza majalis, Gladiolus imbricatus, Listera ovata, Menyanthes trifoliata a Platanthera bifolia, které leí mimo probíhající stavební zásahy na soukromém pozemku.;;;;narrative;;;;;;red;
+c148;38;Listera ovata;Za nejcennìjší stanovištì v zájmovém území lze povaovat zachovalé luèní prameništì s vıskytem Dactylorhiza majalis, Gladiolus imbricatus, Listera ovata, Menyanthes trifoliata a Platanthera bifolia, které leí mimo probíhající stavební zásahy na soukromém pozemku.;;;;narrative;;;;;;red;
+c149;38;Menyanthes trifoliata;Za nejcennìjší stanovištì v zájmovém území lze povaovat zachovalé luèní prameništì s vıskytem Dactylorhiza majalis, Gladiolus imbricatus, Listera ovata, Menyanthes trifoliata a Platanthera bifolia, které leí mimo probíhající stavební zásahy na soukromém pozemku.;;;;narrative;;;;;;red;
+c150;38;Platanthera bifolia;Za nejcennìjší stanovištì v zájmovém území lze povaovat zachovalé luèní prameništì s vıskytem Dactylorhiza majalis, Gladiolus imbricatus, Listera ovata, Menyanthes trifoliata a Platanthera bifolia, které leí mimo probíhající stavební zásahy na soukromém pozemku.;;;;narrative;;;;;;red;
+P001;38;Rubus ser. Glandulosi;Rubus ser. Glandulosi;ZMSP3_34-38_O0085;L001 Severní svahy vrchu Staškov – floristicky pestrá lokalita Moravskoslez;–;species_list;1;1;;;parser row not linked to a harvested name · ;green;
+ARTICLE;;;;;;;;;;;;optional: correction 'date=YYYY-MM-DD' = the date of every record of this article whose date is neither confirmed (date_ok=1) nor corrected;;
+M01;;;;;;;;;;;;;;
+M02;;;;;;;;;;;;;;
+M03;;;;;;;;;;;;;;
+M04;;;;;;;;;;;;;;
+M05;;;;;;;;;;;;;;
+M06;;;;;;;;;;;;;;
+M07;;;;;;;;;;;;;;
+M08;;;;;;;;;;;;;;
+M09;;;;;;;;;;;;;;
+M10;;;;;;;;;;;;;;
+M11;;;;;;;;;;;;;;
+M12;;;;;;;;;;;;;;
+M13;;;;;;;;;;;;;;
+M14;;;;;;;;;;;;;;
+M15;;;;;;;;;;;;;;
+M16;;;;;;;;;;;;;;
+M17;;;;;;;;;;;;;;
+M18;;;;;;;;;;;;;;
+M19;;;;;;;;;;;;;;
+M20;;;;;;;;;;;;;;
+M21;;;;;;;;;;;;;;
+M22;;;;;;;;;;;;;;
+M23;;;;;;;;;;;;;;
+M24;;;;;;;;;;;;;;
+M25;;;;;;;;;;;;;;

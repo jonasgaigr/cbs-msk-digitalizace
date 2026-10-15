@@ -1,0 +1,188 @@
+cand_id;page;taxon_as_printed;source_line;parser_occurrence_id;parser_locality;parser_date;record_type_suggested;is_record;locality_ok;date_ok;correction;note;colour;harvest_locality
+c001;66;Pøírodovìdecká fakulta;1) Univerzita Palackého v Olomouci, Pøírodovìdecká fakulta, Katedra botaniky,;;;;out_of_scope;0;;;;;grey;
+c002;66;Katedra botaniky;1) Univerzita Palackého v Olomouci, Pøírodovìdecká fakulta, Katedra botaniky,;;;;out_of_scope;0;;;;;grey;
+c003;66;Jihoèeská univerzita;2) Jihoèeská univerzita v Èeskıch Budìjovicích, Pøírodovìdecká fakulta, Katedra botaniky,;;;;out_of_scope;0;;;;;grey;
+c004;66;Pøírodovìdecká fakulta;2) Jihoèeská univerzita v Èeskıch Budìjovicích, Pøírodovìdecká fakulta, Katedra botaniky,;;;;out_of_scope;0;;;;;grey;
+c005;66;Katedra botaniky;2) Jihoèeská univerzita v Èeskıch Budìjovicích, Pøírodovìdecká fakulta, Katedra botaniky,;;;;out_of_scope;0;;;;;grey;
+c006;66;Muzeum regionu;3) Muzeum regionu Valašsko,;;;;out_of_scope;0;;;;;grey;
+c007;66;Campylium stellatum;The most interesting ones were Campylium stellatum, Didymodon luridus, Orthotrichum patens, Eurhynchium striatum and Hypnum pallescens subsp. reptile.;;;;out_of_scope;0;;;;;grey;
+c008;66;Didymodon luridus;The most interesting ones were Campylium stellatum, Didymodon luridus, Orthotrichum patens, Eurhynchium striatum and Hypnum pallescens subsp. reptile.;;;;out_of_scope;0;;;;;grey;
+c009;66;Orthotrichum patens;The most interesting ones were Campylium stellatum, Didymodon luridus, Orthotrichum patens, Eurhynchium striatum and Hypnum pallescens subsp. reptile.;;;;out_of_scope;0;;;;;grey;
+c010;66;Eurhynchium striatum;The most interesting ones were Campylium stellatum, Didymodon luridus, Orthotrichum patens, Eurhynchium striatum and Hypnum pallescens subsp. reptile.;;;;out_of_scope;0;;;;;grey;
+c011;66;Hypnum pallescens subsp. reptile;The most interesting ones were Campylium stellatum, Didymodon luridus, Orthotrichum patens, Eurhynchium striatum and Hypnum pallescens subsp. reptile.;;;;out_of_scope;0;;;;;grey;
+c012;67;Hypnum pallescens subsp. reptile;Taxonomické pojetí a nomenklatura jsou v souladu s aktualizovanım seznamem a èervenım seznamem mechorostù Èeské republiky (Kuèera et al. 2012) vyjma Hypnum pallescens subsp. reptile (Michx.) Bertsch.;;;;narrative;;;;;;red;
+c013;67;Campylium stellatum;Tøi z nich patøí k taxonùm s niším stupnìm ohroení – LR-nt (Campylium stellatum, Didymodon luridus a Orthotrichum patens) a dva náleí k taxonùm vyadujícím pozornost – LC-att (Eurhynchium striatum a Hypnum pallescens subsp. reptile).;;;;narrative;;;;;;red;
+c014;67;Didymodon luridus;Tøi z nich patøí k taxonùm s niším stupnìm ohroení – LR-nt (Campylium stellatum, Didymodon luridus a Orthotrichum patens) a dva náleí k taxonùm vyadujícím pozornost – LC-att (Eurhynchium striatum a Hypnum pallescens subsp. reptile).;;;;narrative;;;;;;red;
+c015;67;Orthotrichum patens;Tøi z nich patøí k taxonùm s niším stupnìm ohroení – LR-nt (Campylium stellatum, Didymodon luridus a Orthotrichum patens) a dva náleí k taxonùm vyadujícím pozornost – LC-att (Eurhynchium striatum a Hypnum pallescens subsp. reptile).;;;;narrative;;;;;;red;
+c016;67;Eurhynchium striatum;Tøi z nich patøí k taxonùm s niším stupnìm ohroení – LR-nt (Campylium stellatum, Didymodon luridus a Orthotrichum patens) a dva náleí k taxonùm vyadujícím pozornost – LC-att (Eurhynchium striatum a Hypnum pallescens subsp. reptile).;;;;narrative;;;;;;red;
+c017;67;Hypnum pallescens subsp. reptile;Tøi z nich patøí k taxonùm s niším stupnìm ohroení – LR-nt (Campylium stellatum, Didymodon luridus a Orthotrichum patens) a dva náleí k taxonùm vyadujícím pozornost – LC-att (Eurhynchium striatum a Hypnum pallescens subsp. reptile).;;;;narrative;;;;;;red;
+c018;67;Campylium stellatum;Nepøíliš obvyklı byl nález mechu Campylium stellatum na mokrém bahnì okraje polní cesty.;;;;narrative;;;;;;red;
+c019;67;Didymodon luridus;Didymodon luridus, kterı byl na lokalitì nalezen s nepøíliš èasto tvoøenımi sporofyty, je teplomilnım druhem, kterı u nás má recentnì pomìrnì málo nálezovıch údajù.;;;;narrative;;;;;;red;
+c020;67;Orthotrichum patens;Rovnì nálezù druhu Orthotrichum patens v poslední dobì pøibıvá.;;;;narrative;;;;;;red;
+c021;67;Eurhynchium striatum;Eurhynchium striatum je druhem suboceánickım, jeho naleziš smìrem na vıchod zøetelnì ubıvá, proto je nález regionálnì zajímavı.;;;;narrative;;;;;;red;
+c022;67;Hypnum pallescens subsp. reptile;"Taxon Hypnum pallescens subsp. reptile je v poslední verzi checklistu mechorostù uveden jako Hypnum pallescens bez rozlišení poddruhu; Hypnum pallescens subsp. pallescens je v nìm toti omylem uvedeno jako morfologicky podobnı taxon, Campylophyllopsis sommerfeltii (Myrin) Ochyra [navíc pod neplatnım rodovım jménem Campylidium (Kindb.) Ochyra].";;;;narrative;;;;;;red;
+c023;67;Hypnum pallescens;"Taxon Hypnum pallescens subsp. reptile je v poslední verzi checklistu mechorostù uveden jako Hypnum pallescens bez rozlišení poddruhu; Hypnum pallescens subsp. pallescens je v nìm toti omylem uvedeno jako morfologicky podobnı taxon, Campylophyllopsis sommerfeltii (Myrin) Ochyra [navíc pod neplatnım rodovım jménem Campylidium (Kindb.) Ochyra].";;;;narrative;;;;;;red;
+c024;67;Hypnum pallescens subsp. pallescens;"Taxon Hypnum pallescens subsp. reptile je v poslední verzi checklistu mechorostù uveden jako Hypnum pallescens bez rozlišení poddruhu; Hypnum pallescens subsp. pallescens je v nìm toti omylem uvedeno jako morfologicky podobnı taxon, Campylophyllopsis sommerfeltii (Myrin) Ochyra [navíc pod neplatnım rodovım jménem Campylidium (Kindb.) Ochyra].";;;;narrative;;;;;;red;
+c025;67;Campylophyllopsis sommerfeltii;"Taxon Hypnum pallescens subsp. reptile je v poslední verzi checklistu mechorostù uveden jako Hypnum pallescens bez rozlišení poddruhu; Hypnum pallescens subsp. pallescens je v nìm toti omylem uvedeno jako morfologicky podobnı taxon, Campylophyllopsis sommerfeltii (Myrin) Ochyra [navíc pod neplatnım rodovım jménem Campylidium (Kindb.) Ochyra].";;;;narrative;;;;;;red;
+c026;67;Chiloscyphus coadunatus;Chiloscyphus coadunatus.;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c027;67;Amblystegium serpens;Amblystegium serpens;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c028;67;Barbula unguiculata;Barbula unguiculata;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c029;67;Brachythecium albicans;Brachythecium albicans;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c030;67;B. rutabulum;B. rutabulum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c031;67;Bryum argenteum;Bryum argenteum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c032;67;B. caespiticium;B. caespiticium (CBFS);;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c033;67;B. dichotomum;B. dichotomum (FMM, VM);;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c034;67;B. moravicum;B. moravicum;;;;species_list;;;;;(not highlighted: text not found on the PDF page);red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+P001;67;(no taxon);"76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce asi 760 m SZ smìrem (okolí hlinité cesty, narušená místa, luní les), 49°31'22""N, 17°50'25""E – 49°31'42""N, 17°50'58""E, cca 265 m n. m. (22. 4. 2017).";ZMSP7_66-69_O0001;L001 Hustopeèe nad Beèvou, levım bøehem Beèvy od mostu v délce asi 760 m SZ;2017-04-22;detailed_record;1;1;1;;parser row not linked to a harvested name · flags: MULTI_INTERPRETATION;green;
+c035;68;B. pallens;B. pallens;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c036;68;Calliergonella cuspidata;Calliergonella cuspidata;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c037;68;Campylium stellatum;Campylium stellatum (LR-nt) (FMM, VM);;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c038;68;Ceratodon purpureus;Ceratodon purpureus (VM);;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c039;68;Cirriphyllum piliferum;Cirriphyllum piliferum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c040;68;Cratoneuron filicinum;Cratoneuron filicinum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c041;68;Dicranella varia;Dicranella varia;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c042;68;Fissidens taxifolius;Fissidens taxifolius;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c043;68;Funaria hygrometrica;Funaria hygrometrica;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c044;68;Grimmia pulvinata;Grimmia pulvinata;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c045;68;Hypnum cupressiforme;Hypnum cupressiforme;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c046;68;Leskea polycarpa;Leskea polycarpa;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c047;68;Nyholmiella obtusifolia;Nyholmiella obtusifolia;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c048;68;Orthotrichum affine;Orthotrichum affine;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c049;68;O. diaphanum;O. diaphanum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c050;68;O. pumilum;O. pumilum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c051;68;Oxyrrhynchium hians;Oxyrrhynchium hians;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c052;68;Physcomitrium pyriforme;Physcomitrium pyriforme;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c053;68;Plagiomnium cuspidatum;Plagiomnium cuspidatum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c054;68;P. undulatum;P. undulatum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c055;68;Platygyrium repens;Platygyrium repens;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c056;68;Pohlia wahlenbergii;Pohlia wahlenbergii;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c057;68;Pylaisia polyantha;Pylaisia polyantha;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c058;68;Rhizomnium punctatum;Rhizomnium punctatum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c059;68;Schistidium crassipilum;Schistidium crassipilum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c060;68;Streblotrichum convolutum;Streblotrichum convolutum (CBFS);;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c061;68;Syntrichia ruralis;Syntrichia ruralis;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c062;68;Tortula muralis;Tortula muralis.;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov): levım bøehem Beèvy od mostu v délce 
+c063;68;Chiloscyphus profundus;Chiloscyphus profundus *;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c064;68;Plagiochila porelloides;Plagiochila porelloides +.;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c065;68;Amblystegium serpens;Amblystegium serpens *;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c066;68;Atrichum undulatum;Atrichum undulatum *;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c067;68;Brachythecium rutabulum;Brachythecium rutabulum *;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c068;68;Ctenidium molluscum;Ctenidium molluscum +;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c069;68;Dicranella heteromalla;Dicranella heteromalla *;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c070;68;Eurhynchium angustirete;Eurhynchium angustirete *;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c071;68;Fissidens exilis;Fissidens exilis * (VM);;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c072;68;F. taxifolius;F. taxifolius *;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c073;68;Hypnum cupressiforme;Hypnum cupressiforme *;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c074;68;Leptodictyum riparium;Leptodictyum riparium *;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c075;68;Orthotrichum affine;Orthotrichum affine *;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c076;68;Oxyrrhynchium hians;Oxyrrhynchium hians *;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c077;68;Plagiothecium cavifolium;Plagiothecium cavifolium *;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c078;68;Platygyrium repens;Platygyrium repens +;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c079;68;Pylaisia polyantha;Pylaisia polyantha *;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c080;68;Ulota sp.;Ulota sp. *.;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrost
+c081;68;Chiloscyphus coadunatus;Chiloscyphus coadunatus;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c082;68;Radula complanata;Radula complanata.;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c083;68;Amblystegium serpens;Amblystegium serpens;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c084;68;Brachytheciastrum velutinum;Brachytheciastrum velutinum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c085;68;Brachythecium rutabulum;Brachythecium rutabulum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c086;68;B. salebrosum;B. salebrosum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c087;68;Bryoerythrophyllum recurvirostrum;Bryoerythrophyllum recurvirostrum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c088;68;Bryum moravicum;Bryum moravicum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c089;68;Didymodon luridus;Didymodon luridus (LR-nt) (CBFS);;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c090;68;D. rigidulus;D. rigidulus;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c091;68;Hypnum cupressiforme;Hypnum cupressiforme;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c092;68;Leskea polycarpa;Leskea polycarpa;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c093;68;Mnium stellare;Mnium stellare;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c094;68;Nyholmiella obtusifolia;Nyholmiella obtusifolia;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c095;68;Orthotrichum affine;Orthotrichum affine;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c096;68;O. anomalum;O. anomalum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c097;68;O. diaphanum;O. diaphanum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c098;68;O. pumilum;O. pumilum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c099;68;O. speciosum;O. speciosum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c100;68;Plagiomnium affine;Plagiomnium affine;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c101;68;P. cuspidatum;P. cuspidatum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c102;68;P. undulatum;P. undulatum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c103;68;Platygyrium repens;Platygyrium repens;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c104;68;Pylaisia polyantha;Pylaisia polyantha;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c105;68;Rhynchostegium murale;Rhynchostegium murale;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c106;68;Sciuro-hypnum populeum;Sciuro-hypnum populeum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c107;68;Syntrichia virescens;Syntrichia virescens;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c108;68;Tortula muralis;Tortula muralis.;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ
+c109;68;Chiloscyphus profundus;Chiloscyphus profundus;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c110;68;Frullania dilatata;Frullania dilatata;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c111;68;Metzgeria furcata;Metzgeria furcata;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c112;68;Pellia endiviifolia;Pellia endiviifolia;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c113;68;Porella platyphylla;Porella platyphylla;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c114;68;Radula complanata;Radula complanata.;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+P002;68;(no taxon);"76a. Moravská brána vlastní, 6473c, Zámrsky (distr. Pøerov): PR Doubek, smíšenı les s bohatì vyvinutım podrostem, asi 1,5 km SSV od kostela v Zámrskách, 49°31'11""N, 17°50'10""E – 49°31'16""N, 17°50'26""E, 265–275 m n. m. (22. 4. 2017 * a 29. 5. 2017 +).";ZMSP7_66-69_O0002;L002 Zámrsky, PR Doubek, smíšenı les s bohatì vyvinutım podrostem, asi 1,5 ;2017-04-22/2017-05-29;detailed_record;1;1;1;;parser row not linked to a harvested name · flags: MULTI_INTERPRETATION;green;
+P003;68;(no taxon);"76a. Moravská brána vlastní, 6472d, Špièky (distr. Pøerov): luní les na pravém bøehu øeky Beèvy asi 400 m JJZ od eleznièní zastávky Špièky, 49°31'58""N, 17°48'36""E – 49°32'04""N, 17°48'51""E, 260 m n. m. (22. 4. 2017).";ZMSP7_66-69_O0003;L003 Špièky, luní les na pravém bøehu øeky Beèvy asi 400 m JJZ od elezniè;2017-04-22;detailed_record;1;1;1;;parser row not linked to a harvested name · flags: MULTI_INTERPRETATION;green;
+P004;68;(no taxon);"76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustopeèe-Štìrkáè a pøilehlı luní les na levém bøehu øeky Beèvy, od silnice z Hustopeèí n. B. do Nìmetic smìrem na JV, 49°30'44""N, 17°50'47""E – 49°31'22""N, 17°52'18""E, cca 265 m n. m. (29. 5. 2017).";ZMSP7_66-69_O0004;L004 Hustopeèe nad Beèvou a Nìmetice (distr. Vsetín), PP Hustopeèe-Štìrkáè ;2017-05-29;detailed_record;1;1;1;;parser row not linked to a harvested name · flags: MULTI_INTERPRETATION;green;
+c115;69;Amblystegium serpens;Amblystegium serpens;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c116;69;Atrichum undulatum;Atrichum undulatum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c117;69;Barbula unguiculata;Barbula unguiculata;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c118;69;Brachytheciastrum velutinum;Brachytheciastrum velutinum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c119;69;Brachythecium rutabulum;Brachythecium rutabulum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c120;69;B. salebrosum;B. salebrosum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c121;69;Bryum moravicum;Bryum moravicum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c122;69;Ceratodon purpureus;Ceratodon purpureus;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c123;69;Dicranella heteromalla;Dicranella heteromalla;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c124;69;Dicranum montanum;Dicranum montanum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c125;69;D. tauricum;D. tauricum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c126;69;Fissidens taxifolius;Fissidens taxifolius;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c127;69;Herzogiella seligeri;Herzogiella seligeri;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c128;69;Homalia trichomanoides;Homalia trichomanoides;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c129;69;Hypnum cupressiforme;Hypnum cupressiforme;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c130;69;H. pallescens subsp. reptile;H. pallescens subsp. reptile (LC-att) (CBFS);;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c131;69;Leskea polycarpa;Leskea polycarpa;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c132;69;Mnium stellare;Mnium stellare;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c133;69;Orthotrichum affine;Orthotrichum affine;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c134;69;O. anomalum;O. anomalum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c135;69;O. patens;O. patens (LR-nt) (CBFS);;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c136;69;O. pumilum;O. pumilum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c137;69;O. speciosum;O. speciosum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c138;69;Oxyrrhynchium hians;Oxyrrhynchium hians;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c139;69;Plagiomnium affine;Plagiomnium affine;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c140;69;P. undulatum;P. undulatum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c141;69;Plagiothecium cavifolium;Plagiothecium cavifolium;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c142;69;P. succulentum;P. succulentum (VM);;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c143;69;Platygyrium repens;Platygyrium repens;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c144;69;Polytrichum formosum;Polytrichum formosum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c145;69;Pseudoleskeella nervosa;Pseudoleskeella nervosa;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c146;69;Pterigynandrum filiforme;Pterigynandrum filiforme;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c147;69;Pylaisia polyantha;Pylaisia polyantha;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c148;69;Rhizomnium punctatum;Rhizomnium punctatum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c149;69;Schistidium apocarpum;Schistidium apocarpum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c150;69;S. crassipilum;S. crassipilum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c151;69;Sciuro-hypnum populeum;Sciuro-hypnum populeum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c152;69;Ulota bruchii;Ulota bruchii (CBFS).;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Hustopeèe nad Beèvou (distr. Pøerov) a Nìmetice (distr. Vsetín): PP Hustop
+c153;69;Ctenidium molluscum;Ctenidium molluscum;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Nìmetice (distr. Vsetín): les Doubrava, dubohabøina na svahu k øece Beèvì,
+c154;69;Eurhynchium angustirete;Eurhynchium angustirete;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Nìmetice (distr. Vsetín): les Doubrava, dubohabøina na svahu k øece Beèvì,
+c155;69;E. striatum;E. striatum (LC-att) (VM);;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Nìmetice (distr. Vsetín): les Doubrava, dubohabøina na svahu k øece Beèvì,
+c156;69;Isothecium alopecuroides;Isothecium alopecuroides.;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6473c, Nìmetice (distr. Vsetín): les Doubrava, dubohabøina na svahu k øece Beèvì,
+P005;69;(no taxon);"76a. Moravská brána vlastní, 6473c, Nìmetice (distr. Vsetín): les Doubrava, dubohabøina na svahu k øece Beèvì, dále proti proudu Beèvy od PP Hustopeèe-Štìrkáè smìrem k Choryni, 49°30'36""N, 17°52'17""E – 49°30'50""N, 17°52'36""E, cca 270 m n. m. (29. 5. 2017).";ZMSP7_66-69_O0005;L005 Nìmetice, les Doubrava, dubohabøina na svahu k øece Beèvì, dále proti ;2017-05-29;detailed_record;1;1;1;;parser row not linked to a harvested name · flags: MULTI_INTERPRETATION;green;
+ARTICLE;;;;;;;;;;;;optional: correction 'date=YYYY-MM-DD' = the date of every record of this article whose date is neither confirmed (date_ok=1) nor corrected;;
+M01;;;;;;;;;;;;;;
+M02;;;;;;;;;;;;;;
+M03;;;;;;;;;;;;;;
+M04;;;;;;;;;;;;;;
+M05;;;;;;;;;;;;;;
+M06;;;;;;;;;;;;;;
+M07;;;;;;;;;;;;;;
+M08;;;;;;;;;;;;;;
+M09;;;;;;;;;;;;;;
+M10;;;;;;;;;;;;;;
+M11;;;;;;;;;;;;;;
+M12;;;;;;;;;;;;;;
+M13;;;;;;;;;;;;;;
+M14;;;;;;;;;;;;;;
+M15;;;;;;;;;;;;;;
+M16;;;;;;;;;;;;;;
+M17;;;;;;;;;;;;;;
+M18;;;;;;;;;;;;;;
+M19;;;;;;;;;;;;;;
+M20;;;;;;;;;;;;;;
+M21;;;;;;;;;;;;;;
+M22;;;;;;;;;;;;;;
+M23;;;;;;;;;;;;;;
+M24;;;;;;;;;;;;;;
+M25;;;;;;;;;;;;;;

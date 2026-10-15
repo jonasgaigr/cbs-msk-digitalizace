@@ -1,0 +1,62 @@
+cand_id;page;taxon_as_printed;source_line;parser_occurrence_id;parser_locality;parser_date;record_type_suggested;is_record;locality_ok;date_ok;correction;note;colour;harvest_locality
+c001;61;Epipactis helleborine;During the field trip the following species were confirmed in the area: Epipactis helleborine, E. microphylla, E. leutei and E. muelleri.;;;;out_of_scope;0;;;;;grey;
+c002;61;E. microphylla;During the field trip the following species were confirmed in the area: Epipactis helleborine, E. microphylla, E. leutei and E. muelleri.;;;;out_of_scope;0;;;;;grey;
+c003;61;E. leutei;During the field trip the following species were confirmed in the area: Epipactis helleborine, E. microphylla, E. leutei and E. muelleri.;;;;out_of_scope;0;;;;;grey;
+c004;61;E. muelleri;During the field trip the following species were confirmed in the area: Epipactis helleborine, E. microphylla, E. leutei and E. muelleri.;;;;out_of_scope;0;;;;;grey;
+c005;61;Epipactis neglecta;However, Epipactis neglecta known from Štramberk was not found.;;;;out_of_scope;0;;;;;grey;
+c006;61;Epipactis leptochila;Epipactis leptochila aggregate requires further study and more detailed comparison of Central European populations is necessary.;;;;out_of_scope;0;;;;;grey;
+c007;61;Epipactis leptochila agg.;Keywords: Epipactis leptochila agg., floristic data, north-eastern Moravia, Orchidaceae;;;;out_of_scope;0;;;;;grey;
+c008;61;Epipactis helleborine;Ve Štramberku a jeho okolí byly v prùbìhu naší exkurze potvrzeny tyto druhy kruštíkù: kruštík širolistı (Epipactis helleborine), k. drobnolistı (E. microphylla), k. podhorskı (E. leutei) a k. rùkatı (E. muelleri).;;;;narrative;;;;;;red;
+c009;61;E. microphylla;Ve Štramberku a jeho okolí byly v prùbìhu naší exkurze potvrzeny tyto druhy kruštíkù: kruštík širolistı (Epipactis helleborine), k. drobnolistı (E. microphylla), k. podhorskı (E. leutei) a k. rùkatı (E. muelleri).;;;;narrative;;;;;;red;
+c010;62;E. leutei;Ve Štramberku a jeho okolí byly v prùbìhu naší exkurze potvrzeny tyto druhy kruštíkù: kruštík širolistı (Epipactis helleborine), k. drobnolistı (E. microphylla), k. podhorskı (E. leutei) a k. rùkatı (E. muelleri).;;;;narrative;;;;;;red;
+c011;62;E. muelleri;Ve Štramberku a jeho okolí byly v prùbìhu naší exkurze potvrzeny tyto druhy kruštíkù: kruštík širolistı (Epipactis helleborine), k. drobnolistı (E. microphylla), k. podhorskı (E. leutei) a k. rùkatı (E. muelleri).;;;;narrative;;;;;;red;
+c012;62;Epipactis helleborine;Epipactis helleborine (5 jedincù);ZMSP7_61-65_O0001 | ZMSP7_61-65_O0011;L001 Štramberk, okraj NPP Šipka (mimo chránìné území), podél stezky na V st | L006 Štramberk, západní strana vrchu Kocvínek;–;species_list;1;1;;;;green;76a. Moravská brána vlastní, 6474b, Štramberk (distr. Novı Jièín): okraj NPP Šipka (mimo chránìné území), podé
+c013;62;E. muelleri;E. muelleri (4 jedinci).;ZMSP7_61-65_O0002;L001 Štramberk, okraj NPP Šipka (mimo chránìné území), podél stezky na V st;–;species_list;1;1;;;parser read the name as Epipactis muelleri · flags: ABBREV_GENUS;green;76a. Moravská brána vlastní, 6474b, Štramberk (distr. Novı Jièín): okraj NPP Šipka (mimo chránìné území), podé
+c014;62;Epipactis helleborine;Epipactis helleborine (2 jedinci);ZMSP7_61-65_O0003;L002 Štramberk, NPP Šipka, lesní porost pod sochou sv. Václava;–;species_list;1;1;;;;green;76a. Moravská brána vlastní, 6474b, Štramberk (distr. Novı Jièín): NPP Šipka, lesní porost pod sochou sv. Václ
+c015;62;E. muelleri;E. muelleri (2 jedinci).;ZMSP7_61-65_O0004;L002 Štramberk, NPP Šipka, lesní porost pod sochou sv. Václava;–;species_list;1;1;;;parser read the name as Epipactis muelleri · flags: ABBREV_GENUS;green;76a. Moravská brána vlastní, 6474b, Štramberk (distr. Novı Jièín): NPP Šipka, lesní porost pod sochou sv. Václ
+c016;62;Epipactis muelleri;Epipactis muelleri (1 jedinec).;;;;species_list;;;;;;red;76a. Moravská brána vlastní, 6474b, Štramberk (distr. Novı Jièín): NPP Šipka, lesní porost poblí Jurova kamen
+c017;62;Epipactis leutei;Epipactis leutei (17 jedincù);ZMSP7_61-65_O0006;L004 Štramberk, NPP Šipka, Z svah Kotouèe, buèina, suovisko;–;species_list;1;1;;;;green;76a. Moravská brána vlastní, 6474b, Štramberk (distr. Novı Jièín): NPP Šipka, Z svah Kotouèe, buèina, suovisk
+c018;62;E. microphylla;E. microphylla (25 jedincù roztroušenì).;ZMSP7_61-65_O0007;L004 Štramberk, NPP Šipka, Z svah Kotouèe, buèina, suovisko;–;species_list;1;1;;;parser read the name as Epipactis microphylla · flags: ABBREV_GENUS;green;76a. Moravská brána vlastní, 6474b, Štramberk (distr. Novı Jièín): NPP Šipka, Z svah Kotouèe, buèina, suovisk
+c019;62;Epipactis helleborine;Epipactis helleborine (8 jedincù);ZMSP7_61-65_O0008;L005 Štramberk, NPP Šipka, Z svah Kotouèe, buèina;–;species_list;1;1;;;;green;76a. Moravská brána vlastní, 6474b, Štramberk (distr. Novı Jièín): NPP Šipka, Z svah Kotouèe, buèina, 49°35'01
+c020;62;E. leutei;E. leutei (1 jedinec);ZMSP7_61-65_O0009;L005 Štramberk, NPP Šipka, Z svah Kotouèe, buèina;–;species_list;1;1;;;parser read the name as Epipactis leutei · flags: ABBREV_GENUS;green;76a. Moravská brána vlastní, 6474b, Štramberk (distr. Novı Jièín): NPP Šipka, Z svah Kotouèe, buèina, 49°35'01
+c021;62;E. microphylla;E. microphylla (nìkolik desítek jedincù).;ZMSP7_61-65_O0010;L005 Štramberk, NPP Šipka, Z svah Kotouèe, buèina;–;species_list;1;1;;;parser read the name as Epipactis microphylla · flags: ABBREV_GENUS;green;76a. Moravská brána vlastní, 6474b, Štramberk (distr. Novı Jièín): NPP Šipka, Z svah Kotouèe, buèina, 49°35'01
+c022;62;Epipactis helleborine;Epipactis helleborine (5 jedincù);;;;species_list;;;;;;red;"76a. Moravská brána vlastní, 6474b, Štramberk (distr. Novı Jièín): západní strana vrchu Kocvínek, 49°35'46,6""N"
+c023;62;E. microphylla;E. microphylla (10 jedincù).;ZMSP7_61-65_O0012;L006 Štramberk, západní strana vrchu Kocvínek;–;species_list;1;1;;;parser read the name as Epipactis microphylla · flags: ABBREV_GENUS;green;"76a. Moravská brána vlastní, 6474b, Štramberk (distr. Novı Jièín): západní strana vrchu Kocvínek, 49°35'46,6""N"
+c024;62;Epipactis helleborine;Epipactis helleborine (4 jedinci);ZMSP7_61-65_O0013;L007 Kopøivnice, Raškùv kámen, suovisko pod patou skalního útvaru, les;–;species_list;1;1;;;;green;76a. Moravská brána vlastní, 6474b, Kopøivnice (distr. Novı Jièín): Raškùv kámen, suovisko pod patou skalního
+c025;62;E. leutei;E. leutei (2 jedinci).;ZMSP7_61-65_O0014;L007 Kopøivnice, Raškùv kámen, suovisko pod patou skalního útvaru, les;–;species_list;1;1;;;parser read the name as Epipactis leutei · flags: ABBREV_GENUS;green;76a. Moravská brána vlastní, 6474b, Kopøivnice (distr. Novı Jièín): Raškùv kámen, suovisko pod patou skalního
+P001;62;(no taxon);"76a. Moravská brána vlastní, 6474b, Štramberk (distr. Novı Jièín): NPP Šipka, lesní porost poblí Jurova kamene, 49°35'06,8""N, 18°07'05,9""E, 496 m n. m.";ZMSP7_61-65_O0005;L003 Štramberk, NPP Šipka, lesní porost poblí Jurova kamene;–;detailed_record;1;1;;;parser row not linked to a harvested name · flags: MULTI_INTERPRETATION;green;
+c026;63;Epipactis microphylla;Kvìtnatá buèina na západním svahu Kotouèe – lokalita kruštíku drobnolistého (Epipactis microphylla) a k. podhorského (E. leutei), 10. 6. 2007. – Foto P. Kocián;;;;narrative;;;;;;red;
+c027;63;E. leutei;Kvìtnatá buèina na západním svahu Kotouèe – lokalita kruštíku drobnolistého (Epipactis microphylla) a k. podhorského (E. leutei), 10. 6. 2007. – Foto P. Kocián;;;;narrative;;;;;;red;
+c028;63;Epipactis microphylla;Kruštík drobnolistı (Epipactis microphylla): (a) na lesní cestièce západního svahu Kotouèe, 10. 6. 2007, (b) detail kvìtu, západní svah Kotouèe, 20. 6. 2006. – Foto P. Kocián;;;;out_of_scope;0;;;;;grey;
+c029;64;Epipactis leutei;Kruštík podhorskı (Epipactis leutei): (a) celá rostlina, (b) detail kvìtu, západní svah Kotouèe, 17. 7. 2006. – Foto P. Kocián;;;;out_of_scope;0;;;;;grey;
+c030;64;Epipactis leptochila;Kruštík podhorskı (obr. 3) je druh z okruhu Epipactis leptochila, kterı byl poprvé ve Štramberku nalezen P. Pavlíkem v roce 2005 v lesíku Grosmanka ve vıchodní èásti dobıvacího prostoru lomu Kotouè a dále na vrchu Kocvínek (Pavlík 2006).;;;;narrative;;;;;;red;
+c031;64;Epipactis neglecta;Kruštík pøehlíenı (Epipactis neglecta), druh z okruhu Epipactis leptochila, je sice ze Štramberku udávanı (napø.;;;;narrative;;;;;;red;
+c032;64;Epipactis leptochila;Kruštík pøehlíenı (Epipactis neglecta), druh z okruhu Epipactis leptochila, je sice ze Štramberku udávanı (napø.;;;;narrative;;;;;;red;
+c033;65;Epipactis neglecta;Kruštík pøehlíenı (Epipactis neglecta) jsme však nezaznamenali.;;;;narrative;;;;;;red;
+c034;65;Epipactis leptochila;Kruštíky z okruhu Epipactis leptochila vyadují další studium a bude potøeba detailnìjšího srovnání støedoevropskıch populací (Mereïa sen., in prep.).;;;;narrative;;;;;;red;
+ARTICLE;;;;;;;;;;;;optional: correction 'date=YYYY-MM-DD' = the date of every record of this article whose date is neither confirmed (date_ok=1) nor corrected;;
+M01;;;;;;;;;;;;;;
+M02;;;;;;;;;;;;;;
+M03;;;;;;;;;;;;;;
+M04;;;;;;;;;;;;;;
+M05;;;;;;;;;;;;;;
+M06;;;;;;;;;;;;;;
+M07;;;;;;;;;;;;;;
+M08;;;;;;;;;;;;;;
+M09;;;;;;;;;;;;;;
+M10;;;;;;;;;;;;;;
+M11;;;;;;;;;;;;;;
+M12;;;;;;;;;;;;;;
+M13;;;;;;;;;;;;;;
+M14;;;;;;;;;;;;;;
+M15;;;;;;;;;;;;;;
+M16;;;;;;;;;;;;;;
+M17;;;;;;;;;;;;;;
+M18;;;;;;;;;;;;;;
+M19;;;;;;;;;;;;;;
+M20;;;;;;;;;;;;;;
+M21;;;;;;;;;;;;;;
+M22;;;;;;;;;;;;;;
+M23;;;;;;;;;;;;;;
+M24;;;;;;;;;;;;;;
+M25;;;;;;;;;;;;;;
