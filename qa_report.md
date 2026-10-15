@@ -130,6 +130,10 @@ Each sampled row was compared field by field with its Markdown source line (revi
 
 Overall: 5 errors in 570 field checks (0.88%).
 
+### Recall and precision on the gold standard
+
+Pending: the review packages of the 10 gold articles (tests/gold/review/) have not been checked yet; the traceability checks and the manual sample above measure precision only. See tests/gold/README.md.
+
 ## 4. Review queue
 
 `review_queue.csv` has **3955** rows.

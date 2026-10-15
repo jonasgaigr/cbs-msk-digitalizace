@@ -267,6 +267,14 @@ def main() -> None:
     total_checks = sum(n for _, _, n, _, _ in field_rates)
     total_err = sum(e for _, _, _, e, _ in field_rates)
     L += ["", f"Overall: {total_err} errors in {total_checks} field checks ({total_err / total_checks:.2%}).", ""]
+    L += ["### Recall and precision on the gold standard", ""]
+    gold = ROOT / "tests" / "gold" / "eval_report.md"
+    if gold.exists():
+        # eval.py's report, one heading level down
+        L += [("##" + ln) if ln.startswith("#") else ln for ln in gold.read_text(encoding="utf-8").splitlines()[1:]]
+    else:
+        L += ["Pending: the review packages of the 10 gold articles (tests/gold/review/) have not been checked yet; "
+              "the traceability checks and the manual sample above measure precision only. See tests/gold/README.md.", ""]
     L += ["## 4. Review queue", "", f"`review_queue.csv` has **{len(review)}** rows.", "",
           "| flag | rows |", "|---|---:|"] + [f"| {k} | {v} |" for k, v in rq_flags.most_common()]
     L += ["", "Articles with most review rows: " + ", ".join(f"{k} ({v})" for k, v in rq_by_article.most_common(8)), "",
